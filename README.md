@@ -2,6 +2,13 @@
 
 A collection of papers I am interested in.
 
+## To be read
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization](http://arxiv.org/abs/2103.14862) | arXiv:2103.14862 [cs] |  | 2021 |
+| [Few-Shot Semantic Image Synthesis Using StyleGAN Prior](http://arxiv.org/abs/2103.14877) | arXiv:2103.14877 [cs] |  | 2021 |
+
+## Inversion
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [Unsupervised Image Transformation Learning via Generative Adversarial Networks](http://arxiv.org/abs/2103.07751) | arXiv:2103.07751 [cs] | [github](https://github.com/genforce/trgan) | 2021 |
