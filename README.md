@@ -5,6 +5,7 @@ A collection of papers I am interested in.
 ## To be read
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [Generating Images with Sparse Representations](http://arxiv.org/abs/2103.03841) | arXiv:2103.03841 [cs, stat] |  | 2021 |
 | [A Closer Look at Fourier Spectrum Discrepancies for CNN-Generated Images Detection](http://arxiv.org/abs/2103.17195) | CVPR |  | 2021 |
 | [PiCIE: Unsupervised Semantic Segmentation Using Invariance and Equivariance in Clustering](http://arxiv.org/abs/2103.17070) | CVPR |  | 2021 |
 |FreezeG|| [github](https://github.com/bryandlee/FreezeG) ||
