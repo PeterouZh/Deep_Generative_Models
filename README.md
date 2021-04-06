@@ -28,7 +28,7 @@ A collection of papers I am interested in.
 | [Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](http://arxiv.org/abs/2003.13659) | ECCV | [github](https://github.com/XingangPan/deep-generative-prior) | 2020 |
 
 
-## To be read
+## Spectrum
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [A Closer Look at Fourier Spectrum Discrepancies for CNN-Generated Images Detection](http://arxiv.org/abs/2103.17195) | CVPR |  | 2021 |
