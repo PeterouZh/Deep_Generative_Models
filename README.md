@@ -5,11 +5,12 @@ A collection of papers I am interested in.
 ## To be read
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [GANSpace: Discovering Interpretable GAN Controls](http://arxiv.org/abs/2004.02546) | arXiv:2004.02546 [cs] | [GANSpace](https://github.com/harskish/ganspace) | 2020 |
 | [Improved StyleGAN Embedding: Where Are the Good Latents?](http://arxiv.org/abs/2012.09036) | arXiv:2012.09036 [cs] |  | 2021 |
 | [Regularizing Generative Adversarial Networks under Limited Data](http://arxiv.org/abs/2104.03310) | CVPR | [github](https://github.com/PeterouZh/lecam-gan) | 2021 |
 | [Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9150840/) | CVPRW | [github](https://github.com/haofanwang/Score-CAM) | 2020 |
 | [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](http://arxiv.org/abs/1904.03189) | ICCV |  | 2019 |
-| [Interpreting the Latent Space of GANs for Semantic Face Editing](http://arxiv.org/abs/1907.10786) | CVPR |  | 2020 |
+| [Interpreting the Latent Space of GANs for Semantic Face Editing](http://arxiv.org/abs/1907.10786) | CVPR | [InterFaceGAN](https://github.com/genforce/interfacegan) | 2020 |
 | [Image Demoireing with Learnable Bandpass Filters](http://arxiv.org/abs/2004.00406) | arXiv:2004.00406 [cs] |  | 2020 |
 | [Unveiling the Potential of Structure Preserving for Weakly Supervised Object Localization](http://arxiv.org/abs/2103.04523) | arXiv:2103.04523 [cs] |  | 2021 |
 | [LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions](http://arxiv.org/abs/2104.00820) | arXiv:2104.00820 [cs] |  | 2021 |
