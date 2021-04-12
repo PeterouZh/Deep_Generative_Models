@@ -5,6 +5,7 @@ A collection of papers I am interested in.
 ## To be read
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [Improved StyleGAN Embedding: Where Are the Good Latents?](http://arxiv.org/abs/2012.09036) | arXiv:2012.09036 [cs] |  | 2021 |
 | [Regularizing Generative Adversarial Networks under Limited Data](http://arxiv.org/abs/2104.03310) | CVPR | [github](https://github.com/PeterouZh/lecam-gan) | 2021 |
 | [Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9150840/) | CVPRW | [github](https://github.com/haofanwang/Score-CAM) | 2020 |
 | [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](http://arxiv.org/abs/1904.03189) | ICCV |  | 2019 |
@@ -20,7 +21,6 @@ A collection of papers I am interested in.
 | [Emergence of Object Segmentation in Perturbed Generative Models](http://arxiv.org/abs/1905.12663) | arXiv:1905.12663 [cs] | [github](https://github.com/adambielski/perturbed-seg) | 2019 |
 | [Unsupervised Discovery of DisentangledManifolds in GANs](http://arxiv.org/abs/2011.11842) | arXiv:2011.11842 [cs] | [github](https://github.com/anvoynov/GANLatentDiscovery) | 2020 |
 | [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](http://arxiv.org/abs/2103.17249) | arXiv:2103.17249 [cs] | [github](https://github.com/orpatashnik/StyleCLIP) | 2021 |
-| [Labels4Free: Unsupervised Segmentation Using StyleGAN](http://arxiv.org/abs/2103.14968) | arXiv:2103.14968 [cs] |  | 2021 |
 | [Few-Shot Semantic Image Synthesis Using StyleGAN Prior](http://arxiv.org/abs/2103.14877) | arXiv:2103.14877 [cs] |  | 2021 |
 
 ## Inversion
@@ -48,4 +48,5 @@ A collection of papers I am interested in.
 ## Weakly Supervised Object Localization
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [Labels4Free: Unsupervised Segmentation Using StyleGAN](http://arxiv.org/abs/2103.14968) | arXiv:2103.14968 [cs] |  | 2021 |
 | [TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization](http://arxiv.org/abs/2103.14862) | arXiv:2103.14862 [cs] |  | 2021 |
