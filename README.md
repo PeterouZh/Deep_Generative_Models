@@ -8,8 +8,9 @@ A collection of papers I am interested in.
 
 ## To be read
 |  Title  |   Venue  |Code|Year|
-| [A Simple Baseline for StyleGAN Inversion](http://arxiv.org/abs/2104.07661) | arXiv:2104.07661 [cs] |  | 2021 |
 |:--------|:--------:|:--------:|:--------:|
+| [A Simple Baseline for StyleGAN Inversion](http://arxiv.org/abs/2104.07661) | arXiv:2104.07661 [cs] |  | 2021 |
+| [Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](http://arxiv.org/abs/2104.05833) | arXiv:2104.05833 [cs] |  | 2021 |
 | [Positional Encoding as Spatial Inductive Bias in GANs](http://arxiv.org/abs/2012.05217) | arXiv:2012.05217 [cs] |  | 2020 |
 | [Unsupervised Image-to-Image Translation via Pre-Trained StyleGAN2 Network](http://arxiv.org/abs/2010.05713) | arXiv:2010.05713 [cs] | [github](https://github.com/HideUnderBush/UI2I_via_StyleGAN2) | 2020 |
 | [MobileStyleGAN: A Lightweight Convolutional Neural Network for High-Fidelity Image Synthesis](http://arxiv.org/abs/2104.04767) | arXiv:2104.04767 [cs, eess] |  | 2021 |
