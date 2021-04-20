@@ -21,7 +21,6 @@ A collection of papers I am interested in.
 | [Regularizing Generative Adversarial Networks under Limited Data](http://arxiv.org/abs/2104.03310) | CVPR | [github](https://github.com/PeterouZh/lecam-gan) | 2021 |
 | [Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9150840/) | CVPRW | [github](https://github.com/haofanwang/Score-CAM) | 2020 |
 | [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](http://arxiv.org/abs/1904.03189) | ICCV |  | 2019 |
-| [Interpreting the Latent Space of GANs for Semantic Face Editing](http://arxiv.org/abs/1907.10786) | CVPR | [InterFaceGAN](https://github.com/genforce/interfacegan) | 2020 |
 | [Image Demoireing with Learnable Bandpass Filters](http://arxiv.org/abs/2004.00406) | arXiv:2004.00406 [cs] |  | 2020 |
 | [Unveiling the Potential of Structure Preserving for Weakly Supervised Object Localization](http://arxiv.org/abs/2103.04523) | arXiv:2103.04523 [cs] |  | 2021 |
 | [LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions](http://arxiv.org/abs/2104.00820) | arXiv:2104.00820 [cs] |  | 2021 |
@@ -35,9 +34,10 @@ A collection of papers I am interested in.
 | [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](http://arxiv.org/abs/2103.17249) | arXiv:2103.17249 [cs] | [github](https://github.com/orpatashnik/StyleCLIP) | 2021 |
 | [Few-Shot Semantic Image Synthesis Using StyleGAN Prior](http://arxiv.org/abs/2103.14877) | arXiv:2103.14877 [cs] |  | 2021 |
 
-## Inversion
+## Disentanglement
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [Interpreting the Latent Space of GANs for Semantic Face Editing](http://arxiv.org/abs/1907.10786) | CVPR | [InterFaceGAN](https://github.com/genforce/interfacegan) | 2020 |
 | [Closed-Form Factorization of Latent Semantics in GANs](http://arxiv.org/abs/2007.06600) | arXiv:2007.06600 [cs] | [sefa](https://github.com/genforce/sefa) | 2020 |
 | [StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation](http://arxiv.org/abs/2011.12799) | arXiv:2011.12799 [cs] | [StyleSpace](https://github.com/xrenaa/StyleSpace-pytorch) | 2020 |
 | [Unsupervised Image Transformation Learning via Generative Adversarial Networks](http://arxiv.org/abs/2103.07751) | arXiv:2103.07751 [cs] | [github](https://github.com/genforce/trgan) | 2021 |
