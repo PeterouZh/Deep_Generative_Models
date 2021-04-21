@@ -5,6 +5,7 @@ A collection of papers I am interested in.
 ## Project
 
 - [mmgeneration](https://github.com/open-mmlab/mmgeneration)
+- [inr-gan](https://github.com/universome/inr-gan)
 
 ## To be read
 |  Title  |   Venue  |Code|Year|
