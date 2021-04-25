@@ -50,6 +50,7 @@ A collection of papers I am interested in.
 ## Inversion
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [Dreaming to Distill: Data-Free Knowledge Transfer via DeepInversion](http://arxiv.org/abs/1912.08795) | arXiv:1912.08795 [cs, stat] |  | 2020 |
 | [IMAGINE: Image Synthesis by Image-Guided Model Inversion](http://arxiv.org/abs/2104.05895) | arXiv:2104.05895 [cs] |  | 2021 |
 | [Image Processing Using Multi-Code GAN Prior](http://arxiv.org/abs/1912.07116) | CVPR | [mGANprior](https://github.com/genforce/mganprior) | 2020 |
 | [Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](http://arxiv.org/abs/2003.13659) | ECCV | [DGP](https://github.com/XingangPan/deep-generative-prior) | 2020 |
