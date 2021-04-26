@@ -10,6 +10,7 @@ A collection of papers I am interested in.
 - [awesome-image-translation](https://github.com/weihaox/awesome-image-translation)
 - [awesome-gan-inversion](https://github.com/weihaox/awesome-gan-inversion)
 
+
 ## To be read
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
@@ -67,6 +68,11 @@ A collection of papers I am interested in.
 | [Encoding in Style: A StyleGAN Encoder for Image-to-Image Translation](http://arxiv.org/abs/2008.00951) | arXiv:2008.00951 [cs] |  | 2020 |
 | [Designing an Encoder for StyleGAN Image Manipulation](http://arxiv.org/abs/2102.02766) | arXiv:2102.02766 [cs] |  | 2021 |
 | [ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement](http://arxiv.org/abs/2104.02699) | arXiv:2104.02699 [cs] | [ReStyle](https://github.com/yuval-alaluf/restyle-encoder) | 2021 |
+
+## Survey
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [GAN Inversion: A Survey](http://arxiv.org/abs/2101.05278) | arXiv:2101.05278 [cs] |  | 2021 |
 
 ## StyleGAN
 |  Title  |   Venue  |Code|Year|
