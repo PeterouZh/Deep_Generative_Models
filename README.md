@@ -6,6 +6,7 @@ A collection of papers I am interested in.
 
 - [mmgeneration](https://github.com/open-mmlab/mmgeneration)
 - [inr-gan](https://github.com/universome/inr-gan)
+- [ADA](https://github.com/NVlabs/stylegan2-ada-pytorch)
 - [awesome-image-translation](https://github.com/weihaox/awesome-image-translation)
 - [awesome-gan-inversion](https://github.com/weihaox/awesome-gan-inversion)
 
