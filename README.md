@@ -10,6 +10,7 @@ A collection of papers I am interested in.
 - [awesome-image-translation](https://github.com/weihaox/awesome-image-translation)
 - [awesome-gan-inversion](https://github.com/weihaox/awesome-gan-inversion)
 - [naver-webtoon-faces](https://github.com/bryandlee/naver-webtoon-faces)
+- [GAN Experiments](http://www.nathanshipley.com/gan/#gan-015-toonify-layer-blending)
 
 
 ## To be read
