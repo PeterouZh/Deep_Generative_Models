@@ -84,10 +84,20 @@ A collection of papers I am interested in.
 | [Analyzing and Improving the Image Quality of StyleGAN](http://arxiv.org/abs/1912.04958) | arXiv:1912.04958 [cs, eess, stat] |  | 2019 |
 | [Training Generative Adversarial Networks with Limited Data](http://arxiv.org/abs/2006.06676) | arXiv:2006.06676 [cs, stat] |  | 2020 |
 
+## Style transfer
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html) | CVPR |  | 2016 |
+| [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](http://arxiv.org/abs/1603.08155) | ECCV |  | 2016 |
+| [Texture Networks: Feed-Forward Synthesis of Textures and Stylized Images](http://arxiv.org/abs/1603.03417) | ICML |  | 2016 |
+
+
 ## Metric
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](http://arxiv.org/abs/1801.03924) | arXiv:1801.03924 [cs] | [lpips-pytorch](https://github.com/S-aiueo32/lpips-pytorch) | 2018 |
+| [Generating Images with Perceptual Similarity Metrics Based on Deep Networks](http://arxiv.org/abs/1602.02644) | NeurIPS | Perceptual Similarity | 2016 |
+
 
 ## Spectrum
 |  Title  |   Venue  |Code|Year|
