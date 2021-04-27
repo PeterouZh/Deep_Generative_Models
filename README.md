@@ -87,7 +87,7 @@ A collection of papers I am interested in.
 ## Metric
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
-| [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](http://arxiv.org/abs/1801.03924) | arXiv:1801.03924 [cs] |  | 2018 |
+| [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](http://arxiv.org/abs/1801.03924) | arXiv:1801.03924 [cs] | [lpips-pytorch](https://github.com/S-aiueo32/lpips-pytorch) | 2018 |
 
 ## Spectrum
 |  Title  |   Venue  |Code|Year|
