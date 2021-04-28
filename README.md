@@ -90,6 +90,7 @@ A collection of papers I am interested in.
 ## Style transfer
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [Arbitrary Style Transfer in Real-Time with Adaptive Instance Normalization](http://arxiv.org/abs/1703.06868) | ICCV |  | 2017 |
 | [Texture Synthesis Using Convolutional Neural Networks](http://arxiv.org/abs/1505.07376) | NeurIPS |  | 2015 |
 | [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576) | arXiv:1508.06576 [cs, q-bio] |  | 2015 |
 | [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html) | CVPR |  | 2016 |
