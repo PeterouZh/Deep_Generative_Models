@@ -16,6 +16,9 @@ A collection of papers I am interested in.
 ## To be read
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:
+| [Reproducibility of "FDA: Fourier Domain Adaptation ForSemantic Segmentation](http://arxiv.org/abs/2104.14749) | arXiv:2104.14749 [cs] |  | 2021 |
+| [Explaining in Style: Training a GAN to Explain a Classifier in StyleSpace](http://arxiv.org/abs/2104.13369) | arXiv:2104.13369 [cs, eess, stat] |  | 2021 |
+| [StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-Time Image Editing](http://arxiv.org/abs/2104.14754) | CVPR |  | 2021 |
 | [Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-Trained GAN for Semantic Age Manipulation](http://arxiv.org/abs/2011.00954) | arXiv:2011.00954 [cs] |  | 2021 |
 | [Ensembling with Deep Generative Views](http://arxiv.org/abs/2104.14551) | arXiv:2104.14551 [cs] |  | 2021 |
 | [GANalyze: Toward Visual Definitions of Cognitive Image Properties](http://arxiv.org/abs/1906.10112) | arXiv:1906.10112 [cs] |  | 2019 |
@@ -25,7 +28,6 @@ A collection of papers I am interested in.
 | [EigenGAN: Layer-Wise Eigen-Learning for GANs](http://arxiv.org/abs/2104.12476) | arXiv:2104.12476 [cs, stat] | [EigenGAN](https://github.com/LynnHo/EigenGAN-Tensorflow)  | 2021 |
 | [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](http://arxiv.org/abs/2104.11116) | arXiv:2104.11116 [cs, eess] |  | 2021 |
 | [Unsupervised Image-to-Image Translation via Pre-Trained StyleGAN2 Network](http://arxiv.org/abs/2010.05713) | arXiv:2010.05713 [cs] | [github](https://github.com/HideUnderBush/UI2I_via_StyleGAN2) | 2020 |
-| [Image2StyleGAN++: How to Edit the Embedded Images?](http://arxiv.org/abs/1911.11544) | arXiv:1911.11544 [cs] |  | 2020 |
 | [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort](http://arxiv.org/abs/2104.06490) | arXiv:2104.06490 [cs] |  | 2021 |
 | [Anycost GANs for Interactive Image Synthesis and Editing](https://arxiv.org/abs/2103.03243v1) | CVPR |  | 2021 |
 | [A Simple Baseline for StyleGAN Inversion](http://arxiv.org/abs/2104.07661) | arXiv:2104.07661 [cs] |  | 2021 |
@@ -63,6 +65,7 @@ A collection of papers I am interested in.
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models](http://openaccess.thecvf.com/content_CVPR_2020/html/Menon_PULSE_Self-Supervised_Photo_Upsampling_via_Latent_Space_Exploration_of_Generative_CVPR_2020_paper.html) | CVPR |[PULSE]()  | 2020 |
+| [Image2StyleGAN++: How to Edit the Embedded Images?](http://arxiv.org/abs/1911.11544) | arXiv:1911.11544 [cs] |  | 2020 |
 | [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](http://arxiv.org/abs/1904.03189) | ICCV |  | 2019 |
 | [Inverting The Generator Of A Generative Adversarial Network](http://arxiv.org/abs/1611.05644) | arXiv:1611.05644 [cs] |  | 2016 |
 | [Understanding Deep Image Representations by Inverting Them](http://arxiv.org/abs/1412.0035) | CVPR |  | 2015 |
@@ -71,6 +74,7 @@ A collection of papers I am interested in.
 | [IMAGINE: Image Synthesis by Image-Guided Model Inversion](http://arxiv.org/abs/2104.05895) | arXiv:2104.05895 [cs] |  | 2021 |
 | [Image Processing Using Multi-Code GAN Prior](http://arxiv.org/abs/1912.07116) | CVPR | [mGANprior](https://github.com/genforce/mganprior) | 2020 |
 | [Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](http://arxiv.org/abs/2003.13659) | ECCV | [DGP](https://github.com/XingangPan/deep-generative-prior) | 2020 |
+| [Generative Visual Manipulation on the Natural Image Manifold](http://arxiv.org/abs/1609.03552) | ECCV |  | 2018 |
 
 
 ## Encoder
@@ -129,4 +133,26 @@ A collection of papers I am interested in.
 ## NeRF
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
-| [Neural Volume Rendering: NeRF And Beyond](http://arxiv.org/abs/2101.05204) | arXiv:2101.05204 [cs] |  | 2021 |
+| [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://arxiv.org/abs/2003.08934) | ECCV | [github](https://github.com/yenchenlin/nerf-pytorch)  | 2020 |
+| [Neural Volume Rendering: NeRF And Beyond](http://arxiv.org/abs/2101.05204) | arXiv:2101.05204 [cs] | [github](https://github.com/yenchenlin/awesome-NeRF) | 2021 |
+
+
+## 3D
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs](http://arxiv.org/abs/2011.00844) | arXiv:2011.00844 [cs] | [GAN2Shape](https://github.com/XingangPan/GAN2Shape) | 2021 |
+| [Neural 3D Mesh Renderer](http://arxiv.org/abs/1711.07566) | CVPR |  | 2018 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
