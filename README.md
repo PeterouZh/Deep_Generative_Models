@@ -12,6 +12,19 @@ A collection of papers I am interested in.
 - [naver-webtoon-faces](https://github.com/bryandlee/naver-webtoon-faces)
 - [GAN Experiments](http://www.nathanshipley.com/gan/#gan-015-toonify-layer-blending)
 
+## TOC
+- [To be read](#to-be-read)
+- [Disentanglement](#disentanglement)
+- [Inversion](#inversion)
+- [Encoder](#encoder)
+- [Survey](#survey)
+- [GANs](#gans)
+- [Style transfer](#style-transfer)
+- [Metric](#metric)
+- [Spectrum](#spectrum)
+- [Weakly Supervised Object Localization](#weakly-supervised-object-localization)
+- [NeRF](#nerf)
+- [3D](#3d)
 
 ## To be read
 |  Title  |   Venue  |Code|Year|
