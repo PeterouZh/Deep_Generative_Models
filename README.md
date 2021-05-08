@@ -169,6 +169,12 @@ A collection of papers I am interested in.
 | [Neural 3D Mesh Renderer](http://arxiv.org/abs/1711.07566) | CVPR |  | 2018 |
 
 
+## Transformer
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Training Data-Efficient Image Transformers & Distillation through Attention](http://arxiv.org/abs/2012.12877) | arXiv:2012.12877 [cs] | [deit](https://github.com/facebookresearch/deit) | 2020 |
+
+
 ## ssl
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
