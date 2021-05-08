@@ -29,6 +29,9 @@ A collection of papers I am interested in.
 ## To be read
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:
+| [Perceptual Gradient Networks](http://arxiv.org/abs/2105.01957) | arXiv:2105.01957 [cs] |  | 2021 |
+| [Unconstrained Scene Generation with Locally Conditioned Radiance Fields](https://arxiv.org/abs/2104.00670v1) | arXiv:2104.00670 [cs.CV] |  | 2021 |
+| [StyleGAN2 Distillation for Feed-Forward Image Manipulation](https://arxiv.org/abs/2003.03581v2) | arXiv:2003.03581 [cs.CV] |  | 2020 |
 | [InfinityGAN: Towards Infinite-Resolution Image Synthesis](http://arxiv.org/abs/2104.03963) | arXiv:2104.03963 [cs] |  | 2021 |
 | [Aliasing Is Your Ally: End-to-End Super-Resolution from Raw Image Bursts](http://arxiv.org/abs/2104.06191) | arXiv:2104.06191 [cs, eess] |  | 2021 |
 | [StylePeople: A Generative Model of Fullbody Human Avatars](http://arxiv.org/abs/2104.08363) | arXiv:2104.08363 [cs] |  | 2021 |
