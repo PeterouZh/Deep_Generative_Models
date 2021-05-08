@@ -11,6 +11,7 @@ A collection of papers I am interested in.
 - [awesome-gan-inversion](https://github.com/weihaox/awesome-gan-inversion)
 - [naver-webtoon-faces](https://github.com/bryandlee/naver-webtoon-faces)
 - [GAN Experiments](http://www.nathanshipley.com/gan/#gan-015-toonify-layer-blending)
+- [timm](https://github.com/rwightman/pytorch-image-models)
 
 ## TOC
 - [To be read](#to-be-read)
@@ -168,8 +169,10 @@ A collection of papers I am interested in.
 | [Neural 3D Mesh Renderer](http://arxiv.org/abs/1711.07566) | CVPR |  | 2018 |
 
 
-
-
+## ssl
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Emerging Properties in Self-Supervised Vision Transformers](http://arxiv.org/abs/2104.14294) | arXiv:2104.14294 [cs] | [dino](https://github.com/facebookresearch/dino) | 2021 |
 
 
 
