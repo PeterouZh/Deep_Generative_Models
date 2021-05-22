@@ -12,6 +12,7 @@ A collection of papers I am interested in.
 - [naver-webtoon-faces](https://github.com/bryandlee/naver-webtoon-faces)
 - [GAN Experiments](http://www.nathanshipley.com/gan/#gan-015-toonify-layer-blending)
 - [timm](https://github.com/rwightman/pytorch-image-models)
+- [fun-with-computer-graphics](https://github.com/zheng95z/fun-with-computer-graphics)
 
 ## TOC
 - [To be read](#to-be-read)
@@ -84,20 +85,36 @@ A collection of papers I am interested in.
 | [Unsupervised Image Transformation Learning via Generative Adversarial Networks](http://arxiv.org/abs/2103.07751) | arXiv:2103.07751 [cs] | [github](https://github.com/genforce/trgan) | 2021 |
 | [Resolution Dependent GAN Interpolation for Controllable Image Synthesis Between Domains](http://arxiv.org/abs/2010.05334) | arXiv:2010.05334 [cs] | [toonify](https://github.com/justinpinkney/toonify) | 2020 |
 
-## Inversion
+## Inversion (optimization)
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models](http://openaccess.thecvf.com/content_CVPR_2020/html/Menon_PULSE_Self-Supervised_Photo_Upsampling_via_Latent_Space_Exploration_of_Generative_CVPR_2020_paper.html) | CVPR |[PULSE]()  | 2020 |
 | [Image2StyleGAN++: How to Edit the Embedded Images?](http://arxiv.org/abs/1911.11544) | arXiv:1911.11544 [cs] |  | 2020 |
 | [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](http://arxiv.org/abs/1904.03189) | ICCV |  | 2019 |
 | [Inverting The Generator Of A Generative Adversarial Network](http://arxiv.org/abs/1611.05644) | arXiv:1611.05644 [cs] |  | 2016 |
-| [Understanding Deep Image Representations by Inverting Them](http://arxiv.org/abs/1412.0035) | CVPR |  | 2015 |
 | [Feature-Based Metrics for Exploring the Latent Space of Generative Models](https://openreview.net/forum?id=BJslDBkwG) | ICLRW |  | 2018 |
+| [Understanding Deep Image Representations by Inverting Them](http://arxiv.org/abs/1412.0035) | CVPR |  | 2015 |
 | [Dreaming to Distill: Data-Free Knowledge Transfer via DeepInversion](http://arxiv.org/abs/1912.08795) | arXiv:1912.08795 [cs, stat] | [DeepInversion](https://github.com/NVlabs/DeepInversion) | 2020 |
 | [IMAGINE: Image Synthesis by Image-Guided Model Inversion](http://arxiv.org/abs/2104.05895) | arXiv:2104.05895 [cs] |  | 2021 |
 | [Image Processing Using Multi-Code GAN Prior](http://arxiv.org/abs/1912.07116) | CVPR | [mGANprior](https://github.com/genforce/mganprior) | 2020 |
 | [Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](http://arxiv.org/abs/2003.13659) | ECCV | [DGP](https://github.com/XingangPan/deep-generative-prior) | 2020 |
 | [Generative Visual Manipulation on the Natural Image Manifold](http://arxiv.org/abs/1609.03552) | ECCV |  | 2018 |
+| [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](http://arxiv.org/abs/1811.10597) | arXiv:1811.10597 [cs] |  | 2018 |
+| [GAN-Based Projector for Faster Recovery with Convergence Guarantees in Linear Inverse Problems](http://arxiv.org/abs/1902.09698) | arXiv:1902.09698 [cs, eess, stat] |  | 2019 |
+| [Your Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models](http://openaccess.thecvf.com/content_CVPR_2020/html/Daras_Your_Local_GAN_Designing_Two_Dimensional_Local_Attention_Mechanisms_for_CVPR_2020_paper.html) | CVPR |  | 2020 |
+| [Rewriting a Deep Generative Model](http://arxiv.org/abs/2007.15646) | arXiv:2007.15646 [cs] |  | 2020 |
+| [Transforming and Projecting Images into Class-Conditional Generative Networks](http://arxiv.org/abs/2005.01703) | arXiv:2005.01703 [cs] |  | 2020 |
+| [StyleGAN2 Distillation for Feed-Forward Image Manipulation](https://arxiv.org/abs/2003.03581v2) | arXiv:2003.03581 [cs.CV] |  | 2020 |
+| [On the “Steerability” of Generative Adversarial Networks](http://arxiv.org/abs/1907.07171) | arXiv:1907.07171 [cs] |  | 2020 |
+| [Unsupervised Discovery of DisentangledManifolds in GANs](http://arxiv.org/abs/2011.11842) | arXiv:2011.11842 [cs] |  | 2020 |
+| [PIE: Portrait Image Embedding for Semantic Control](http://arxiv.org/abs/2009.09485) | arXiv:2009.09485 [cs] |  | 2020 |
+| [StyleFlow: Attribute-Conditioned Exploration of StyleGAN-Generated Images Using Conditional Continuous Normalizing Flows](http://arxiv.org/abs/2008.02401) | arXiv:2008.02401 [cs] |  | 2020 |
+| [GANSpace: Discovering Interpretable GAN Controls](http://arxiv.org/abs/2004.02546) | NeurIPS |  | 2020 |
+| [When and How Can Deep Generative Models Be Inverted?](http://arxiv.org/abs/2006.15555) | arXiv:2006.15555 [cs, stat] |  | 2020 |
+| [Style Intervention: How to Achieve Spatial Disentanglement with Style-Based Generators?](http://arxiv.org/abs/2011.09699) | arXiv:2011.09699 [cs] |  | 2020 |
+| [StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation](http://arxiv.org/abs/2011.12799) | arXiv:2011.12799 [cs] |  | 2020 |
+| [Navigating the GAN Parameter Space for Semantic Image Editing](http://arxiv.org/abs/2011.13786) | arXiv:2011.13786 [cs] |  | 2021 |
+
 
 
 ## Encoder
@@ -108,6 +125,31 @@ A collection of papers I am interested in.
 | [In-Domain GAN Inversion for Real Image Editing](http://arxiv.org/abs/2004.00049) | ECCV |  | 2020 |
 | [Designing an Encoder for StyleGAN Image Manipulation](http://arxiv.org/abs/2102.02766) | arXiv:2102.02766 [cs] | [encoder4editing](https://github.com/omertov/encoder4editing) | 2021 |
 | [ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement](http://arxiv.org/abs/2104.02699) | arXiv:2104.02699 [cs] | [ReStyle](https://github.com/yuval-alaluf/restyle-encoder) | 2021 |
+| [StyleRig: Rigging StyleGAN for 3D Control over Portrait Images](http://arxiv.org/abs/2004.00121) | arXiv:2004.00121 [cs] |  | 2020 |
+| [Interpreting the Latent Space of GANs for Semantic Face Editing](http://arxiv.org/abs/1907.10786) | CVPR |  | 2020 |
+| [Face Identity Disentanglement via Latent Space Mapping](http://arxiv.org/abs/2005.07728) | arXiv:2005.07728 [cs] |  | 2020 |
+| [Collaborative Learning for Faster StyleGAN Embedding](http://arxiv.org/abs/2007.01758) | arXiv:2007.01758 [cs] |  | 2020 |
+| [Encoding in Style: A StyleGAN Encoder for Image-to-Image Translation](http://arxiv.org/abs/2008.00951) | arXiv:2008.00951 [cs] |  | 2021 |
+| [Unsupervised Discovery of DisentangledManifolds in GANs](http://arxiv.org/abs/2011.11842) | arXiv:2011.11842 [cs] |  | 2020 |
+
+
+## Hybrid optimization
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Generative Visual Manipulation on the Natural Image Manifold](http://arxiv.org/abs/1609.03552) | ECCV |  | 2018 |
+| [Semantic Photo Manipulation with a Generative Image Prior](https://arxiv.org/abs/2005.07727) | ACM Transactions on Graphics |  | 2019 |
+| [Seeing What a GAN Cannot Generate](http://arxiv.org/abs/1910.11626) | arXiv:1910.11626 [cs, eess] |  | 2019 |
+| [In-Domain GAN Inversion for Real Image Editing](http://arxiv.org/abs/2004.00049) | ECCV |  | 2020 |
+
+
+
+## Without optimization
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Closed-Form Factorization of Latent Semantics in GANs](http://arxiv.org/abs/2007.06600) | arXiv:2007.06600 [cs] |  | 2020 |
+| [GAN “Steerability” without Optimization](http://arxiv.org/abs/2012.05328) | arXiv:2012.05328 [cs] |  | 2021 |
+
+
 
 ## Survey
 |  Title  |   Venue  |Code|Year|
@@ -131,6 +173,7 @@ A collection of papers I am interested in.
 | [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html) | CVPR |  | 2016 |
 | [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](http://arxiv.org/abs/1603.08155) | ECCV |  | 2016 |
 | [Texture Networks: Feed-Forward Synthesis of Textures and Stylized Images](http://arxiv.org/abs/1603.03417) | ICML |  | 2016 |
+| [Attention-Based Stylisation for Exemplar Image Colourisation](http://arxiv.org/abs/2105.01705) | arXiv:2105.01705 [cs, eess] |  | 2021 |
 
 
 ## Metric
@@ -138,6 +181,7 @@ A collection of papers I am interested in.
 |:--------|:--------:|:--------:|:--------:|
 | [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](http://arxiv.org/abs/1801.03924) | arXiv:1801.03924 [cs] | [lpips-pytorch](https://github.com/S-aiueo32/lpips-pytorch) | 2018 |
 | [Generating Images with Perceptual Similarity Metrics Based on Deep Networks](http://arxiv.org/abs/1602.02644) | NeurIPS | Perceptual Similarity | 2016 |
+| [Generic Perceptual Loss for Modeling Structured Output Dependencies](http://arxiv.org/abs/2103.10571) | CVPR |  | 2021 |
 
 
 ## Spectrum
