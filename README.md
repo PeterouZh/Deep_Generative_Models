@@ -85,7 +85,15 @@ A collection of papers I am interested in.
 | [Unsupervised Image Transformation Learning via Generative Adversarial Networks](http://arxiv.org/abs/2103.07751) | arXiv:2103.07751 [cs] | [github](https://github.com/genforce/trgan) | 2021 |
 | [Resolution Dependent GAN Interpolation for Controllable Image Synthesis Between Domains](http://arxiv.org/abs/2010.05334) | arXiv:2010.05334 [cs] | [toonify](https://github.com/justinpinkney/toonify) | 2020 |
 
-## Inversion (optimization)
+### Semantic hierarchy
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis](http://arxiv.org/abs/1911.09267) | arXiv:1911.09267 [cs] |  | 2020 |
+
+
+## Inversion
+
+###  Optimization
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models](http://openaccess.thecvf.com/content_CVPR_2020/html/Menon_PULSE_Self-Supervised_Photo_Upsampling_via_Latent_Space_Exploration_of_Generative_CVPR_2020_paper.html) | CVPR |[PULSE]()  | 2020 |
@@ -108,16 +116,17 @@ A collection of papers I am interested in.
 | [On the “Steerability” of Generative Adversarial Networks](http://arxiv.org/abs/1907.07171) | arXiv:1907.07171 [cs] |  | 2020 |
 | [Unsupervised Discovery of DisentangledManifolds in GANs](http://arxiv.org/abs/2011.11842) | arXiv:2011.11842 [cs] |  | 2020 |
 | [PIE: Portrait Image Embedding for Semantic Control](http://arxiv.org/abs/2009.09485) | arXiv:2009.09485 [cs] |  | 2020 |
-| [StyleFlow: Attribute-Conditioned Exploration of StyleGAN-Generated Images Using Conditional Continuous Normalizing Flows](http://arxiv.org/abs/2008.02401) | arXiv:2008.02401 [cs] |  | 2020 |
 | [GANSpace: Discovering Interpretable GAN Controls](http://arxiv.org/abs/2004.02546) | NeurIPS |  | 2020 |
 | [When and How Can Deep Generative Models Be Inverted?](http://arxiv.org/abs/2006.15555) | arXiv:2006.15555 [cs, stat] |  | 2020 |
 | [Style Intervention: How to Achieve Spatial Disentanglement with Style-Based Generators?](http://arxiv.org/abs/2011.09699) | arXiv:2011.09699 [cs] |  | 2020 |
 | [StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation](http://arxiv.org/abs/2011.12799) | arXiv:2011.12799 [cs] |  | 2020 |
 | [Navigating the GAN Parameter Space for Semantic Image Editing](http://arxiv.org/abs/2011.13786) | arXiv:2011.13786 [cs] |  | 2021 |
+| [Mask-Guided Discovery of Semantic Manifolds in Generative Models](http://arxiv.org/abs/2105.07273) | arXiv:2105.07273 [cs] | [masked-gan-manifold](https://github.com/bmolab/masked-gan-manifold) | 2021 |
+| [StyleFlow: Attribute-Conditioned Exploration of StyleGAN-Generated Images Using Conditional Continuous Normalizing Flows](http://arxiv.org/abs/2008.02401) | arXiv:2008.02401 [cs] | [StyleFlow](https://github.com/RameenAbdal/StyleFlow) | 2020 |
 
 
 
-## Encoder
+### Encoder
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution](http://arxiv.org/abs/2012.00739) | arXiv:2012.00739 [cs] |[GLEAN]()  | 2020 |
@@ -129,11 +138,14 @@ A collection of papers I am interested in.
 | [Interpreting the Latent Space of GANs for Semantic Face Editing](http://arxiv.org/abs/1907.10786) | CVPR |  | 2020 |
 | [Face Identity Disentanglement via Latent Space Mapping](http://arxiv.org/abs/2005.07728) | arXiv:2005.07728 [cs] |  | 2020 |
 | [Collaborative Learning for Faster StyleGAN Embedding](http://arxiv.org/abs/2007.01758) | arXiv:2007.01758 [cs] |  | 2020 |
-| [Encoding in Style: A StyleGAN Encoder for Image-to-Image Translation](http://arxiv.org/abs/2008.00951) | arXiv:2008.00951 [cs] |  | 2021 |
 | [Unsupervised Discovery of DisentangledManifolds in GANs](http://arxiv.org/abs/2011.11842) | arXiv:2011.11842 [cs] |  | 2020 |
+| [Generative Hierarchical Features from Synthesizing Images](http://arxiv.org/abs/2007.10379) | arXiv:2007.10379 [cs] |  | 2020 |
+| [One Shot Face Swapping on Megapixels](http://arxiv.org/abs/2105.04932) | arXiv:2105.04932 [cs] |  | 2021 |
+| [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://arxiv.org/abs/2105.06070v1) | 2021 |
+| [Adversarial Latent Autoencoders](http://openaccess.thecvf.com/content_CVPR_2020/html/Pidhorskyi_Adversarial_Latent_Autoencoders_CVPR_2020_paper.html) | CVPR | [ALAE](https://github.com/podgorskiy/ALAE) | 2020 |
+| [Encoding in Style: A StyleGAN Encoder for Image-to-Image Translation](http://arxiv.org/abs/2008.00951) | arXiv:2008.00951 [cs] | [psp](https://github.com/eladrich/pixel2style2pixel) | 2021 |
 
-
-## Hybrid optimization
+### Hybrid optimization
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [Generative Visual Manipulation on the Natural Image Manifold](http://arxiv.org/abs/1609.03552) | ECCV |  | 2018 |
@@ -143,12 +155,17 @@ A collection of papers I am interested in.
 
 
 
-## Without optimization
+### Without optimization
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [Closed-Form Factorization of Latent Semantics in GANs](http://arxiv.org/abs/2007.06600) | arXiv:2007.06600 [cs] |  | 2020 |
 | [GAN “Steerability” without Optimization](http://arxiv.org/abs/2012.05328) | arXiv:2012.05328 [cs] |  | 2021 |
 
+
+### Cls
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Contrastive Model Inversion for Data-Free Knowledge Distillation](http://arxiv.org/abs/2105.08584) | arXiv:2105.08584 [cs] |  | 2021 |
 
 
 ## Survey
@@ -163,6 +180,32 @@ A collection of papers I am interested in.
 | [A Style-Based Generator Architecture for Generative Adversarial Networks](http://arxiv.org/abs/1812.04948) | CVPR |  | 2019 |
 | [Analyzing and Improving the Image Quality of StyleGAN](http://arxiv.org/abs/1912.04958) | arXiv:1912.04958 [cs, eess, stat] |  | 2019 |
 | [Training Generative Adversarial Networks with Limited Data](http://arxiv.org/abs/2006.06676) | arXiv:2006.06676 [cs, stat] |  | 2020 |
+
+### SinGAN
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [ExSinGAN: Learning an Explainable Generative Model from a Single Image](http://arxiv.org/abs/2105.07350) | arXiv:2105.07350 [cs] |  | 2021 |
+
+
+## GAN application
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch and Color](http://arxiv.org/abs/1902.06838) | arXiv:1902.06838 [cs] |  | 2019 |
+
+
+## Image-to-Image Translation
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Image-to-Image Translation with Conditional Adversarial Networks](http://arxiv.org/abs/1611.07004) | CVPR | [pix2pix]()  | 2017 |
+| [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](http://arxiv.org/abs/1711.11585) | CVPR | [pix2pix-HD]() | 2018 |
+| [Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks](http://arxiv.org/abs/1703.10593) | ICCV | [CycleGAN]() | 2017 |
+| [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](http://arxiv.org/abs/1711.09020) | CVPR |  | 2018 |
+| [StarGAN v2: Diverse Image Synthesis for Multiple Domains](http://arxiv.org/abs/1912.01865) | CVPR |  | 2020 |
+| [Multimodal Unsupervised Image-to-Image Translation](http://arxiv.org/abs/1804.04732) | arXiv:1804.04732 [cs, stat] | [MUNIT]()  | 2018 |
+| [High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network](http://arxiv.org/abs/2105.09188) | arXiv:2105.09188 [cs] |  | 2021 |
+
+
+
 
 ## Style transfer
 |  Title  |   Venue  |Code|Year|
@@ -195,6 +238,7 @@ A collection of papers I am interested in.
 |:--------|:--------:|:--------:|:--------:|
 | [Labels4Free: Unsupervised Segmentation Using StyleGAN](http://arxiv.org/abs/2103.14968) | arXiv:2103.14968 [cs] |  | 2021 |
 | [TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization](http://arxiv.org/abs/2103.14862) | arXiv:2103.14862 [cs] |  | 2021 |
+| [Finding an Unsupervised Image Segmenter in Each of Your Deep Generative Models](http://arxiv.org/abs/2105.08127) | arXiv:2105.08127 [cs] |  | 2021 |
 
 
 ## NeRF
@@ -202,6 +246,8 @@ A collection of papers I am interested in.
 |:--------|:--------:|:--------:|:--------:|
 | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://arxiv.org/abs/2003.08934) | ECCV | [github](https://github.com/yenchenlin/nerf-pytorch)  | 2020 |
 | [Neural Volume Rendering: NeRF And Beyond](http://arxiv.org/abs/2101.05204) | arXiv:2101.05204 [cs] | [github](https://github.com/yenchenlin/awesome-NeRF) | 2021 |
+| [Editing Conditional Radiance Fields](http://arxiv.org/abs/2105.06466) | arXiv:2105.06466 [cs] | [editnerf](https://github.com/stevliu/editnerf) | 2021 |
+| [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](http://arxiv.org/abs/2011.12100) | arXiv:2011.12100 [cs] |  | 2021 |
 
 
 ## 3D
@@ -211,6 +257,7 @@ A collection of papers I am interested in.
 | [Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild](http://arxiv.org/abs/1911.11130) | arXiv:1911.11130 [cs] |[unsup3d](https://github.com/elliottwu/unsup3d)  | 2020 |
 | [Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs](http://arxiv.org/abs/2011.00844) | arXiv:2011.00844 [cs] | [GAN2Shape](https://github.com/XingangPan/GAN2Shape) | 2021 |
 | [Neural 3D Mesh Renderer](http://arxiv.org/abs/1711.07566) | CVPR |  | 2018 |
+| [Fast-GANFIT: Generative Adversarial Network for High Fidelity 3D Face Reconstruction](http://arxiv.org/abs/2105.07474) | arXiv:2105.07474 [cs] |  | 2021 |
 
 
 ## Transformer
