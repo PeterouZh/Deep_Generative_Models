@@ -48,7 +48,7 @@ A collection of papers I am interested in.
 - [NeRF](#nerf)
 - [3D](#3d)
 
-## To be read
+## arXiv
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:
 | [Perceptual Gradient Networks](http://arxiv.org/abs/2105.01957) | arXiv:2105.01957 [cs] |  | 2021 |
