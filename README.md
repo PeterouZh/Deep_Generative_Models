@@ -17,9 +17,10 @@ A collection of papers I am interested in.
 ### Face
 - [StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada)
 - [RetrieveInStyle](https://github.com/mchong6/RetrieveInStyle)
+- [View_Neural_Talking_Head_Synthesis](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis)
+- [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch)
 
 ### 3D 
-- [pi-GAN](https://github.com/marcoamonteiro/pi-GAN)
 - [face3d](https://github.com/YadiraF/face3d)
 
 ### Tools
@@ -29,6 +30,8 @@ A collection of papers I am interested in.
 - [streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas)
 - [face-alignment](https://github.com/1adrianb/face-alignment)
 
+### StyleGAN
+- [awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
 
 ### Style transfer
 - [style-transfer-pytorch](https://github.com/crowsonkb/style-transfer-pytorch)
@@ -118,7 +121,6 @@ A collection of papers I am interested in.
 | [Dreaming to Distill: Data-Free Knowledge Transfer via DeepInversion](http://arxiv.org/abs/1912.08795) | arXiv:1912.08795 [cs, stat] | [DeepInversion](https://github.com/NVlabs/DeepInversion) | 2020 |
 | [IMAGINE: Image Synthesis by Image-Guided Model Inversion](http://arxiv.org/abs/2104.05895) | arXiv:2104.05895 [cs] |  | 2021 |
 | [Image Processing Using Multi-Code GAN Prior](http://arxiv.org/abs/1912.07116) | CVPR | [mGANprior](https://github.com/genforce/mganprior) | 2020 |
-| [Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](http://arxiv.org/abs/2003.13659) | ECCV | [DGP](https://github.com/XingangPan/deep-generative-prior) | 2020 |
 | [Generative Visual Manipulation on the Natural Image Manifold](http://arxiv.org/abs/1609.03552) | ECCV |  | 2018 |
 | [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](http://arxiv.org/abs/1811.10597) | arXiv:1811.10597 [cs] |  | 2018 |
 | [GAN-Based Projector for Faster Recovery with Convergence Guarantees in Linear Inverse Problems](http://arxiv.org/abs/1902.09698) | arXiv:1902.09698 [cs, eess, stat] |  | 2019 |
@@ -145,6 +147,8 @@ A collection of papers I am interested in.
 | [Retrieve in Style: Unsupervised Facial Feature Transfer and Retrieval](http://arxiv.org/abs/2107.06256) | arXiv:2107.06256 [cs] | [RetrieveInStyle](https://github.com/mchong6/RetrieveInStyle) | 2021 |
 | [StyleCariGAN: Caricature Generation via StyleGAN Feature Map Modulation](http://arxiv.org/abs/2107.04331) | arXiv:2107.04331 [cs] |  | 2021 |
 | [A Simple Baseline for StyleGAN Inversion](http://arxiv.org/abs/2104.07661) | arXiv:2104.07661 [cs] |  | 2021 |
+| [From Continuity to Editability: Inverting GANs with Consecutive Images](http://arxiv.org/abs/2107.13812) | arXiv:2107.13812 [cs] |  | 2021 |
+| [AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning]() | ACM Transactions on Graphics (Proc. SIGGRAPH) |  | 2021 |
 
 
 ### Encoder
@@ -189,6 +193,13 @@ A collection of papers I am interested in.
 | [Low-Rank Subspaces in GANs](http://arxiv.org/abs/2106.04488) | arXiv:2106.04488 [cs] |  | 2021 |
 | [LARGE: Latent-Based Regression through GAN Semantics](http://arxiv.org/abs/2107.11186) | arXiv:2107.11186 [cs] |  | 2021 |
 
+### DGP
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](http://arxiv.org/abs/2003.13659) | ECCV | [DGP](https://github.com/XingangPan/deep-generative-prior) | 2020 |
+| [Unsupervised Portrait Shadow Removal via Generative Priors](http://arxiv.org/abs/2108.03466) | arXiv:2108.03466 [cs] |  | 2021 |
+| [Towards Real-World Blind Face Restoration with Generative Facial Prior](http://arxiv.org/abs/2101.04061) | CVPR | [GFPGAN](https://github.com/TencentARC/GFPGAN) | 2021 |
+
 
 ### Cls
 |  Title  |   Venue  |Code|Year|
@@ -219,12 +230,12 @@ A collection of papers I am interested in.
 | [A Style-Based Generator Architecture for Generative Adversarial Networks](http://arxiv.org/abs/1812.04948) | CVPR |  | 2019 |
 | [Analyzing and Improving the Image Quality of StyleGAN](http://arxiv.org/abs/1912.04958) | arXiv:1912.04958 [cs, eess, stat] |  | 2019 |
 | [Training Generative Adversarial Networks with Limited Data](http://arxiv.org/abs/2006.06676) | arXiv:2006.06676 [cs, stat] |  | 2020 |
-| [Alias-Free Generative Adversarial Networks](http://arxiv.org/abs/2106.12423) | arXiv:2106.12423 [cs, stat] | [alias-free-gan](https://github.com/NVlabs/alias-free-gan) | 2021 |
+| [Alias-Free Generative Adversarial Networks](http://arxiv.org/abs/2106.12423) | arXiv:2106.12423 [cs, stat] | [alias-free-gan](https://github.com/NVlabs/alias-free-gan), [rep2](https://github.com/duskvirkus/alias-free-gan) | 2021 |
 | [Transforming the Latent Space of StyleGAN for Real Face Editing](http://arxiv.org/abs/2105.14230) | arXiv:2105.14230 [cs] | [TransStyleGAN](https://github.com/AnonSubm2021/TransStyleGAN) | 2021 |
 | [MobileStyleGAN: A Lightweight Convolutional Neural Network for High-Fidelity Image Synthesis](http://arxiv.org/abs/2104.04767) | arXiv:2104.04767 [cs, eess] | [MobileStyleGAN](https://github.com/bes-dev/MobileStyleGAN.pytorch) | 2021 |
 | [Few-Shot Image Generation via Cross-Domain Correspondence](http://arxiv.org/abs/2104.06820) | CVPR | [few-shot-gan-adaptation](https://github.com/utkarshojha/few-shot-gan-adaptation) | 2021 |
 | [EigenGAN: Layer-Wise Eigen-Learning for GANs](http://arxiv.org/abs/2104.12476) | arXiv:2104.12476 [cs, stat] | [EigenGAN](https://github.com/LynnHo/EigenGAN-Tensorflow)  | 2021 |
-| [Toward Spatially Unbiased Generative Models](http://arxiv.org/abs/2108.01285) | ICCV | [toward_spatial_unbiased](https://github.com/jychoi118/toward_spatial_unbiased) | 2021 |
+| :heart: [Toward Spatially Unbiased Generative Models](http://arxiv.org/abs/2108.01285) | ICCV | [toward_spatial_unbiased](https://github.com/jychoi118/toward_spatial_unbiased) | 2021 |
 
 
 ### SinGAN
@@ -251,6 +262,13 @@ A collection of papers I am interested in.
 | :white_check_mark: [Freeze the Discriminator: A Simple Baseline for Fine-Tuning GANs](http://arxiv.org/abs/2002.10964) | arXiv:2002.10964 [cs, stat] | [FreezeD](https://github.com/sangwoomo/FreezeD) | 2020 |
 | [A Good Image Generator Is What You Need for High-Resolution Video Synthesis](http://arxiv.org/abs/2104.15069) | ICLR |  | 2021 |
 
+## DDPM
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2108.02938) | ICCV |  | 2021 |
+| [Diffusion Models Beat GANs on Image Synthesis](http://arxiv.org/abs/2105.05233) | arXiv:2105.05233 [cs, stat] | [guided-diffusion](https://github.com/openai/guided-diffusion) | 2021 |
+
+
 
 ## GAN application
 |  Title  |   Venue  |Code|Year|
@@ -272,7 +290,7 @@ A collection of papers I am interested in.
 | [High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network](http://arxiv.org/abs/2105.09188) | arXiv:2105.09188 [cs] |  | 2021 |
 | [MixerGAN: An MLP-Based Architecture for Unpaired Image-to-Image Translation](http://arxiv.org/abs/2105.14110) | arXiv:2105.14110 [cs] |  | 2021 |
 | [GANs N’ Roses: Stable, Controllable, Diverse Image to Image Translation (Works for Videos Too!)](http://arxiv.org/abs/2106.06561) | arXiv:2106.06561 [cs] |  | 2021 |
-| [Sketch Your Own GAN](http://arxiv.org/abs/2108.02774) | ICCV |  | 2021 |
+| :heart: [Sketch Your Own GAN](http://arxiv.org/abs/2108.02774) | ICCV |  | 2021 |
 
 
 
@@ -290,6 +308,9 @@ A collection of papers I am interested in.
 | [StyleBank: An Explicit Representation for Neural Image Style Transfer](https://arxiv.org/abs/1703.09210v2) | | [Stylebank](https://github.com/jxcodetw/Stylebank) | 2017 |
 | [Rethinking and Improving the Robustness of Image Style Transfer](http://arxiv.org/abs/2104.05623) | arXiv:2104.05623 [cs, eess] |  | 2021 |
 | [Paint Transformer: Feed Forward Neural Painting with Stroke Prediction](http://arxiv.org/abs/2108.03798) | ICCV |  | 2021 |
+| :heart: [AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer](http://arxiv.org/abs/2108.03647) | ICCV |  | 2021 |
+| [ZiGAN: Fine-Grained Chinese Calligraphy Font Generation via a Few-Shot Style Transfer Approach](http://arxiv.org/abs/2108.03596) | arXiv:2108.03596 [cs] |  | 2021 |
+| [Learning to Cartoonize Using White-Box Cartoon Representations](https://ieeexplore.ieee.org/document/9157493/) | CVPR | [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) | 2020 |
 
 
 ## Metric
@@ -322,6 +343,7 @@ A collection of papers I am interested in.
 
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| :heart: [Neural Image Representations for Multi-Image Fusion and Layer Separation](http://arxiv.org/abs/2108.01199) | arXiv:2108.01199 [cs] |  | 2021 |
 
 
 ## NeRF
@@ -369,6 +391,7 @@ A collection of papers I am interested in.
 | [GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](http://arxiv.org/abs/2007.02442) | arXiv:2007.02442 [cs] |  | 2021 |
 | [CAMPARI: Camera-Aware Decomposed Generative Neural Radiance Fields](http://arxiv.org/abs/2103.17269) | arXiv:2103.17269 [cs] |  | 2021 |
 | [GNeRF: GAN-Based Neural Radiance Field without Posed Camera](http://arxiv.org/abs/2103.15606) | arXiv:2103.15606 [cs] |  | 2021 |
+| :heart: [Unconstrained Scene Generation with Locally Conditioned Radiance Fields](http://arxiv.org/abs/2104.00670) | ICCV | [ml-gsn](https://github.com/apple/ml-gsn) | 2021 |
 
 
 ### 3D
@@ -426,6 +449,8 @@ A collection of papers I am interested in.
 | [Go Wider Instead of Deeper](http://arxiv.org/abs/2107.11817) | arXiv:2107.11817 [cs] |  | 2021 |
 | [A Unified Efficient Pyramid Transformer for Semantic Segmentation](http://arxiv.org/abs/2107.14209) | arXiv:2107.14209 [cs] |  | 2021 |
 | :heart: [Conditional DETR for Fast Training Convergence](http://arxiv.org/abs/2108.06152) | ICCV |  | 2021 |
+| :heart: [Sketch Your Own GAN](http://arxiv.org/abs/2108.02774) | ICCV |  | 2021 |
+| [CrossFormer: A Versatile Vision Transformer Based on Cross-Scale Attention](http://arxiv.org/abs/2108.00154) | arXiv:2108.00154 [cs] |  | 2021 |
 
 
 ## ssl
@@ -433,6 +458,8 @@ A collection of papers I am interested in.
 |:--------|:--------:|:--------:|:--------:|
 | [Emerging Properties in Self-Supervised Vision Transformers](http://arxiv.org/abs/2104.14294) | arXiv:2104.14294 [cs] | [dino](https://github.com/facebookresearch/dino) | 2021 |
 | [What Is Considered Complete for Visual Recognition?](http://arxiv.org/abs/2105.13978) | arXiv:2105.13978 [cs] |  | 2021 |
+| [On the Efficacy of Small Self-Supervised Contrastive Models without Distillation Signals](http://arxiv.org/abs/2107.14762) | arXiv:2107.14762 [cs] |  | 2021 |
+| :heart: [Improving Contrastive Learning by Visualizing Feature Transformation](http://arxiv.org/abs/2108.02982) | ICCV |  | 2021 |
 
 
 ## DA
@@ -444,7 +471,10 @@ A collection of papers I am interested in.
 ## Data
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
-| [Semi-Supervised Active Learning with Temporal Output Discrepancy](http://arxiv.org/abs/2107.14153) | ICCV |  | 2021 |
+| :white_check_mark: [Semi-Supervised Active Learning with Temporal Output Discrepancy](http://arxiv.org/abs/2107.14153) | ICCV |  | 2021 |
+| :heart: [Mean Teachers Are Better Role Models: Weight-Averaged Consistency Targets Improve Semi-Supervised Deep Learning Results](http://arxiv.org/abs/1703.01780) | NeurIPS |  | 2017 |
+| [When Deep Learners Change Their Mind: Learning Dynamics for Active Learning](http://arxiv.org/abs/2107.14707) | arXiv:2107.14707 [cs] |  | 2021 |
+| [On The State of Data In Computer Vision: Human Annotations Remain Indispensable for Developing Deep Learning Models](http://arxiv.org/abs/2108.00114) | arXiv:2108.00114 [cs] |  | 2021 |
 
 
 ## CNN & BN
@@ -464,6 +494,14 @@ A collection of papers I am interested in.
 | [Log-Polar Space Convolution for Convolutional Neural Networks](http://arxiv.org/abs/2107.11943) | arXiv:2107.11943 [cs] |  | 2021 |
 | [Decoupled Dynamic Filter Networks](http://arxiv.org/abs/2104.14107) | arXiv:2104.14107 [cs] |  | 2021 |
 | [Spectral Leakage and Rethinking the Kernel Size in CNNs](http://arxiv.org/abs/2101.10143) | arXiv:2101.10143 [cs] |  | 2021 |
+| [Learning with Noisy Labels via Sparse Regularization](http://arxiv.org/abs/2108.00192) | ICCV |  | 2021 |
+| [Impact of Aliasing on Generalization in Deep Convolutional Networks](http://arxiv.org/abs/2108.03489) | ICCV |  | 2021 |
+
+## MLP
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [ResMLP: Feedforward Networks for Image Classification with Data-Efficient Training](http://arxiv.org/abs/2105.03404) | arXiv:2105.03404 [cs] |  | 2021 |
+
 
 ## Finetune
 |  Title  |   Venue  |Code|Year|
