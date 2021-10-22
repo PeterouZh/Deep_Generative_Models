@@ -22,6 +22,7 @@ A collection of papers I am interested in.
 
 ### 3D 
 - [face3d](https://github.com/YadiraF/face3d)
+- [DECA](https://github.com/YadiraF/DECA)
 
 ### Tools
 - [bokeh](https://github.com/bokeh/bokeh)
@@ -32,6 +33,7 @@ A collection of papers I am interested in.
 
 ### StyleGAN
 - [awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
+- [generative-evaluation-prdc](https://github.com/clovaai/generative-evaluation-prdc)
 
 ### Style transfer
 - [style-transfer-pytorch](https://github.com/crowsonkb/style-transfer-pytorch)
@@ -55,14 +57,12 @@ A collection of papers I am interested in.
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:
 | [Perceptual Gradient Networks](http://arxiv.org/abs/2105.01957) | arXiv:2105.01957 [cs] |  | 2021 |
-| [Unconstrained Scene Generation with Locally Conditioned Radiance Fields](https://arxiv.org/abs/2104.00670v1) | arXiv:2104.00670 [cs.CV] |  | 2021 |
 | [InfinityGAN: Towards Infinite-Resolution Image Synthesis](http://arxiv.org/abs/2104.03963) | arXiv:2104.03963 [cs] |  | 2021 |
 | [Aliasing Is Your Ally: End-to-End Super-Resolution from Raw Image Bursts](http://arxiv.org/abs/2104.06191) | arXiv:2104.06191 [cs, eess] |  | 2021 |
 | [StylePeople: A Generative Model of Fullbody Human Avatars](http://arxiv.org/abs/2104.08363) | arXiv:2104.08363 [cs] |  | 2021 |
 | [Cross-Domain and Disentangled Face Manipulation with 3D Guidance](http://arxiv.org/abs/2104.11228) | arXiv:2104.11228 [cs] |  | 2021 |
 | [On Buggy Resizing Libraries and Surprising Subtleties in FID Calculation](http://arxiv.org/abs/2104.11222) | arXiv:2104.11222 [cs] |  | 2021 |
 | [FDA: Fourier Domain Adaptation for Semantic Segmentation](http://arxiv.org/abs/2004.05498) | arXiv:2004.05498 [cs] | [github](https://github.com/YanchaoYang/FDA) | 2020 |
-| [Explaining in Style: Training a GAN to Explain a Classifier in StyleSpace](http://arxiv.org/abs/2104.13369) | arXiv:2104.13369 [cs, eess, stat] |  | 2021 |
 | [StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-Time Image Editing](http://arxiv.org/abs/2104.14754) | CVPR |  | 2021 |
 | [Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-Trained GAN for Semantic Age Manipulation](http://arxiv.org/abs/2011.00954) | arXiv:2011.00954 [cs] |  | 2021 |
 | [Ensembling with Deep Generative Views](http://arxiv.org/abs/2104.14551) | arXiv:2104.14551 [cs] |  | 2021 |
@@ -142,13 +142,13 @@ A collection of papers I am interested in.
 | [Barbershop: GAN-Based Image Compositing Using Segmentation Masks](http://arxiv.org/abs/2106.01505) | arXiv:2106.01505 [cs] |  | 2021 |
 | [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](http://arxiv.org/abs/2002.03754) | arXiv:2002.03754 [cs, stat] | [GANLatentDiscovery](https://github.com/anvoynov/GANLatentDiscovery) | 2020 |
 | [Pivotal Tuning for Latent-Based Editing of Real Images](http://arxiv.org/abs/2106.05744) | arXiv:2106.05744 [cs] | [PTI](https://github.com/danielroich/PTI) | 2021 |
-| [Fine-Tuning StyleGAN2 For Cartoon Face Generation](http://arxiv.org/abs/2106.12445) | arXiv:2106.12445 [cs, eess] | [Cartoon-StyleGAN](https://github.com/happy-jihye/Cartoon-StyleGAN) | 2021 |
 | [Editing in Style: Uncovering the Local Semantics of GANs](http://arxiv.org/abs/2004.14367) | CVPR |  | 2020 |
 | [Retrieve in Style: Unsupervised Facial Feature Transfer and Retrieval](http://arxiv.org/abs/2107.06256) | arXiv:2107.06256 [cs] | [RetrieveInStyle](https://github.com/mchong6/RetrieveInStyle) | 2021 |
 | [StyleCariGAN: Caricature Generation via StyleGAN Feature Map Modulation](http://arxiv.org/abs/2107.04331) | arXiv:2107.04331 [cs] |  | 2021 |
 | [A Simple Baseline for StyleGAN Inversion](http://arxiv.org/abs/2104.07661) | arXiv:2104.07661 [cs] |  | 2021 |
 | [From Continuity to Editability: Inverting GANs with Consecutive Images](http://arxiv.org/abs/2107.13812) | arXiv:2107.13812 [cs] |  | 2021 |
 | [AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning]() | ACM Transactions on Graphics (Proc. SIGGRAPH) |  | 2021 |
+| [Talk-to-Edit: Fine-Grained Facial Editing via Dialog](http://arxiv.org/abs/2109.04425) | ICCV | [Talk-to-Edit](https://github.com/yumingj/Talk-to-Edit)  | 2021 |
 
 
 ### Encoder
@@ -174,6 +174,11 @@ A collection of papers I am interested in.
 | [StyleFusion: A Generative Model for Disentangling Spatial Segments](http://arxiv.org/abs/2107.07437) | arXiv:2107.07437 [cs] |  | 2021 |
 | [Perceptually Validated Precise Local Editing for Facial Action Units with StyleGAN](http://arxiv.org/abs/2107.12143) | arXiv:2107.12143 [cs] |  | 2021 |
 | [StyleGAN2 Distillation for Feed-Forward Image Manipulation](https://arxiv.org/abs/2003.03581v2) | arXiv:2003.03581 [cs.CV] |  | 2020 |
+| [GAN Inversion for Out-of-Range Images with Geometric Transformations](http://arxiv.org/abs/2108.08998) | ICCV |  | 2021 |
+| :heart: [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](http://arxiv.org/abs/2109.10737) | arXiv:2109.10737 [cs] | [DyStyle](https://github.com/phycvgan/DyStyle) | 2021 |
+| [High-Fidelity GAN Inversion for Image Attribute Editing](http://arxiv.org/abs/2109.06590) | arXiv:2109.06590 [cs] |  | 2021 |
+| :heart: [Few-Shot Knowledge Transfer for Fine-Grained Cartoon Face Generation](http://arxiv.org/abs/2007.13332) | arXiv:2007.13332 [cs] |  | 2020 |
+
 
 ### Hybrid optimization
 |  Title  |   Venue  |Code|Year|
@@ -192,6 +197,8 @@ A collection of papers I am interested in.
 | [GAN “Steerability” without Optimization](http://arxiv.org/abs/2012.05328) | arXiv:2012.05328 [cs] |  | 2021 |
 | [Low-Rank Subspaces in GANs](http://arxiv.org/abs/2106.04488) | arXiv:2106.04488 [cs] |  | 2021 |
 | [LARGE: Latent-Based Regression through GAN Semantics](http://arxiv.org/abs/2107.11186) | arXiv:2107.11186 [cs] |  | 2021 |
+| [Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation](http://arxiv.org/abs/2108.07668) | ICCV |  | 2021 |
+
 
 ### DGP
 |  Title  |   Venue  |Code|Year|
@@ -199,6 +206,7 @@ A collection of papers I am interested in.
 | [Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](http://arxiv.org/abs/2003.13659) | ECCV | [DGP](https://github.com/XingangPan/deep-generative-prior) | 2020 |
 | [Unsupervised Portrait Shadow Removal via Generative Priors](http://arxiv.org/abs/2108.03466) | arXiv:2108.03466 [cs] |  | 2021 |
 | [Towards Real-World Blind Face Restoration with Generative Facial Prior](http://arxiv.org/abs/2101.04061) | CVPR | [GFPGAN](https://github.com/TencentARC/GFPGAN) | 2021 |
+| [Towards Vivid and Diverse Image Colorization with Generative Color Prior](http://arxiv.org/abs/2108.08826) | ICCV |  | 2021 |
 
 
 ### Cls
@@ -209,6 +217,14 @@ A collection of papers I am interested in.
 | [Inverting and Understanding Object Detectors](http://arxiv.org/abs/2106.13933) | arXiv:2106.13933 [cs] |  | 2021 |
 | [Deep Neural Networks Are Surprisingly Reversible: A Baseline for Zero-Shot Inversion](http://arxiv.org/abs/2107.06304) | arXiv:2107.06304 [cs] |  | 2021 |
 
+### Change pose implicitly
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [On the “Steerability” of Generative Adversarial Networks](http://arxiv.org/abs/1907.07171) | arXiv:1907.07171 [cs] |  | 2020 |
+| [Interpreting the Latent Space of GANs for Semantic Face Editing](http://arxiv.org/abs/1907.10786) | CVPR |  | 2020 |
+| [GANSpace: Discovering Interpretable GAN Controls](http://arxiv.org/abs/2004.02546) | arXiv:2004.02546 [cs] | [GANSpace](https://github.com/harskish/ganspace) | 2020 |
+| [Closed-Form Factorization of Latent Semantics in GANs](http://arxiv.org/abs/2007.06600) | arXiv:2007.06600 [cs] | [sefa](https://github.com/genforce/sefa) | 2020 |
+
 
 ## Survey
 |  Title  |   Venue  |Code|Year|
@@ -217,11 +233,22 @@ A collection of papers I am interested in.
 
 ## GANs
 
+### Theory
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| :white_check_mark: [Towards a Better Global Loss Landscape of GANs](http://arxiv.org/abs/2011.04926) | NeurIPS |  | 2020 |
+| [On the Benefit of Width for Neural Networks: Disappearance of Bad Basins](http://arxiv.org/abs/1812.11039) | arXiv:1812.11039 [cs, math, stat] |  | 2021 |
+
 
 ### Regs
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [The Hessian Penalty: A Weak Prior for Unsupervised Disentanglement](http://arxiv.org/abs/2008.10599) | ECCV |  | 2020 |
+
+### Detection
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Self-Supervised Object Detection via Generative Image Synthesis](http://arxiv.org/abs/2110.09848) | arXiv:2110.09848 [cs] |  | 2021 |
 
 
 ### StyleGANs
@@ -236,6 +263,8 @@ A collection of papers I am interested in.
 | [Few-Shot Image Generation via Cross-Domain Correspondence](http://arxiv.org/abs/2104.06820) | CVPR | [few-shot-gan-adaptation](https://github.com/utkarshojha/few-shot-gan-adaptation) | 2021 |
 | [EigenGAN: Layer-Wise Eigen-Learning for GANs](http://arxiv.org/abs/2104.12476) | arXiv:2104.12476 [cs, stat] | [EigenGAN](https://github.com/LynnHo/EigenGAN-Tensorflow)  | 2021 |
 | :heart: [Toward Spatially Unbiased Generative Models](http://arxiv.org/abs/2108.01285) | ICCV | [toward_spatial_unbiased](https://github.com/jychoi118/toward_spatial_unbiased) | 2021 |
+| [Interpreting Generative Adversarial Networks for Interactive Image Generation](http://arxiv.org/abs/2108.04896) | arXiv:2108.04896 [cs] |  | 2021 |
+| [Explaining in Style: Training a GAN to Explain a Classifier in StyleSpace](http://arxiv.org/abs/2104.13369) | ICCV |  | 2021 |
 
 
 ### SinGAN
@@ -243,10 +272,16 @@ A collection of papers I am interested in.
 |:--------|:--------:|:--------:|:--------:|
 | [ExSinGAN: Learning an Explainable Generative Model from a Single Image](http://arxiv.org/abs/2105.07350) | arXiv:2105.07350 [cs] |  | 2021 |
 
+### Video
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+|:heart: [Diverse Generation from a Single Video Made Possible](http://arxiv.org/abs/2109.08591) | arXiv:2109.08591 [cs] |  | 2021 |
+
 
 ### GANs
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| :white_check_mark: [Differentiable Augmentation for Data-Efficient GAN Training](http://arxiv.org/abs/2006.10738) | arXiv:2006.10738 [cs] |  | 2020 |
 | [Sampling Generative Networks](http://arxiv.org/abs/1609.04468) | arXiv:1609.04468 [cs, stat] |  | 2016 |
 | [Combining Transformer Generators with Convolutional Discriminators](http://arxiv.org/abs/2105.10189) | arXiv:2105.10189 [cs] |  | 2021 |
 | [Improving Generation and Evaluation of Visual Stories via Semantic Consistency](http://arxiv.org/abs/2105.10026) | arXiv:2105.10026 [cs] |  | 2021 |
@@ -259,14 +294,68 @@ A collection of papers I am interested in.
 | [Learning Efficient GANs for Image Translation via Differentiable Masks and Co-Attention Distillation](http://arxiv.org/abs/2011.08382) | arXiv:2011.08382 [cs] |  | 2021 |
 | [CGANs with Auxiliary Discriminative Classifier](http://arxiv.org/abs/2107.10060) | arXiv:2107.10060 [cs] |  | 2021 |
 |FreezeG|| [github](https://github.com/bryandlee/FreezeG) ||
-| :white_check_mark: [Freeze the Discriminator: A Simple Baseline for Fine-Tuning GANs](http://arxiv.org/abs/2002.10964) | arXiv:2002.10964 [cs, stat] | [FreezeD](https://github.com/sangwoomo/FreezeD) | 2020 |
 | [A Good Image Generator Is What You Need for High-Resolution Video Synthesis](http://arxiv.org/abs/2104.15069) | ICLR |  | 2021 |
+| [Dual Projection Generative Adversarial Networks for Conditional Image Generation](http://arxiv.org/abs/2108.09016) | ICCV |  | 2021 |
+| [Your GAN Is Secretly an Energy-Based Model and You Should Use Discriminator Driven Latent Sampling](http://arxiv.org/abs/2003.06060) | arXiv:2003.06060 [cs, stat] | [CGAN-DDLS](https://github.com/JHpark1677/CGAN-DDLS) | 2021 |
+| [Manifold-Preserved GANs](http://arxiv.org/abs/2109.08955) | arXiv:2109.08955 [cs] |  | 2021 |
+
+
+### Finetune
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| :white_check_mark: [Freeze the Discriminator: A Simple Baseline for Fine-Tuning GANs](http://arxiv.org/abs/2002.10964) | arXiv:2002.10964 [cs, stat] | [FreezeD](https://github.com/sangwoomo/FreezeD) | 2020 |
+| [Fine-Tuning StyleGAN2 For Cartoon Face Generation](http://arxiv.org/abs/2106.12445) | arXiv:2106.12445 [cs, eess] | [Cartoon-StyleGAN](https://github.com/happy-jihye/Cartoon-StyleGAN) | 2021 |
+| [Transferring GANs: Generating Images from Limited Data](http://arxiv.org/abs/1805.01677) | ECCV |  | 2018 |
+| [Image Generation From Small Datasets via Batch Statistics Adaptation](http://arxiv.org/abs/1904.01774) | ICCV |  | 2019 |
+| [MineGAN: Effective Knowledge Transfer From GANs to Target Domains With Few Images](http://openaccess.thecvf.com/content_CVPR_2020/html/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.html) | CVPR |  | 2020 |
+
+
+### Compression
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Online Multi-Granularity Distillation for GAN Compression](http://arxiv.org/abs/2108.06908) | ICCV |  | 2021 |
+
+### Detection fake
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Robust Attentive Deep Neural Network for Exposing GAN-Generated Faces](http://arxiv.org/abs/2109.02167) | arXiv:2109.02167 [cs] |  | 2021 |
+
+
+### Segmentation
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Labels4Free: Unsupervised Segmentation Using StyleGAN](http://arxiv.org/abs/2103.14968) | arXiv:2103.14968 [cs] |  | 2021 |
+
+### Datasets
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Learning Hybrid Image Templates (HIT) by Information Projection]() | TPAMI | [AnimalFace](https://vcla.stat.ucla.edu/people/zhangzhang-si/HiT/exp5.html) | 2012 |
+| [A Style-Based Generator Architecture for Generative Adversarial Networks](http://arxiv.org/abs/1812.04948) | CVPR | [FFHQ]() | 2019 |
+| [StarGAN v2: Diverse Image Synthesis for Multiple Domains](http://arxiv.org/abs/1912.01865) | CVPR | [AFHQ](https://github.com/clovaai/stargan-v2/blob/master/README.md#animal-faces-hq-dataset-afhq) | 2020 |
+| [Automated Flower Classification over a Large Number of Classes]() | | [102Flowers](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) |   2008 |
+| [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings](http://arxiv.org/abs/1711.05139) | ICML | [CartoonSet](https://google.github.io/cartoonset/) | 2018 |
+| [Anime Faces Sourced from Safebooru Resized to 256x256](https://www.kaggle.com/scribbless/another-anime-face-dataset) | Kaggle |[AnimeFace](https://www.kaggle.com/scribbless/another-anime-face-dataset/metadata) | |
+| [Facial Expressions of Manga (Japanese Comic) Character Faces](https://www.kaggle.com/mertkkl/manga-facial-expressions) | Kaggle | [MangaExpressions](https://www.kaggle.com/mertkkl/manga-facial-expressions) |  |
+| [Open-Source Cartoon Dataset](https://www.kaggle.com/arnaud58/photo2cartoon/version/1?select=trainB) | Kaggle | [photo2cartoon](https://www.kaggle.com/arnaud58/photo2cartoon/version/1?select=trainB) |
+| [Simpsons Faces: A Lot of Images of Your Favourite Characters](https://www.kaggle.com/kostastokis/simpsons-faces?select=cropped) | Kaggle | [SimpsonsFaces](https://www.kaggle.com/kostastokis/simpsons-faces?select=cropped) |  |
+| [Bitmoji Faces](https://www.kaggle.com/mostafamozafari/bitmoji-faces) | Kaggle | [BitmojiFaces](https://www.kaggle.com/mostafamozafari/bitmoji-faces)  |  |
+
+
+### alias (ref)
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Alias-Free Generative Adversarial Networks](http://arxiv.org/abs/2106.12423) | arXiv:2106.12423 [cs, stat] |  | 2021 |
+| [On Buggy Resizing Libraries and Surprising Subtleties in FID Calculation](http://arxiv.org/abs/2104.11222) | arXiv:2104.11222 [cs] |  | 2021 |
+
+
 
 ## DDPM
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2108.02938) | ICCV |  | 2021 |
 | [Diffusion Models Beat GANs on Image Synthesis](http://arxiv.org/abs/2105.05233) | arXiv:2105.05233 [cs, stat] | [guided-diffusion](https://github.com/openai/guided-diffusion) | 2021 |
+| [SDEdit: Image Synthesis and Editing with Stochastic Differential Equations](http://arxiv.org/abs/2108.01073) | arXiv:2108.01073 [cs] | [SDEdit](https://github.com/ermongroup/SDEdit) | 2021 |
+| [D2C: Diffusion-Denoising Models for Few-Shot Conditional Generation](http://arxiv.org/abs/2106.06819) | arXiv:2106.06819 [cs] |  | 2021 |
 
 
 
@@ -291,7 +380,9 @@ A collection of papers I am interested in.
 | [MixerGAN: An MLP-Based Architecture for Unpaired Image-to-Image Translation](http://arxiv.org/abs/2105.14110) | arXiv:2105.14110 [cs] |  | 2021 |
 | [GANs N’ Roses: Stable, Controllable, Diverse Image to Image Translation (Works for Videos Too!)](http://arxiv.org/abs/2106.06561) | arXiv:2106.06561 [cs] |  | 2021 |
 | :heart: [Sketch Your Own GAN](http://arxiv.org/abs/2108.02774) | ICCV |  | 2021 |
-
+| [Contrastive Learning for Unpaired Image-to-Image Translation](http://arxiv.org/abs/2007.15651) | ECCV | [contrastive-unpaired-translation](https://github.com/taesungp/contrastive-unpaired-translation) | 2020 |
+| [The Animation Transformer: Visual Correspondence via Segment Matching](http://arxiv.org/abs/2109.02614) | arXiv:2109.02614 [cs] |  | 2021 |
+| [Image Synthesis via Semantic Composition](http://arxiv.org/abs/2109.07053) | ICCV |  | 2021 |
 
 
 
@@ -311,6 +402,9 @@ A collection of papers I am interested in.
 | :heart: [AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer](http://arxiv.org/abs/2108.03647) | ICCV |  | 2021 |
 | [ZiGAN: Fine-Grained Chinese Calligraphy Font Generation via a Few-Shot Style Transfer Approach](http://arxiv.org/abs/2108.03596) | arXiv:2108.03596 [cs] |  | 2021 |
 | [Learning to Cartoonize Using White-Box Cartoon Representations](https://ieeexplore.ieee.org/document/9157493/) | CVPR | [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) | 2020 |
+| [Domain-Aware Universal Style Transfer](http://arxiv.org/abs/2108.04441) | ICCV |  | 2021 |
+| [Aesthetics and Neural Network Image Representations](http://arxiv.org/abs/2109.08103) | arXiv:2109.08103 [cs, eess, q-bio] |  | 2021 |
+| :heart: [Collaborative Distillation for Ultra-Resolution Universal Style Transfer](http://arxiv.org/abs/2003.08436) | CVPR | [collaborative-distillation](https://github.com/mingsun-tse/collaborative-distillation) | 2020 |
 
 
 ## Metric
@@ -320,6 +414,11 @@ A collection of papers I am interested in.
 | [Generating Images with Perceptual Similarity Metrics Based on Deep Networks](http://arxiv.org/abs/1602.02644) | NeurIPS | Perceptual Similarity | 2016 |
 | [Generic Perceptual Loss for Modeling Structured Output Dependencies](http://arxiv.org/abs/2103.10571) | CVPR |  | 2021 |
 | [Inverting Adversarially Robust Networks for Image Synthesis](http://arxiv.org/abs/2106.06927) | arXiv:2106.06927 [cs] |  | 2021 |
+| [Demystifying MMD GANs](http://arxiv.org/abs/1801.01401) | ICLR | Kernel Inception Distance (KID) | 2018 |
+| [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](http://arxiv.org/abs/1706.08500) | NeurIPS | Fréchet Inception Distance (FID) | 2017 |
+| [High-Fidelity Performance Metrics for Generative Models in PyTorch](https://github.com/toshas/torch-fidelity) | | torch-fidelity
+ | 2020 |
+
 
 
 ## Spectrum
@@ -331,7 +430,6 @@ A collection of papers I am interested in.
 ## Weakly Supervised Object Localization
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
-| [Labels4Free: Unsupervised Segmentation Using StyleGAN](http://arxiv.org/abs/2103.14968) | arXiv:2103.14968 [cs] |  | 2021 |
 | [TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization](http://arxiv.org/abs/2103.14862) | arXiv:2103.14862 [cs] |  | 2021 |
 | [Finding an Unsupervised Image Segmenter in Each of Your Deep Generative Models](http://arxiv.org/abs/2105.08127) | arXiv:2105.08127 [cs] |  | 2021 |
 | [Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP](http://arxiv.org/abs/2107.12518) | arXiv:2107.12518 [cs] |  | 2021 |
@@ -343,10 +441,14 @@ A collection of papers I am interested in.
 
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](http://arxiv.org/abs/1901.05103) | arXiv:1901.05103 [cs] |  | 2019 |
+| [Occupancy Networks: Learning 3D Reconstruction in Function Space](http://arxiv.org/abs/1812.03828) | arXiv:1812.03828 [cs] |  | 2019 |
+| [Learning Implicit Fields for Generative Shape Modeling](http://arxiv.org/abs/1812.02822) | arXiv:1812.02822 [cs] |  | 2019 |
 | :heart: [Neural Image Representations for Multi-Image Fusion and Layer Separation](http://arxiv.org/abs/2108.01199) | arXiv:2108.01199 [cs] |  | 2021 |
+| [Learning Continuous Image Representation with Local Implicit Image Function](http://arxiv.org/abs/2012.09161) | CVPR |  | 2021 |
 
 
-## NeRF
+## 3D & NeRF
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | Ray Tracing Volume Densities |  SIGGRAPH  |  | 1984 |
@@ -355,7 +457,6 @@ A collection of papers I am interested in.
 | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://arxiv.org/abs/2003.08934) | ECCV | [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch)  | 2020 |
 | [NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](http://arxiv.org/abs/2008.02268) | arXiv:2008.02268 [cs] | [nerfw](https://github.com/PeterouZh/nerf_pl/tree/nerfw) | 2021 |
 | [Modulated Periodic Activations for Generalizable Local Functional Representations](http://arxiv.org/abs/2104.03960) | arXiv:2104.03960 [cs] |  | 2021 |
-| [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](http://arxiv.org/abs/2006.10739) | arXiv:2006.10739 [cs] |  | 2020 |
 | [NeRF++: Analyzing and Improving Neural Radiance Fields](http://arxiv.org/abs/2010.07492) | arXiv:2010.07492 [cs] | [nerfplusplus](https://github.com/Kai-46/nerfplusplus) | 2020 |
 | [Neural Volume Rendering: NeRF And Beyond](http://arxiv.org/abs/2101.05204) | arXiv:2101.05204 [cs] | [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) | 2021 |
 | [Editing Conditional Radiance Fields](http://arxiv.org/abs/2105.06466) | arXiv:2105.06466 [cs] | [editnerf](https://github.com/stevliu/editnerf) | 2021 |
@@ -368,14 +469,20 @@ A collection of papers I am interested in.
 | [Nerfies: Deformable Neural Radiance Fields](https://arxiv.org/abs/2011.12948v4) | 	arXiv:2011.12948 | [nerfies](https://github.com/google/nerfies) | 2020 |
 | [D-NeRF: Neural Radiance Fields for Dynamic Scenes](http://arxiv.org/abs/2011.13961) | arXiv:2011.13961 [cs] | [D-NeRF](https://github.com/albertpumarola/D-NeRF) | 2020 |
 | :heart: [NeRF--: Neural Radiance Fields Without Known Camera Parameters](http://arxiv.org/abs/2102.07064) | arXiv:2102.07064 [cs] | [improved-nerfmm](https://github.com/ventusff/improved-nerfmm)  | 2021 |
+| [Self-Calibrating Neural Radiance Fields](http://arxiv.org/abs/2108.13826) | ICCV |  | 2021 |
+| [Light Field Networks: Neural Scene Representations with Single-Evaluation Rendering](http://arxiv.org/abs/2106.02634) | arXiv:2106.02634 [cs] |  | 2021 |
+| [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](http://arxiv.org/abs/2103.13415) | ICCV |  | 2021 |
 
 
 ### Sine
 |  Title  |   Venue  |Code|Year|Cite|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](http://arxiv.org/abs/2006.10739) | arXiv:2006.10739 [cs] |  | 2020 |
 | :white_check_mark: [Implicit Neural Representations with Periodic Activation Functions](http://arxiv.org/abs/2006.09661) | NeurIPS |  | 2020 |
 | :white_check_mark: [Modulated Periodic Activations for Generalizable Local Functional Representations](http://arxiv.org/abs/2104.03960) | arXiv:2104.03960 [cs] |  | 2021 |
 | [Learned Initializations for Optimizing Coordinate-Based Neural Representations](http://arxiv.org/abs/2012.02189) | arXiv:2012.02189 [cs] | [nerf-meta](https://github.com/sanowar-raihan/nerf-meta) | 2021 |
+| [Seeing Implicit Neural Representations as Fourier Series](http://arxiv.org/abs/2109.00249) | arXiv:2109.00249 [cs] |  | 2021 |
+
 
 ### INR
 |  Title  |   Venue  |Code|Year|Cite|
@@ -392,29 +499,101 @@ A collection of papers I am interested in.
 | [CAMPARI: Camera-Aware Decomposed Generative Neural Radiance Fields](http://arxiv.org/abs/2103.17269) | arXiv:2103.17269 [cs] |  | 2021 |
 | [GNeRF: GAN-Based Neural Radiance Field without Posed Camera](http://arxiv.org/abs/2103.15606) | arXiv:2103.15606 [cs] |  | 2021 |
 | :heart: [Unconstrained Scene Generation with Locally Conditioned Radiance Fields](http://arxiv.org/abs/2104.00670) | ICCV | [ml-gsn](https://github.com/apple/ml-gsn) | 2021 |
+| :heart: [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](http://arxiv.org/abs/2109.01750) | ICCV |  | 2021 |
+| [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](http://arxiv.org/abs/2109.01847) | ICCV |  | 2021 |
 
 
 ### 3D
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [HoloGAN: Unsupervised Learning of 3D Representations from Natural Images](http://arxiv.org/abs/1904.01326) | ICCV |  | 2019 |
+| [BlockGAN: Learning 3D Object-Aware Scene Representations from Unlabelled Images](http://arxiv.org/abs/2002.08988) | NeurIPS |  | 2020 |
+| [Escaping Plato’s Cave: 3D Shape From Adversarial Rendering](http://arxiv.org/abs/1811.11606) | ICCV |  | 2019 |
 | [StyleRig: Rigging StyleGAN for 3D Control over Portrait Images](http://arxiv.org/abs/2004.00121) | arXiv:2004.00121 [cs] |  | 2020 |
 | [Exemplar-Based 3D Portrait Stylization](http://arxiv.org/abs/2104.14559) | arXiv:2104.14559 [cs] |  | 2021 |
-| [Landmark Detection and 3D Face Reconstruction for Caricature Using a Nonlinear Parametric Model](http://arxiv.org/abs/2004.09190) | arXiv:2004.09190 [cs] |  | 2021 |
+| :heart: [Landmark Detection and 3D Face Reconstruction for Caricature Using a Nonlinear Parametric Model](http://arxiv.org/abs/2004.09190) | arXiv:2004.09190 [cs] | [CaricatureFace](https://github.com/Juyong/CaricatureFace) | 2021 |
 | [SofGAN: A Portrait Image Generator with Dynamic Styling](http://arxiv.org/abs/2007.03780) | arXiv:2007.03780 [cs] | [sofgan](https://github.com/apchenstu/sofgan) | 2021 |
+| :heart: [FreeStyleGAN: Free-View Editable Portrait Rendering with the Camera Manifold](http://arxiv.org/abs/2109.09378) | arXiv:2109.09378 [cs] |  | 2021 |
+| [PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering](http://arxiv.org/abs/2109.08379) | ICCV | [PIRender](https://github.com/RenYurui/PIRender) | 2021 |
 
-### Face
+
+### 3DMM Face
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [Neural Head Reenactment with Latent Pose Descriptors](http://arxiv.org/abs/2004.12000) | CVPR | [latent-pose-reenactment](https://github.com/shrubb/latent-pose-reenactment) | 2020 |
+| :heart: [FLAME-in-NeRF : Neural Control of Radiance Fields for Free View Face Animation](http://arxiv.org/abs/2108.04913) | arXiv:2108.04913 [cs] |  | 2021 |
+| [Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry](http://arxiv.org/abs/2110.09772) | arXiv:2110.09772 [cs] |  | 2021 |
 
-
-## sdf
+### Point Cloud
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
-| [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](http://arxiv.org/abs/1901.05103) | arXiv:1901.05103 [cs] |  | 2019 |
-| [Occupancy Networks: Learning 3D Reconstruction in Function Space](http://arxiv.org/abs/1812.03828) | arXiv:1812.03828 [cs] |  | 2019 |
-| [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](http://arxiv.org/abs/1905.05172) | arXiv:1905.05172 [cs] |  | 2019 |
+| [Point-Based Modeling of Human Clothing](https://openaccess.thecvf.com/content/ICCV2021/html/Zakharkin_Point-Based_Modeling_of_Human_Clothing_ICCV_2021_paper.html) | ICCV |  | 2021 |
+| [ADOP: Approximate Differentiable One-Pixel Point Rendering](http://arxiv.org/abs/2110.06635) | arXiv:2110.06635 [cs] |  | 2021 |
 
+
+### Stylization
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Learning to Stylize Novel Views](http://arxiv.org/abs/2105.13509) | arXiv:2105.13509 [cs] | [stylescene](https://github.com/hhsinping/stylescene) | 2021 |
+
+### Datasets
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Common Objects in 3D: Large-Scale Learning and Evaluation of Real-Life 3D Category Reconstruction](http://arxiv.org/abs/2109.00512) | ICCV |  | 2021 |
+| [A 3D Face Model for Pose and Illumination Invariant Face Recognition]() | IEEE International Conference on Advanced Video and Signal Based Surveillance | [BFM](https://faces.dmi.unibas.ch/bfm/main.php?nav=1-2&id=downloads) | 2009 |
+| [SfSNet: Learning Shape, Reflectance and Illuminance of Faces in the Wild](http://arxiv.org/abs/1712.01261) | arXiv:1712.01261 [cs] |  | 2018 |
+
+### 3D-aware image synthesis (ref)
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Visual Object Networks: Image Generation with Disentangled 3D Representation](http://arxiv.org/abs/1812.02725) | arXiv:1812.02725 [cs, stat] |  | 2018 |
+| [Escaping Plato’s Cave: 3D Shape From Adversarial Rendering](http://arxiv.org/abs/1811.11606) | ICCV |  | 2019 |
+| [HoloGAN: Unsupervised Learning of 3D Representations from Natural Images](http://arxiv.org/abs/1904.01326) | ICCV |  | 2019 |
+
+
+
+## Face 
+
+### Tools
+
+- https://github.com/wuhuikai/FaceSwap
+
+
+### Edit
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [FaceEraser: Removing Facial Parts for Augmented Reality](http://arxiv.org/abs/2109.10760) | arXiv:2109.10760 [cs] |  | 2021 |
+| [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](http://arxiv.org/abs/2109.10737) | arXiv:2109.10737 [cs] |  | 2021 |
+| :heart: [StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators](http://arxiv.org/abs/2108.00946) | arXiv:2108.00946 [cs] |  | 2021 |
+| [Beholder-GAN: Generation and Beautification of Facial Images with Conditioning on Their Beauty Level](http://arxiv.org/abs/1902.02593) | arXiv:1902.02593 [cs] |  | 2019 |
+
+### Anime Face
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation](http://arxiv.org/abs/2102.12593) | arXiv:2102.12593 [cs] |  | 2021 |
+
+
+### 3DMM
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [A Morphable Model for the Synthesis of 3D Faces](https://doi.org/10.1145/311535.311556) | Proceedings of the 26th Annual Conference on Computer Graphics and Interactive Techniques | [3DMM]  | SIGGRAPH ’99, USA: ACM Press/Addison-Wesley Publishing Co. 1999 |
+
+
+### Face 
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [SketchHairSalon: Deep Sketch-Based Hair Image Synthesis](http://arxiv.org/abs/2109.07874)  | arXiv:2109.07874 [cs] |  | 2021 |
+
+### Face Alignment
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Face Alignment Across Large Poses: A 3D Solution]() | IEEE Transactions on Pattern Analysis and Machine Intelligence |  | 2019 |
+
+
+### Face Recognition
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [High-Fidelity Pose and Expression Normalization for Face Recognition in the Wild]() | 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) |  | 2015 |
 
 
 ## 3D
@@ -426,7 +605,6 @@ A collection of papers I am interested in.
 | [Image GANs Meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering](http://arxiv.org/abs/2010.09125) | arXiv:2010.09125 [cs] |  | 2021 |
 | [Neural 3D Mesh Renderer](http://arxiv.org/abs/1711.07566) | CVPR |  | 2018 |
 | [Fast-GANFIT: Generative Adversarial Network for High Fidelity 3D Face Reconstruction](http://arxiv.org/abs/2105.07474) | arXiv:2105.07474 [cs] |  | 2021 |
-| [Learning to Stylize Novel Views](http://arxiv.org/abs/2105.13509) | arXiv:2105.13509 [cs] |  | 2021 |
 | [Inverting Generative Adversarial Renderer for Face Reconstruction](http://arxiv.org/abs/2105.02431) | CVPR | [StyleRenderer](https://github.com/WestlyPark/StyleRenderer) | 2021 |
 | [Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection](http://arxiv.org/abs/2106.07852) | arXiv:2106.07852 [cs] |  | 2021 |
 | [Subdivision-Based Mesh Convolution Networks](http://arxiv.org/abs/2106.02285) | arXiv:2106.02285 [cs] |  | 2021 |
@@ -434,6 +612,19 @@ A collection of papers I am interested in.
 | [To Fit or Not to Fit: Model-Based Face Reconstruction and Occlusion Segmentation from Weak Supervision](http://arxiv.org/abs/2106.09614) | arXiv:2106.09614 [cs] |  | 2021 |
 | [Unsupervised Learning of Depth and Depth-of-Field Effect from Natural Images with Aperture Rendering Generative Adversarial Networks](http://arxiv.org/abs/2106.13041) | arXiv:2106.13041 [cs, eess, stat] |  | 2021 |
 | [DOVE: Learning Deformable 3D Objects by Watching Videos](http://arxiv.org/abs/2107.10844) | arXiv:2107.10844 [cs] |  | 2021 |
+| [De-Rendering the World’s Revolutionary Artefacts](http://arxiv.org/abs/2104.03954) | CVPR |  | 2021 |
+| [Learning Generative Models of Textured 3D Meshes from Real-World Images](http://arxiv.org/abs/2103.15627) | ICCV |  | 2021 |
+| [Toward Realistic Single-View 3D Object Reconstruction with Unsupervised Learning from Multiple Images](http://arxiv.org/abs/2109.02288) | ICCV |  | 2021 |
+
+
+
+## sdf
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](http://arxiv.org/abs/1901.05103) | arXiv:1901.05103 [cs] |  | 2019 |
+| [Occupancy Networks: Learning 3D Reconstruction in Function Space](http://arxiv.org/abs/1812.03828) | arXiv:1812.03828 [cs] |  | 2019 |
+| [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](http://arxiv.org/abs/1905.05172) | arXiv:1905.05172 [cs] |  | 2019 |
+| [Deep Meta Functionals for Shape Representation](http://arxiv.org/abs/1908.06277) | arXiv:1908.06277 [cs] |  | 2019 |
 
 
 ## Transformer
@@ -451,15 +642,17 @@ A collection of papers I am interested in.
 | :heart: [Conditional DETR for Fast Training Convergence](http://arxiv.org/abs/2108.06152) | ICCV |  | 2021 |
 | :heart: [Sketch Your Own GAN](http://arxiv.org/abs/2108.02774) | ICCV |  | 2021 |
 | [CrossFormer: A Versatile Vision Transformer Based on Cross-Scale Attention](http://arxiv.org/abs/2108.00154) | arXiv:2108.00154 [cs] |  | 2021 |
+| [Uformer: A General U-Shaped Transformer for Image Restoration](http://arxiv.org/abs/2106.03106) | arXiv:2106.03106 [cs] |  | 2021 |
+| [ConvNets vs. Transformers: Whose Visual Representations Are More Transferable?](http://arxiv.org/abs/2108.05305) | arXiv:2108.05305 [cs] |  | 2021 |
+| [Mobile-Former: Bridging MobileNet and Transformer](http://arxiv.org/abs/2108.05895) | arXiv:2108.05895 [cs] |  | 2021 |
+| [SOTR: Segmenting Objects with Transformers](http://arxiv.org/abs/2108.06747) | ICCV |  | 2021 |
+| [Video Transformer Network](http://arxiv.org/abs/2102.00719) | arXiv:2102.00719 [cs] |  | 2021 |
+| [Do Vision Transformers See Like Convolutional Neural Networks?](http://arxiv.org/abs/2108.08810) | arXiv:2108.08810 [cs, stat] |  | 2021 |
+| [UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-Wise Perspective with Transformer](http://arxiv.org/abs/2109.04335) | arXiv:2109.04335 [cs, eess] |  | 2021 |
+| [$\infty$-Former: Infinite Memory Transformer](http://arxiv.org/abs/2109.00301) | arXiv:2109.00301 [cs] |  | 2021 |
+| [PnP-DETR: Towards Efficient Visual Analysis with Transformers](http://arxiv.org/abs/2109.07036) | ICCV |  | 2021 |
+| [MobileViT: Light-Weight, General-Purpose, and Mobile-Friendly Vision Transformer](http://arxiv.org/abs/2110.02178) | arXiv:2110.02178 [cs] |  | 2021 |
 
-
-## ssl
-|  Title  |   Venue  |Code|Year|
-|:--------|:--------:|:--------:|:--------:|
-| [Emerging Properties in Self-Supervised Vision Transformers](http://arxiv.org/abs/2104.14294) | arXiv:2104.14294 [cs] | [dino](https://github.com/facebookresearch/dino) | 2021 |
-| [What Is Considered Complete for Visual Recognition?](http://arxiv.org/abs/2105.13978) | arXiv:2105.13978 [cs] |  | 2021 |
-| [On the Efficacy of Small Self-Supervised Contrastive Models without Distillation Signals](http://arxiv.org/abs/2107.14762) | arXiv:2107.14762 [cs] |  | 2021 |
-| :heart: [Improving Contrastive Learning by Visualizing Feature Transformation](http://arxiv.org/abs/2108.02982) | ICCV |  | 2021 |
 
 
 ## DA
@@ -475,9 +668,24 @@ A collection of papers I am interested in.
 | :heart: [Mean Teachers Are Better Role Models: Weight-Averaged Consistency Targets Improve Semi-Supervised Deep Learning Results](http://arxiv.org/abs/1703.01780) | NeurIPS |  | 2017 |
 | [When Deep Learners Change Their Mind: Learning Dynamics for Active Learning](http://arxiv.org/abs/2107.14707) | arXiv:2107.14707 [cs] |  | 2021 |
 | [On The State of Data In Computer Vision: Human Annotations Remain Indispensable for Developing Deep Learning Models](http://arxiv.org/abs/2108.00114) | arXiv:2108.00114 [cs] |  | 2021 |
+| [StyleAugment: Learning Texture De-Biased Representations by Style Augmentation without Pre-Defined Textures](http://arxiv.org/abs/2108.10549) | arXiv:2108.10549 [cs] |  | 2021 |
+| [Multi-Task Self-Training for Learning General Representations](http://arxiv.org/abs/2108.11353) | ICCV |  | 2021 |
+| [OOWL500: Overcoming Dataset Collection Bias in the Wild](http://arxiv.org/abs/2108.10992) | arXiv:2108.10992 [cs] |  | 2021 |
+| [Ghost Loss to Question the Reliability of Training Data]() |  IEEE Access |  | 2020 |
+| [Revisiting 3D ResNets for Video Recognition](http://arxiv.org/abs/2109.01696) | arXiv:2109.01696 [cs, eess] |  | 2021 |
+| :heart: [Revisiting ResNets: Improved Training and Scaling Strategies](http://arxiv.org/abs/2103.07579) | arXiv:2103.07579 [cs] |  | 2021 |
+| [Learning Fast Sample Re-Weighting Without Reward Data](http://arxiv.org/abs/2109.03216) | ICCV |  | 2021 |
 
 
 ## CNN & BN
+
+### light architecture
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Network Augmentation for Tiny Deep Learning](http://arxiv.org/abs/2110.08890) | arXiv:2110.08890 [cs] |  | 2021 |
+| [Non-Deep Networks](http://arxiv.org/abs/2110.07641) | arXiv:2110.07641 [cs] |  | 2021 |
+
+### Architecture
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [Beyond BatchNorm: Towards a General Understanding of Normalization in Deep Learning](http://arxiv.org/abs/2106.05956) | arXiv:2106.05956 [cs] |  | 2021 |
@@ -495,12 +703,53 @@ A collection of papers I am interested in.
 | [Decoupled Dynamic Filter Networks](http://arxiv.org/abs/2104.14107) | arXiv:2104.14107 [cs] |  | 2021 |
 | [Spectral Leakage and Rethinking the Kernel Size in CNNs](http://arxiv.org/abs/2101.10143) | arXiv:2101.10143 [cs] |  | 2021 |
 | [Learning with Noisy Labels via Sparse Regularization](http://arxiv.org/abs/2108.00192) | ICCV |  | 2021 |
-| [Impact of Aliasing on Generalization in Deep Convolutional Networks](http://arxiv.org/abs/2108.03489) | ICCV |  | 2021 |
+| :heart: [Impact of Aliasing on Generalization in Deep Convolutional Networks](http://arxiv.org/abs/2108.03489) | ICCV |  | 2021 |
+| [Orthogonal Over-Parameterized Training](http://arxiv.org/abs/2004.04690) | CVPR |  | 2021 |
+| [Multiplying Matrices Without Multiplying](http://arxiv.org/abs/2106.10860) | ICML |  | 2021 |
+| [AASeg: Attention Aware Network for Real Time Semantic Segmentation](http://arxiv.org/abs/2108.04349) | arXiv:2108.04349 [cs, eess] |  | 2021 |
+| [MicroNet: Improving Image Recognition with Extremely Low FLOPs](http://arxiv.org/abs/2108.05894) | ICCV |  | 2021 |
+| [Contextual Convolutional Neural Networks](http://arxiv.org/abs/2108.07387) | arXiv:2108.07387 [cs] |  | 2021 |
+| [Torch.Manual_seed(3407) Is All You Need: On the Influence of Random Seeds in Deep Learning Architectures for Computer Vision](http://arxiv.org/abs/2109.08203) | arXiv:2109.08203 [cs] |  | 2021 |
+| [KATANA: Simple Post-Training Robustness Using Test Time Augmentations](http://arxiv.org/abs/2109.08191) | arXiv:2109.08191 [cs] |  | 2021 |
+| [Global Pooling, More than Meets the Eye: Position Information Is Encoded Channel-Wise in CNNs](http://arxiv.org/abs/2108.07884) | ICCV |  | 2021 |
 
-## MLP
+
+### Compression
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [AdaPruner: Adaptive Channel Pruning and Effective Weights Inheritance](http://arxiv.org/abs/2109.06397) | arXiv:2109.06397 [cs] |  | 2021 |
+
+### Detection
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Anchor DETR: Query Design for Transformer-Based Detector](http://arxiv.org/abs/2109.07107) | arXiv:2109.07107 [cs] |  | 2021 |
+
+
+### Segmentation
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Robust High-Resolution Video Matting with Temporal Guidance]() | arXiv:2108.11515 [cs.CV] |  | 2021 |
+
+
+### MLP
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [ResMLP: Feedforward Networks for Image Classification with Data-Efficient Training](http://arxiv.org/abs/2105.03404) | arXiv:2105.03404 [cs] |  | 2021 |
+| [ConvMLP: Hierarchical Convolutional MLPs for Vision](http://arxiv.org/abs/2109.04454) | arXiv:2109.04454 [cs] |  | 2021 |
+| [A Battle of Network Structures: An Empirical Study of CNN, Transformer, and MLP]() | arXiv:2108.13002 [cs.CV] |  | 2021 |
+| [Sparse-MLP: A Fully-MLP Architecture with Conditional Computation](http://arxiv.org/abs/2109.02008) | arXiv:2109.02008 [cs] |  | 2021 |
+
+
+### ssl
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Emerging Properties in Self-Supervised Vision Transformers](http://arxiv.org/abs/2104.14294) | arXiv:2104.14294 [cs] | [dino](https://github.com/facebookresearch/dino) | 2021 |
+| [What Is Considered Complete for Visual Recognition?](http://arxiv.org/abs/2105.13978) | arXiv:2105.13978 [cs] |  | 2021 |
+| [On the Efficacy of Small Self-Supervised Contrastive Models without Distillation Signals](http://arxiv.org/abs/2107.14762) | arXiv:2107.14762 [cs] |  | 2021 |
+| :heart: [Improving Contrastive Learning by Visualizing Feature Transformation](http://arxiv.org/abs/2108.02982) | ICCV |  | 2021 |
+| [Scale Efficiently: Insights from Pre-Training and Fine-Tuning Transformers](http://arxiv.org/abs/2109.10686) | arXiv:2109.10686 [cs] |  | 2021 |
+| [FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling](http://arxiv.org/abs/2110.08263) | arXiv:2110.08263 [cs] |  | 2021 |
+
 
 
 ## Finetune
@@ -514,6 +763,6 @@ A collection of papers I am interested in.
 |:--------|:--------:|:--------:|:--------:|
 | [Positional Encoding as Spatial Inductive Bias in GANs](http://arxiv.org/abs/2012.05217) | arXiv:2012.05217 [cs] |  | 2020 |
 | [Mind the Pad -- CNNs Can Develop Blind Spots](http://arxiv.org/abs/2010.02178) | arXiv:2010.02178 [cs, stat] |  | 2020 |
-| [How Much Position Information Do Convolutional Neural Networks Encode?](http://arxiv.org/abs/2001.08248) | ICLR |  | 2020 |
+| :heart: [How Much Position Information Do Convolutional Neural Networks Encode?](http://arxiv.org/abs/2001.08248) | ICLR |  | 2020 |
 | [On Translation Invariance in CNNs: Convolutional Layers Can Exploit Absolute Spatial Location](http://arxiv.org/abs/2003.07064) | CVPR |  | 2020 |
 | [Rethinking and Improving Relative Position Encoding for Vision Transformer]() | ICCV |  | 2021 |
