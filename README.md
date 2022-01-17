@@ -230,6 +230,7 @@ A collection of papers I am interested in.
 | [Towards Vivid and Diverse Image Colorization with Generative Color Prior](http://arxiv.org/abs/2108.08826) | ICCV |  | 2021 |
 | [Self-Validation: Early Stopping for Single-Instance Deep Generative Priors]() | arXiv:2110.12271 [cs.CV] |  | 2021 |
 | [One-Shot Generative Domain Adaptation](http://arxiv.org/abs/2111.09876) | arXiv:2111.09876 [cs] |  | 2021 |
+| :heart: [Time-Travel Rephotography]() | ACM Transactions on Graphics | [code](https://github.com/Time-Travel-Rephotography/Time-Travel-Rephotography.github.io) | 2021 |
 
 
 ### Cls
@@ -564,7 +565,10 @@ A collection of papers I am interested in.
 ### NeRF
 
 - https://github.com/ActiveVisionLab/nerfmm
+- https://github.com/ventusff/improved-nerfmm
+- https://github.com/Kai-46/nerfplusplus
 - https://github.com/kwea123/nerf_pl
+- https://github.com/NVlabs/instant-ngp
 
 |  Title  |   Venue  |Code|Year|Cite|
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -574,6 +578,8 @@ A collection of papers I am interested in.
 |:white_check_mark: [NeRF++: Analyzing and Improving Neural Radiance Fields](http://arxiv.org/abs/2010.07492) | arXiv:2010.07492 [cs] | [nerfplusplus](https://github.com/Kai-46/nerfplusplus) | 2020 |
 | [Plenoxels: Radiance Fields without Neural Networks](http://arxiv.org/abs/2112.05131) | arXiv:2112.05131 [cs] | [svox2](https://github.com/sxyu/svox2) | 2021 |
 | [FastNeRF: High-Fidelity Neural Rendering at 200FPS](http://arxiv.org/abs/2103.10380) | arXiv:2103.10380 [cs] |  | 2021 |
+| [Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](http://arxiv.org/abs/2112.10703) | arXiv:2112.10703 [cs] | [mega-nerf](https://github.com/cmusatyalab/mega-nerf) | 2021 |
+
 
 ### Dynamic
 |  Title  |   Venue  |Code|Year|Cite|
@@ -599,6 +605,9 @@ A collection of papers I am interested in.
 
 
 ### 3DMM Face
+
+- https://github.com/tencent-ailab/hifi3dface
+
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [Neural Head Reenactment with Latent Pose Descriptors](http://arxiv.org/abs/2004.12000) | CVPR | [latent-pose-reenactment](https://github.com/shrubb/latent-pose-reenactment) | 2020 |
@@ -664,6 +673,7 @@ A collection of papers I am interested in.
 - https://github.com/Sxela/ArcaneGAN
 - https://github.com/mchong6/GANsNRoses
 - https://github.com/FilipAndersson245/cartoon-gan
+- https://github.com/venture-anime/cartoongan-pytorch
 
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
@@ -763,6 +773,8 @@ A collection of papers I am interested in.
 | [$\infty$-Former: Infinite Memory Transformer](http://arxiv.org/abs/2109.00301) | arXiv:2109.00301 [cs] |  | 2021 |
 | [PnP-DETR: Towards Efficient Visual Analysis with Transformers](http://arxiv.org/abs/2109.07036) | ICCV |  | 2021 |
 | [MobileViT: Light-Weight, General-Purpose, and Mobile-Friendly Vision Transformer](http://arxiv.org/abs/2110.02178) | arXiv:2110.02178 [cs] |  | 2021 |
+| [MetaFormer Is Actually What You Need for Vision](http://arxiv.org/abs/2111.11418) | arXiv:2111.11418 [cs] |  | 2021 |
+| [Restormer: Efficient Transformer for High-Resolution Image Restoration](http://arxiv.org/abs/2111.09881) | arXiv:2111.09881 [cs] | [Restormer](https://github.com/swz30/Restormer) | 2021 |
 
 
 
@@ -835,6 +847,9 @@ A collection of papers I am interested in.
 | [Torch.Manual_seed(3407) Is All You Need: On the Influence of Random Seeds in Deep Learning Architectures for Computer Vision](http://arxiv.org/abs/2109.08203) | arXiv:2109.08203 [cs] |  | 2021 |
 | [KATANA: Simple Post-Training Robustness Using Test Time Augmentations](http://arxiv.org/abs/2109.08191) | arXiv:2109.08191 [cs] |  | 2021 |
 | [Global Pooling, More than Meets the Eye: Position Information Is Encoded Channel-Wise in CNNs](http://arxiv.org/abs/2108.07884) | ICCV |  | 2021 |
+|:white_check_mark: [A ConvNet for the 2020s](http://arxiv.org/abs/2201.03545) | arXiv:2201.03545 [cs] | [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) | 2022 |
+
+
 
 
 ### Compression
@@ -846,6 +861,8 @@ A collection of papers I am interested in.
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [Anchor DETR: Query Design for Transformer-Based Detector](http://arxiv.org/abs/2109.07107) | arXiv:2109.07107 [cs] |  | 2021 |
+| [Detecting Twenty-Thousand Classes Using Image-Level Supervision](http://arxiv.org/abs/2201.02605) | arXiv:2201.02605 [cs] |  | 2022 |
+
 
 
 ### Segmentation
@@ -913,5 +930,7 @@ A collection of papers I am interested in.
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [Image Denoising by Sparse 3-D Transform-Domain Collaborative Filtering]() | IEEE Transactions on Image Processing |  | 2007 |
+| [Towards Flexible Blind JPEG Artifacts Removal](http://arxiv.org/abs/2109.14573) | arXiv:2109.14573 [cs, eess] | [FBCNN](https://github.com/jiaxi-jiang/FBCNN) | 2021 |
+
 
 
