@@ -518,9 +518,7 @@ A collection of papers I am interested in.
 | [Neural Volume Rendering: NeRF And Beyond](http://arxiv.org/abs/2101.05204) | arXiv:2101.05204 [cs] | [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) | 2021 |
 | [Editing Conditional Radiance Fields](http://arxiv.org/abs/2105.06466) | arXiv:2105.06466 [cs] | [editnerf](https://github.com/stevliu/editnerf) | 2021 |
 | [Recursive-NeRF: An Efficient and Dynamically Growing NeRF](http://arxiv.org/abs/2105.09103) | arXiv:2105.09103 [cs] |  | 2021 |
-| [Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](http://arxiv.org/abs/2011.13084) | arXiv:2011.13084 [cs] |  | 2021 |
 | [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](http://arxiv.org/abs/2103.15595) | arXiv:2103.15595 [cs] | [mvsnerf](https://github.com/apchenstu/mvsnerf) | 2021 |
-| [Neural Sparse Voxel Fields](http://arxiv.org/abs/2007.11571) | arXiv:2007.11571 [cs] | [NSVF](https://github.com/facebookresearch/NSVF) | 2021 |
 | [Depth-Supervised NeRF: Fewer Views and Faster Training for Free](http://arxiv.org/abs/2107.02791) | arXiv:2107.02791 [cs] |  | 2021 |
 | [Rethinking Positional Encoding](http://arxiv.org/abs/2107.02561) | arXiv:2107.02561 [cs] |  | 2021 |
 | [Nerfies: Deformable Neural Radiance Fields](https://arxiv.org/abs/2011.12948v4) | 	arXiv:2011.12948 | [nerfies](https://github.com/google/nerfies) | 2020 |
@@ -546,12 +544,15 @@ A collection of papers I am interested in.
 | [A Structured Dictionary Perspective on Implicit Neural Representations](http://arxiv.org/abs/2112.01917) | arXiv:2112.01917 [cs] |  | 2021 |
 
 
-### NeRF GANs
+### 3D & NeRF GANs
 |  Title  |   Venue  |Code|Year|Cite|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [HoloGAN: Unsupervised Learning of 3D Representations from Natural Images](http://arxiv.org/abs/1904.01326) | ICCV |  | 2019 |
+| [BlockGAN: Learning 3D Object-Aware Scene Representations from Unlabelled Images](http://arxiv.org/abs/2002.08988) | NeurIPS |  | 2020 |
+| [GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](http://arxiv.org/abs/2007.02442) | arXiv:2007.02442 [cs] |  | 2021 |
 | [Pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis](http://arxiv.org/abs/2012.00926) | arXiv:2012.00926 [cs] | [pi-GAN](https://github.com/marcoamonteiro/pi-GAN) | 2021 | 19|
 | [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](http://arxiv.org/abs/2011.12100) | CVPR | [giraffe](https://github.com/autonomousvision/giraffe) | 2021 |
-| [GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](http://arxiv.org/abs/2007.02442) | arXiv:2007.02442 [cs] |  | 2021 |
+| :heart: [StyleNeRF: A Style-Based 3D-Aware Generator for High-Resolution Image Synthesis](http://arxiv.org/abs/2110.08985) | arXiv:2110.08985 [cs, stat] |  | 2021 |
 | [CAMPARI: Camera-Aware Decomposed Generative Neural Radiance Fields](http://arxiv.org/abs/2103.17269) | arXiv:2103.17269 [cs] |  | 2021 |
 | [GNeRF: GAN-Based Neural Radiance Field without Posed Camera](http://arxiv.org/abs/2103.15606) | arXiv:2103.15606 [cs] | [gnerf](https://github.com/MQ66/gnerf) | 2021 |
 | :heart: [Unconstrained Scene Generation with Locally Conditioned Radiance Fields](http://arxiv.org/abs/2104.00670) | ICCV | [ml-gsn](https://github.com/apple/ml-gsn) | 2021 |
@@ -559,7 +560,9 @@ A collection of papers I am interested in.
 | [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](http://arxiv.org/abs/2109.01847) | ICCV |  | 2021 |
 | [A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis](http://arxiv.org/abs/2110.15678) | NeurIPS |  | 2021 |
 | [Generative Occupancy Fields for 3D Surface-Aware Image Synthesis](http://arxiv.org/abs/2111.00969) | NeurIPS |  | 2021 |
-| [Efficient Geometry-Aware 3D Generative Adversarial Networks](http://arxiv.org/abs/2112.07945) | arXiv:2112.07945 [cs] | [eg3d](https://github.com/NVlabs/eg3d) | 2021 |
+| :heart: [Efficient Geometry-Aware 3D Generative Adversarial Networks](http://arxiv.org/abs/2112.07945) | arXiv:2112.07945 [cs] | [eg3d](https://github.com/NVlabs/eg3d) | 2021 |
+| :heart: [3D-Aware Image Synthesis via Learning Structural and Textural Representations](http://arxiv.org/abs/2112.10759) | arXiv:2112.10759 [cs] |  | 2021 |
+| :heart: [GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation](http://arxiv.org/abs/2112.08867) | arXiv:2112.08867 [cs] |  | 2021 |
 
 
 ### NeRF
@@ -577,25 +580,31 @@ A collection of papers I am interested in.
 | :white_check_mark: [NeRF--: Neural Radiance Fields Without Known Camera Parameters](http://arxiv.org/abs/2102.07064) | arXiv:2102.07064 [cs] | [nerfmm](https://github.com/PeterouZh/nerfmm), [improved-nerfmm](https://github.com/ventusff/improved-nerfmm)  | 2021 |
 |:white_check_mark: [NeRF++: Analyzing and Improving Neural Radiance Fields](http://arxiv.org/abs/2010.07492) | arXiv:2010.07492 [cs] | [nerfplusplus](https://github.com/Kai-46/nerfplusplus) | 2020 |
 | :white_check_mark: [FastNeRF: High-Fidelity Neural Rendering at 200FPS](http://arxiv.org/abs/2103.10380) | arXiv:2103.10380 [cs] |  | 2021 |
+| :white_check_mark: [KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs](http://arxiv.org/abs/2103.13744) | ICCV |  | 2021 |
 | [Plenoxels: Radiance Fields without Neural Networks](http://arxiv.org/abs/2112.05131) | arXiv:2112.05131 [cs] | [svox2](https://github.com/sxyu/svox2) | 2021 |
 | [Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](http://arxiv.org/abs/2112.10703) | arXiv:2112.10703 [cs] | [mega-nerf](https://github.com/cmusatyalab/mega-nerf) | 2021 |
+| :heart: [Neural Sparse Voxel Fields](http://arxiv.org/abs/2007.11571) | arXiv:2007.11571 [cs] | [NSVF](https://github.com/facebookresearch/NSVF) | 2021 |
+| :heart: [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://arxiv.org/abs/2111.12077v2) | arXiv:2111.12077 [cs.CV] |  | 2021 |
+| :heart: [IBRNet: Learning Multi-View Image-Based Rendering](http://arxiv.org/abs/2102.13090) | arXiv:2102.13090 [cs] |  | 2021 |
+| :heart: [Volume Rendering of Neural Implicit Surfaces](http://arxiv.org/abs/2106.12052) | arXiv:2106.12052 [cs] |  | 2021 |
+| :heart: [Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control](http://arxiv.org/abs/2106.02019) | arXiv:2106.02019 [cs] |  | 2022 |
 
 
 
 ### Dynamic
 |  Title  |   Venue  |Code|Year|Cite|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](http://arxiv.org/abs/2011.13084) | arXiv:2011.13084 [cs] | [Neural-Scene-Flow-Fields](https://github.com/zl548/Neural-Scene-Flow-Fields.git) | 2021 |
 | [D-NeRF: Neural Radiance Fields for Dynamic Scenes](http://arxiv.org/abs/2011.13961) | arXiv:2011.13961 [cs] | [D-NeRF](https://github.com/albertpumarola/D-NeRF) | 2020 |
-| [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](http://arxiv.org/abs/2106.13228) | arXiv:2106.13228 [cs] |  | 2021 |
 | [Dynamic View Synthesis from Dynamic Monocular Video](http://arxiv.org/abs/2105.06468) | arXiv:2105.06468 [cs] | [DynamicNeRF](https://github.com/gaochen315/DynamicNeRF) | 2021 |
+| :heart: [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](http://arxiv.org/abs/2106.13228) | arXiv:2106.13228 [cs] | [hypernerf](https://github.com/google/hypernerf)  | 2021 |
+
 
 
 
 ### 3D
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
-| [HoloGAN: Unsupervised Learning of 3D Representations from Natural Images](http://arxiv.org/abs/1904.01326) | ICCV |  | 2019 |
-| [BlockGAN: Learning 3D Object-Aware Scene Representations from Unlabelled Images](http://arxiv.org/abs/2002.08988) | NeurIPS |  | 2020 |
 | [Escaping Plato’s Cave: 3D Shape From Adversarial Rendering](http://arxiv.org/abs/1811.11606) | ICCV |  | 2019 |
 | [StyleRig: Rigging StyleGAN for 3D Control over Portrait Images](http://arxiv.org/abs/2004.00121) | arXiv:2004.00121 [cs] |  | 2020 |
 | [Exemplar-Based 3D Portrait Stylization](http://arxiv.org/abs/2104.14559) | arXiv:2104.14559 [cs] | [github](https://github.com/halfjoe/3D-Portrait-Stylization) | 2021 |
@@ -820,6 +829,11 @@ A collection of papers I am interested in.
 | [CHIP: CHannel Independence-Based Pruning for Compact Neural Networks](http://arxiv.org/abs/2110.13981) | arXiv:2110.13981 [cs] |  | 2021 |
 | [Do We Actually Need Dense Over-Parameterization? In-Time Over-Parameterization in Sparse Training](http://arxiv.org/abs/2102.02887) | arXiv:2102.02887 [cs] |  | 2021 |
 
+
+### Antialiased CNNs 
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Making Convolutional Networks Shift-Invariant Again](http://arxiv.org/abs/1904.11486) | arXiv:1904.11486 [cs] |  | 2019 |
 
 
 ### Architecture
