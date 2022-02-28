@@ -83,10 +83,8 @@ A collection of papers I am interested in.
 | [FDA: Fourier Domain Adaptation for Semantic Segmentation](http://arxiv.org/abs/2004.05498) | arXiv:2004.05498 [cs] | [github](https://github.com/YanchaoYang/FDA) | 2020 |
 | [StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-Time Image Editing](http://arxiv.org/abs/2104.14754) | CVPR |  | 2021 |
 | [Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-Trained GAN for Semantic Age Manipulation](http://arxiv.org/abs/2011.00954) | arXiv:2011.00954 [cs] |  | 2021 |
-| [Ensembling with Deep Generative Views](http://arxiv.org/abs/2104.14551) | arXiv:2104.14551 [cs] |  | 2021 |
 | [GANalyze: Toward Visual Definitions of Cognitive Image Properties](http://arxiv.org/abs/1906.10112) | arXiv:1906.10112 [cs] |  | 2019 |
 | [On the “Steerability” of Generative Adversarial Networks](http://arxiv.org/abs/1907.07171) | arXiv:1907.07171 [cs] |  | 2020 |
-| [Using Latent Space Regression to Analyze and Leverage Compositionality in GANs](https://arxiv.org/abs/2103.10426v1) | ICLR |  | 2021 |
 | [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](http://arxiv.org/abs/2104.11116) | arXiv:2104.11116 [cs, eess] |  | 2021 |
 | [Unsupervised Image-to-Image Translation via Pre-Trained StyleGAN2 Network](http://arxiv.org/abs/2010.05713) | arXiv:2010.05713 [cs] | [github](https://github.com/HideUnderBush/UI2I_via_StyleGAN2) | 2020 |
 | [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort](http://arxiv.org/abs/2104.06490) | arXiv:2104.06490 [cs] |  | 2021 |
@@ -169,6 +167,7 @@ A collection of papers I am interested in.
 | [AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning]() | ACM Transactions on Graphics (Proc. SIGGRAPH) |  | 2021 |
 | [Talk-to-Edit: Fine-Grained Facial Editing via Dialog](http://arxiv.org/abs/2109.04425) | ICCV | [Talk-to-Edit](https://github.com/yumingj/Talk-to-Edit)  | 2021 |
 | [Improved StyleGAN Embedding: Where Are the Good Latents?](http://arxiv.org/abs/2012.09036) | arXiv:2012.09036 [cs] | [II2S](https://github.com/ZPdesu/II2S) | 2021 |
+| [EditGAN: High-Precision Semantic Image Editing](https://arxiv.org/abs/2111.03186v1) | | [editGAN_release](https://github.com/nv-tlabs/editGAN_release) | 2021 |
 
 ### Encoder
 |  Title  |   Venue  |Code|Year|
@@ -218,7 +217,7 @@ A collection of papers I am interested in.
 | [LARGE: Latent-Based Regression through GAN Semantics](http://arxiv.org/abs/2107.11186) | arXiv:2107.11186 [cs] |  | 2021 |
 | [Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation](http://arxiv.org/abs/2108.07668) | ICCV |  | 2021 |
 | [Controllable and Compositional Generation with Latent-Space Energy-Based Models](http://arxiv.org/abs/2110.10873) | NeurIPS | [LACE](https://github.com/NVlabs/LACE)  | 2021 |
-
+| [Do Generative Models Know Disentanglement? Contrastive Learning Is All You Need](http://arxiv.org/abs/2102.10543) | arXiv:2102.10543 [cs] | [DisCo](https://github.com/xrenaa/DisCo) | 2021 |
 
 ### DGP
 |  Title  |   Venue  |Code|Year|
@@ -239,7 +238,7 @@ A collection of papers I am interested in.
 | [Generative Models as a Data Source for Multiview Representation Learning](http://arxiv.org/abs/2106.05258) | arXiv:2106.05258 [cs] |  | 2021 |
 | [Inverting and Understanding Object Detectors](http://arxiv.org/abs/2106.13933) | arXiv:2106.13933 [cs] |  | 2021 |
 | [Deep Neural Networks Are Surprisingly Reversible: A Baseline for Zero-Shot Inversion](http://arxiv.org/abs/2107.06304) | arXiv:2107.06304 [cs] |  | 2021 |
-
+| [Ensembling with Deep Generative Views](http://arxiv.org/abs/2104.14551) | arXiv:2104.14551 [cs] |  | 2021 |
 ### Change pose implicitly
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
@@ -248,7 +247,7 @@ A collection of papers I am interested in.
 | [GANSpace: Discovering Interpretable GAN Controls](http://arxiv.org/abs/2004.02546) | arXiv:2004.02546 [cs] | [GANSpace](https://github.com/harskish/ganspace) | 2020 |
 | [Closed-Form Factorization of Latent Semantics in GANs](http://arxiv.org/abs/2007.06600) | arXiv:2007.06600 [cs] | [sefa](https://github.com/genforce/sefa) | 2020 |
 | [StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN](http://arxiv.org/abs/2111.01619) | arXiv:2111.01619 [cs] |  | 2021 |
-
+| [Using Latent Space Regression to Analyze and Leverage Compositionality in GANs](https://arxiv.org/abs/2103.10426v1) | ICLR |  | 2021 |
 
 ## Survey
 |  Title  |   Venue  |Code|Year|
@@ -300,6 +299,7 @@ A collection of papers I am interested in.
 | :white_check_mark: [Projected GANs Converge Faster]()| NeurIPS | [projected_gan](https://github.com/autonomousvision/projected_gan) | 2021 |
 | :white_check_mark: [Towards Faster and Stabilized GAN Training for High-Fidelity Few-Shot Image Synthesis](https://openreview.net/forum?id=1Fqg133qRaI) | ICLR2021 | [github](https://github.com/lucidrains/lightweight-gan) | 2021 |
 | :heart: [Ensembling Off-the-Shelf Models for GAN Training](http://arxiv.org/abs/2112.09130) | arXiv:2112.09130 [cs] | [vision-aided-gan](https://github.com/nupurkmr9/vision-aided-gan) | 2021 |
+| :heart: [StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets](http://arxiv.org/abs/2202.00273) | arXiv:2202.00273 [cs] |  | 2022 |
 
 
 ### Transformer
@@ -308,6 +308,7 @@ A collection of papers I am interested in.
 | [Compositional Transformers for Scene Generation](http://arxiv.org/abs/2111.08960) | NeurIPS |  | 2021 |
 | :heart: [GAN-Supervised Dense Visual Alignment](http://arxiv.org/abs/2112.05143) | arXiv:2112.05143 [cs] | [gangealing](https://github.com/wpeebles/gangealing) | 2021 |
 | [Improved Transformer for High-Resolution GANs](http://arxiv.org/abs/2106.07631) | arXiv:2106.07631 [cs] |  | 2021 |
+| [MaskGIT: Masked Generative Image Transformer](http://arxiv.org/abs/2202.04200) | arXiv:2202.04200 [cs] |  | 2022 |
 
 
 
@@ -524,7 +525,7 @@ A collection of papers I am interested in.
 | [Nerfies: Deformable Neural Radiance Fields](https://arxiv.org/abs/2011.12948v4) | 	arXiv:2011.12948 | [nerfies](https://github.com/google/nerfies) | 2020 |
 | [Self-Calibrating Neural Radiance Fields](http://arxiv.org/abs/2108.13826) | ICCV |  | 2021 |
 | [Light Field Networks: Neural Scene Representations with Single-Evaluation Rendering](http://arxiv.org/abs/2106.02634) | arXiv:2106.02634 [cs] |  | 2021 |
-| [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](http://arxiv.org/abs/2103.13415) | ICCV |  | 2021 |
+
 
 ### Sine
 |  Title  |   Venue  |Code|Year|Cite|
@@ -556,7 +557,7 @@ A collection of papers I am interested in.
 | [CAMPARI: Camera-Aware Decomposed Generative Neural Radiance Fields](http://arxiv.org/abs/2103.17269) | arXiv:2103.17269 [cs] |  | 2021 |
 | [GNeRF: GAN-Based Neural Radiance Field without Posed Camera](http://arxiv.org/abs/2103.15606) | arXiv:2103.15606 [cs] | [gnerf](https://github.com/MQ66/gnerf) | 2021 |
 | :heart: [Unconstrained Scene Generation with Locally Conditioned Radiance Fields](http://arxiv.org/abs/2104.00670) | ICCV | [ml-gsn](https://github.com/apple/ml-gsn) | 2021 |
-| :heart: [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](http://arxiv.org/abs/2109.01750) | ICCV |  | 2021 |
+| :heart: [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](http://arxiv.org/abs/2109.01750) | ICCV | [code-nerf](https://github.com/wbjang/code-nerf)  | 2021 |
 | [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](http://arxiv.org/abs/2109.01847) | ICCV |  | 2021 |
 | [A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis](http://arxiv.org/abs/2110.15678) | NeurIPS |  | 2021 |
 | [Generative Occupancy Fields for 3D Surface-Aware Image Synthesis](http://arxiv.org/abs/2111.00969) | NeurIPS |  | 2021 |
@@ -584,10 +585,19 @@ A collection of papers I am interested in.
 | [Plenoxels: Radiance Fields without Neural Networks](http://arxiv.org/abs/2112.05131) | arXiv:2112.05131 [cs] | [svox2](https://github.com/sxyu/svox2) | 2021 |
 | [Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](http://arxiv.org/abs/2112.10703) | arXiv:2112.10703 [cs] | [mega-nerf](https://github.com/cmusatyalab/mega-nerf) | 2021 |
 | :heart: [Neural Sparse Voxel Fields](http://arxiv.org/abs/2007.11571) | arXiv:2007.11571 [cs] | [NSVF](https://github.com/facebookresearch/NSVF) | 2021 |
+| [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](http://arxiv.org/abs/2103.13415) | ICCV |  | 2021 |
 | :heart: [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://arxiv.org/abs/2111.12077v2) | arXiv:2111.12077 [cs.CV] |  | 2021 |
 | :heart: [IBRNet: Learning Multi-View Image-Based Rendering](http://arxiv.org/abs/2102.13090) | arXiv:2102.13090 [cs] |  | 2021 |
 | :heart: [Volume Rendering of Neural Implicit Surfaces](http://arxiv.org/abs/2106.12052) | arXiv:2106.12052 [cs] |  | 2021 |
 | :heart: [Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control](http://arxiv.org/abs/2106.02019) | arXiv:2106.02019 [cs] |  | 2022 |
+| [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding]() | | [instant-ngp](https://github.com/NVlabs/instant-ngp) | | |
+| [Point-NeRF: Point-Based Neural Radiance Fields](http://arxiv.org/abs/2201.08845) | arXiv:2201.08845 [cs] | [pointnerf](https://github.com/Xharlie/pointnerf) | 2022 |
+| [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](http://arxiv.org/abs/2103.11078) | arXiv:2103.11078 [cs] |  | 2021 |
+| [MoFaNeRF: Morphable Facial Neural Radiance Field](http://arxiv.org/abs/2112.02308) | arXiv:2112.02308 [cs] |  | 2021 |
+| [Object-Centric Neural Scene Rendering](https://arxiv.org/abs/2012.08503v1) | 2020 |
+| [Semantic View Synthesis](https://arxiv.org/abs/2008.10598v1) | 2020 |
+| [NeRS: Neural Reflectance Surfaces for Sparse-View 3D Reconstruction in the Wild](https://arxiv.org/abs/2110.07604v3) | 2021 |
+
 
 
 
@@ -598,6 +608,8 @@ A collection of papers I am interested in.
 | [D-NeRF: Neural Radiance Fields for Dynamic Scenes](http://arxiv.org/abs/2011.13961) | arXiv:2011.13961 [cs] | [D-NeRF](https://github.com/albertpumarola/D-NeRF) | 2020 |
 | [Dynamic View Synthesis from Dynamic Monocular Video](http://arxiv.org/abs/2105.06468) | arXiv:2105.06468 [cs] | [DynamicNeRF](https://github.com/gaochen315/DynamicNeRF) | 2021 |
 | :heart: [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](http://arxiv.org/abs/2106.13228) | arXiv:2106.13228 [cs] | [hypernerf](https://github.com/google/hypernerf)  | 2021 |
+| [Neural Radiance Flow for 4D View Synthesis and Video Processing](https://arxiv.org/abs/2012.09790v2) | 2020 |
+
 
 
 
@@ -617,6 +629,7 @@ A collection of papers I am interested in.
 ### 3DMM Face
 
 - https://github.com/tencent-ailab/hifi3dface
+- https://github.com/ascust/3DMM-Fitting-Pytorch
 
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
@@ -755,38 +768,6 @@ A collection of papers I am interested in.
 | [Deep Meta Functionals for Shape Representation](http://arxiv.org/abs/1908.06277) | arXiv:1908.06277 [cs] |  | 2019 |
 
 
-## Transformer
-
-- https://github.com/xxxnell/how-do-vits-work
-
-|  Title  |   Venue  |Code|Year|
-|:--------|:--------:|:--------:|:--------:|
-| [Training Data-Efficient Image Transformers & Distillation through Attention](http://arxiv.org/abs/2012.12877) | arXiv:2012.12877 [cs] | [deit](https://github.com/facebookresearch/deit) | 2020 |
-| [Intriguing Properties of Vision Transformers](http://arxiv.org/abs/2105.10497) | arXiv:2105.10497 [cs] |  | 2021 |
-| [CogView: Mastering Text-to-Image Generation via Transformers](http://arxiv.org/abs/2105.13290) | arXiv:2105.13290 [cs] |  | 2021 |
-| [An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale](http://arxiv.org/abs/2010.11929) | arXiv:2010.11929 [cs] |  | 2021 |
-| [Scaling Vision Transformers](http://arxiv.org/abs/2106.04560) | arXiv:2106.04560 [cs] |  | 2021 |
-| [IA-RED$^2$: Interpretability-Aware Redundancy Reduction for Vision Transformers](http://arxiv.org/abs/2106.12620) | arXiv:2106.12620 [cs] |  | 2021 |
-| [Rethinking and Improving Relative Position Encoding for Vision Transformer]() | ICCV |  | 2021 |
-| [Go Wider Instead of Deeper](http://arxiv.org/abs/2107.11817) | arXiv:2107.11817 [cs] |  | 2021 |
-| [A Unified Efficient Pyramid Transformer for Semantic Segmentation](http://arxiv.org/abs/2107.14209) | arXiv:2107.14209 [cs] |  | 2021 |
-| :heart: [Conditional DETR for Fast Training Convergence](http://arxiv.org/abs/2108.06152) | ICCV |  | 2021 |
-| :heart: [Sketch Your Own GAN](http://arxiv.org/abs/2108.02774) | ICCV |  | 2021 |
-| [CrossFormer: A Versatile Vision Transformer Based on Cross-Scale Attention](http://arxiv.org/abs/2108.00154) | arXiv:2108.00154 [cs] |  | 2021 |
-| [Uformer: A General U-Shaped Transformer for Image Restoration](http://arxiv.org/abs/2106.03106) | arXiv:2106.03106 [cs] |  | 2021 |
-| [ConvNets vs. Transformers: Whose Visual Representations Are More Transferable?](http://arxiv.org/abs/2108.05305) | arXiv:2108.05305 [cs] |  | 2021 |
-| [Mobile-Former: Bridging MobileNet and Transformer](http://arxiv.org/abs/2108.05895) | arXiv:2108.05895 [cs] |  | 2021 |
-| [SOTR: Segmenting Objects with Transformers](http://arxiv.org/abs/2108.06747) | ICCV |  | 2021 |
-| [Video Transformer Network](http://arxiv.org/abs/2102.00719) | arXiv:2102.00719 [cs] |  | 2021 |
-| [Do Vision Transformers See Like Convolutional Neural Networks?](http://arxiv.org/abs/2108.08810) | arXiv:2108.08810 [cs, stat] |  | 2021 |
-| [UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-Wise Perspective with Transformer](http://arxiv.org/abs/2109.04335) | arXiv:2109.04335 [cs, eess] |  | 2021 |
-| [$\infty$-Former: Infinite Memory Transformer](http://arxiv.org/abs/2109.00301) | arXiv:2109.00301 [cs] |  | 2021 |
-| [PnP-DETR: Towards Efficient Visual Analysis with Transformers](http://arxiv.org/abs/2109.07036) | ICCV |  | 2021 |
-| [MobileViT: Light-Weight, General-Purpose, and Mobile-Friendly Vision Transformer](http://arxiv.org/abs/2110.02178) | arXiv:2110.02178 [cs] |  | 2021 |
-| [MetaFormer Is Actually What You Need for Vision](http://arxiv.org/abs/2111.11418) | arXiv:2111.11418 [cs] |  | 2021 |
-| [Restormer: Efficient Transformer for High-Resolution Image Restoration](http://arxiv.org/abs/2111.09881) | arXiv:2111.09881 [cs] | [Restormer](https://github.com/swz30/Restormer) | 2021 |
-
-
 
 ## DA
 |  Title  |   Venue  |Code|Year|
@@ -875,7 +856,7 @@ A collection of papers I am interested in.
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [Anchor DETR: Query Design for Transformer-Based Detector](http://arxiv.org/abs/2109.07107) | arXiv:2109.07107 [cs] |  | 2021 |
-| [Detecting Twenty-Thousand Classes Using Image-Level Supervision](http://arxiv.org/abs/2201.02605) | arXiv:2201.02605 [cs] |  | 2022 |
+| :heart: [Detecting Twenty-Thousand Classes Using Image-Level Supervision](http://arxiv.org/abs/2201.02605) | arXiv:2201.02605 [cs] |  | 2022 |
 
 
 
@@ -895,9 +876,50 @@ A collection of papers I am interested in.
 | [ConvMLP: Hierarchical Convolutional MLPs for Vision](http://arxiv.org/abs/2109.04454) | arXiv:2109.04454 [cs] |  | 2021 |
 | [A Battle of Network Structures: An Empirical Study of CNN, Transformer, and MLP]() | arXiv:2108.13002 [cs.CV] |  | 2021 |
 | [Sparse-MLP: A Fully-MLP Architecture with Conditional Computation](http://arxiv.org/abs/2109.02008) | arXiv:2109.02008 [cs] |  | 2021 |
+| [MLP-Mixer: An All-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601v1) | 2021 |
+| [CycleMLP: A MLP-like Architecture for Dense Prediction](http://arxiv.org/abs/2107.10224) | ICLR |  | 2022 |
+
+
+### Transformer
+
+- https://github.com/xxxnell/how-do-vits-work
+
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Training Data-Efficient Image Transformers & Distillation through Attention](http://arxiv.org/abs/2012.12877) | arXiv:2012.12877 [cs] | [deit](https://github.com/facebookresearch/deit) | 2020 |
+| [Intriguing Properties of Vision Transformers](http://arxiv.org/abs/2105.10497) | arXiv:2105.10497 [cs] |  | 2021 |
+| [CogView: Mastering Text-to-Image Generation via Transformers](http://arxiv.org/abs/2105.13290) | arXiv:2105.13290 [cs] |  | 2021 |
+| [An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale](http://arxiv.org/abs/2010.11929) | arXiv:2010.11929 [cs] |  | 2021 |
+| [Scaling Vision Transformers](http://arxiv.org/abs/2106.04560) | arXiv:2106.04560 [cs] |  | 2021 |
+| [IA-RED$^2$: Interpretability-Aware Redundancy Reduction for Vision Transformers](http://arxiv.org/abs/2106.12620) | arXiv:2106.12620 [cs] |  | 2021 |
+| [Rethinking and Improving Relative Position Encoding for Vision Transformer]() | ICCV |  | 2021 |
+| [Go Wider Instead of Deeper](http://arxiv.org/abs/2107.11817) | arXiv:2107.11817 [cs] |  | 2021 |
+| [A Unified Efficient Pyramid Transformer for Semantic Segmentation](http://arxiv.org/abs/2107.14209) | arXiv:2107.14209 [cs] |  | 2021 |
+| :heart: [Conditional DETR for Fast Training Convergence](http://arxiv.org/abs/2108.06152) | ICCV |  | 2021 |
+| :heart: [Sketch Your Own GAN](http://arxiv.org/abs/2108.02774) | ICCV |  | 2021 |
+| [CrossFormer: A Versatile Vision Transformer Based on Cross-Scale Attention](http://arxiv.org/abs/2108.00154) | arXiv:2108.00154 [cs] |  | 2021 |
+| [Uformer: A General U-Shaped Transformer for Image Restoration](http://arxiv.org/abs/2106.03106) | arXiv:2106.03106 [cs] |  | 2021 |
+| [ConvNets vs. Transformers: Whose Visual Representations Are More Transferable?](http://arxiv.org/abs/2108.05305) | arXiv:2108.05305 [cs] |  | 2021 |
+| [Mobile-Former: Bridging MobileNet and Transformer](http://arxiv.org/abs/2108.05895) | arXiv:2108.05895 [cs] |  | 2021 |
+| [SOTR: Segmenting Objects with Transformers](http://arxiv.org/abs/2108.06747) | ICCV |  | 2021 |
+| [Video Transformer Network](http://arxiv.org/abs/2102.00719) | arXiv:2102.00719 [cs] |  | 2021 |
+| [Do Vision Transformers See Like Convolutional Neural Networks?](http://arxiv.org/abs/2108.08810) | arXiv:2108.08810 [cs, stat] |  | 2021 |
+| [UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-Wise Perspective with Transformer](http://arxiv.org/abs/2109.04335) | arXiv:2109.04335 [cs, eess] |  | 2021 |
+| [$\infty$-Former: Infinite Memory Transformer](http://arxiv.org/abs/2109.00301) | arXiv:2109.00301 [cs] |  | 2021 |
+| [PnP-DETR: Towards Efficient Visual Analysis with Transformers](http://arxiv.org/abs/2109.07036) | ICCV |  | 2021 |
+| [MobileViT: Light-Weight, General-Purpose, and Mobile-Friendly Vision Transformer](http://arxiv.org/abs/2110.02178) | arXiv:2110.02178 [cs] |  | 2021 |
+| [MetaFormer Is Actually What You Need for Vision](http://arxiv.org/abs/2111.11418) | arXiv:2111.11418 [cs] |  | 2021 |
+| [Restormer: Efficient Transformer for High-Resolution Image Restoration](http://arxiv.org/abs/2111.09881) | arXiv:2111.09881 [cs] | [Restormer](https://github.com/swz30/Restormer) | 2021 |
+| :white_check_mark: [An Empirical Study of Training Self-Supervised Vision Transformers](http://arxiv.org/abs/2104.02057) | arXiv:2104.02057 [cs] |  | 2021 |
+| :white_check_mark: [When Vision Transformers Outperform ResNets without Pre-Training or Strong Data Augmentations](https://arxiv.org/abs/2106.01548v2) | arXiv:2106.01548 [cs.CV] |  | 2021 |
+| [Visual Attention Network](http://arxiv.org/abs/2202.09741) | arXiv:2202.09741 [cs] |  | 2022 |
+
 
 
 ### ssl
+
+- https://github.com/ucasligang/awesome-MIM
+
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [Emerging Properties in Self-Supervised Vision Transformers](http://arxiv.org/abs/2104.14294) | arXiv:2104.14294 [cs] | [dino](https://github.com/facebookresearch/dino) | 2021 |
@@ -936,8 +958,10 @@ A collection of papers I am interested in.
 ### Super-resolution
 - https://github.com/nihui/realsr-ncnn-vulkan
 
+### Frame Interpolation
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [FILM: Frame Interpolation for Large Motion](http://arxiv.org/abs/2202.04901) | arXiv:2202.04901 [cs] |  | 2022 |
 
 
 ### Denoising
