@@ -300,6 +300,7 @@ A collection of papers I am interested in.
 | :white_check_mark: [Towards Faster and Stabilized GAN Training for High-Fidelity Few-Shot Image Synthesis](https://openreview.net/forum?id=1Fqg133qRaI) | ICLR2021 | [github](https://github.com/lucidrains/lightweight-gan) | 2021 |
 | :heart: [Ensembling Off-the-Shelf Models for GAN Training](http://arxiv.org/abs/2112.09130) | arXiv:2112.09130 [cs] | [vision-aided-gan](https://github.com/nupurkmr9/vision-aided-gan) | 2021 |
 | :heart: [StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets](http://arxiv.org/abs/2202.00273) | arXiv:2202.00273 [cs] |  | 2022 |
+| [When, Why, and Which Pretrained GANs Are Useful?](http://arxiv.org/abs/2202.08937) | ICLR |  | 2022 |
 
 
 ### Transformer
@@ -476,8 +477,8 @@ A collection of papers I am interested in.
 | [Inverting Adversarially Robust Networks for Image Synthesis](http://arxiv.org/abs/2106.06927) | arXiv:2106.06927 [cs] |  | 2021 |
 | [Demystifying MMD GANs](http://arxiv.org/abs/1801.01401) | ICLR | Kernel Inception Distance (KID) | 2018 |
 | [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](http://arxiv.org/abs/1706.08500) | NeurIPS | Fréchet Inception Distance (FID) | 2017 |
-| [High-Fidelity Performance Metrics for Generative Models in PyTorch](https://github.com/toshas/torch-fidelity) | | torch-fidelity
- | 2020 |
+| [Improved Techniques for Training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf) | NeurIPS | Inception Score (IS) |  2016 |
+| [High-Fidelity Performance Metrics for Generative Models in PyTorch](https://github.com/toshas/torch-fidelity) | | torch-fidelity | 2020 |
 | [Reliable Fidelity and Diversity Metrics for Generative Models](http://arxiv.org/abs/2002.09797) | ICML | [generative-evaluation-prdc](https://github.com/clovaai/generative-evaluation-prdc) | 2020 |
 
 
@@ -557,7 +558,6 @@ A collection of papers I am interested in.
 | [CAMPARI: Camera-Aware Decomposed Generative Neural Radiance Fields](http://arxiv.org/abs/2103.17269) | arXiv:2103.17269 [cs] |  | 2021 |
 | [GNeRF: GAN-Based Neural Radiance Field without Posed Camera](http://arxiv.org/abs/2103.15606) | arXiv:2103.15606 [cs] | [gnerf](https://github.com/MQ66/gnerf) | 2021 |
 | :heart: [Unconstrained Scene Generation with Locally Conditioned Radiance Fields](http://arxiv.org/abs/2104.00670) | ICCV | [ml-gsn](https://github.com/apple/ml-gsn) | 2021 |
-| :heart: [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](http://arxiv.org/abs/2109.01750) | ICCV | [code-nerf](https://github.com/wbjang/code-nerf)  | 2021 |
 | [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](http://arxiv.org/abs/2109.01847) | ICCV |  | 2021 |
 | [A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis](http://arxiv.org/abs/2110.15678) | NeurIPS |  | 2021 |
 | [Generative Occupancy Fields for 3D Surface-Aware Image Synthesis](http://arxiv.org/abs/2111.00969) | NeurIPS |  | 2021 |
@@ -597,7 +597,8 @@ A collection of papers I am interested in.
 | [Object-Centric Neural Scene Rendering](https://arxiv.org/abs/2012.08503v1) | 2020 |
 | [Semantic View Synthesis](https://arxiv.org/abs/2008.10598v1) | 2020 |
 | [NeRS: Neural Reflectance Surfaces for Sparse-View 3D Reconstruction in the Wild](https://arxiv.org/abs/2110.07604v3) | 2021 |
-
+| [MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis](http://arxiv.org/abs/2103.14910) | arXiv:2103.14910 [cs] |  | 2021 |
+| :white_check_mark: [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](http://arxiv.org/abs/2109.01750) | ICCV | [code-nerf](https://github.com/wbjang/code-nerf)  | 2021 |
 
 
 
@@ -610,6 +611,18 @@ A collection of papers I am interested in.
 | :heart: [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](http://arxiv.org/abs/2106.13228) | arXiv:2106.13228 [cs] | [hypernerf](https://github.com/google/hypernerf)  | 2021 |
 | [Neural Radiance Flow for 4D View Synthesis and Video Processing](https://arxiv.org/abs/2012.09790v2) | 2020 |
 
+
+## SDF
+
+- https://github.com/facebookresearch/pifuhd
+
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| :white_check_mark: [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](http://arxiv.org/abs/1901.05103) | arXiv:1901.05103 [cs] | [DeepSDF](https://github.com/facebookresearch/DeepSDF) | 2019 |
+| [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](http://arxiv.org/abs/1610.07584) | NeurIPS |  | 2016 |
+| [Occupancy Networks: Learning 3D Reconstruction in Function Space](http://arxiv.org/abs/1812.03828) | arXiv:1812.03828 [cs] |  | 2019 |
+| [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](http://arxiv.org/abs/1905.05172) | arXiv:1905.05172 [cs] |  | 2019 |
+| [Deep Meta Functionals for Shape Representation](http://arxiv.org/abs/1908.06277) | arXiv:1908.06277 [cs] |  | 2019 |
 
 
 
@@ -755,17 +768,6 @@ A collection of papers I am interested in.
 | [Toward Realistic Single-View 3D Object Reconstruction with Unsupervised Learning from Multiple Images](http://arxiv.org/abs/2109.02288) | ICCV |  | 2021 |
 
 
-
-## sdf
-
-- https://github.com/facebookresearch/pifuhd
-
-|  Title  |   Venue  |Code|Year|
-|:--------|:--------:|:--------:|:--------:|
-| [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](http://arxiv.org/abs/1901.05103) | arXiv:1901.05103 [cs] |  | 2019 |
-| [Occupancy Networks: Learning 3D Reconstruction in Function Space](http://arxiv.org/abs/1812.03828) | arXiv:1812.03828 [cs] |  | 2019 |
-| [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](http://arxiv.org/abs/1905.05172) | arXiv:1905.05172 [cs] |  | 2019 |
-| [Deep Meta Functionals for Shape Representation](http://arxiv.org/abs/1908.06277) | arXiv:1908.06277 [cs] |  | 2019 |
 
 
 
@@ -952,6 +954,28 @@ A collection of papers I am interested in.
 | [Rethinking and Improving Relative Position Encoding for Vision Transformer]() | ICCV |  | 2021 |
 | [A Structured Dictionary Perspective on Implicit Neural Representations](http://arxiv.org/abs/2112.01917) | arXiv:2112.01917 [cs] |  | 2021 |
 
+
+## NAS
+
+### NAS cls
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578v2) | ICLR |  | 2017 |
+| [Learning Transferable Architectures for Scalable Image Recognition](http://arxiv.org/abs/1707.07012) | CVPR |  | 2018 |
+| [Progressive Neural Architecture Search](http://arxiv.org/abs/1712.00559) | ECCV |  | 2018 |
+| [Efficient Neural Architecture Search via Parameter Sharing](http://arxiv.org/abs/1802.03268) | ICML |  | 2018 |
+| [MnasNet: Platform-Aware Neural Architecture Search for Mobile](http://arxiv.org/abs/1807.11626) | CVPR |  | 2019 |
+| [DARTS: Differentiable Architecture Search](http://arxiv.org/abs/1806.09055) | ICLR |  | 2019 |
+
+### NAS GAN
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [AlphaGAN: Fully Differentiable Architecture Search for Generative Adversarial Networks]() | IEEE Transactions on Pattern Analysis and Machine Intelligence |  | 2021 |
+| [GAN Compression: Efficient Architectures for Interactive Conditional GANs](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_GAN_Compression_Efficient_Architectures_for_Interactive_Conditional_GANs_CVPR_2020_paper.html) | CVPR |  | 2020 |
+| [Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search](http://arxiv.org/abs/2007.09180) | ECCV |  | 2020 |
+| [AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](http://arxiv.org/abs/2006.08198) | ICML |  | 2020 |
+| [A Multi-Objective Architecture Search for Generative Adversarial Networks](https://doi.org/10.1145/3377929.3390004) |  |  |  2020 |
+| [AutoGAN: Neural Architecture Search for Generative Adversarial Networks](http://arxiv.org/abs/1908.03835) | ICCV |  | 2019 |
 
 
 ## Low-level
