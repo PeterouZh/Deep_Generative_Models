@@ -369,6 +369,7 @@ A collection of papers I am interested in.
 ### Compression
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [GAN Compression: Efficient Architectures for Interactive Conditional GANs](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_GAN_Compression_Efficient_Architectures_for_Interactive_Conditional_GANs_CVPR_2020_paper.html) | CVPR |  | 2020 |
 | [Online Multi-Granularity Distillation for GAN Compression](http://arxiv.org/abs/2108.06908) | ICCV |  | 2021 |
 | [Revisiting Discriminator in GAN Compression: A Generator-Discriminator Cooperative Compression Scheme](http://arxiv.org/abs/2110.14439) | arXiv:2110.14439 [cs] | [GCC](https://github.com/SJLeo/GCC) | 2021 |
 
