@@ -600,6 +600,8 @@ A collection of papers I am interested in.
 | [NeRS: Neural Reflectance Surfaces for Sparse-View 3D Reconstruction in the Wild](https://arxiv.org/abs/2110.07604v3) | 2021 |
 | [MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis](http://arxiv.org/abs/2103.14910) | arXiv:2103.14910 [cs] |  | 2021 |
 | :white_check_mark: [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](http://arxiv.org/abs/2109.01750) | ICCV | [code-nerf](https://github.com/wbjang/code-nerf)  | 2021 |
+| [NeRF-SR: High-Quality Neural Radiance Fields Using Super-Sampling](http://arxiv.org/abs/2112.01759) | arXiv:2112.01759 [cs] |  | 2021 |
+| :heart: [TensoRF: Tensorial Radiance Fields](http://arxiv.org/abs/2203.09517) | arXiv:2203.09517 [cs] |  | 2022 |
 
 
 
@@ -611,6 +613,8 @@ A collection of papers I am interested in.
 | [Dynamic View Synthesis from Dynamic Monocular Video](http://arxiv.org/abs/2105.06468) | arXiv:2105.06468 [cs] | [DynamicNeRF](https://github.com/gaochen315/DynamicNeRF) | 2021 |
 | :heart: [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](http://arxiv.org/abs/2106.13228) | arXiv:2106.13228 [cs] | [hypernerf](https://github.com/google/hypernerf)  | 2021 |
 | [Neural Radiance Flow for 4D View Synthesis and Video Processing](https://arxiv.org/abs/2012.09790v2) | 2020 |
+| :heart: [Animatable Neural Implicit Surfaces for Creating Avatars from Videos](http://arxiv.org/abs/2203.08133) | arXiv:2203.08133 [cs] |  | 2022 |
+
 
 
 ## SDF
