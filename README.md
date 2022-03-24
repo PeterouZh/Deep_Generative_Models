@@ -602,6 +602,10 @@ A collection of papers I am interested in.
 | :white_check_mark: [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](http://arxiv.org/abs/2109.01750) | ICCV | [code-nerf](https://github.com/wbjang/code-nerf)  | 2021 |
 | [NeRF-SR: High-Quality Neural Radiance Fields Using Super-Sampling](http://arxiv.org/abs/2112.01759) | arXiv:2112.01759 [cs] |  | 2021 |
 | :heart: [TensoRF: Tensorial Radiance Fields](http://arxiv.org/abs/2203.09517) | arXiv:2203.09517 [cs] |  | 2022 |
+| [Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields](http://arxiv.org/abs/2203.10821) | arXiv:2203.10821 [cs] |  | 2022 |
+| [Pix2NeRF: Unsupervised Conditional $\pi$-GAN for Single Image to Neural Radiance Fields Translation](http://arxiv.org/abs/2202.13162) | arXiv:2202.13162 [cs] |  | 2022 |
+| [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](http://arxiv.org/abs/2112.05139) | arXiv:2112.05139 [cs] |  | 2022 |
+| [BARF: Bundle-Adjusting Neural Radiance Fields](http://arxiv.org/abs/2104.06405) | arXiv:2104.06405 [cs] |  | 2021 |
 
 
 
