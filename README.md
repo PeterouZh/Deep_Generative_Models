@@ -2,6 +2,10 @@
 
 A collection of papers I am interested in.
 
+
+## Awesome
+
+- https://ait.ethz.ch/index.php
 ## Project
 
 - [mmgeneration](https://github.com/open-mmlab/mmgeneration)
