@@ -610,6 +610,8 @@ A collection of papers I am interested in.
 | [Pix2NeRF: Unsupervised Conditional $\pi$-GAN for Single Image to Neural Radiance Fields Translation](http://arxiv.org/abs/2202.13162) | arXiv:2202.13162 [cs] |  | 2022 |
 | [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](http://arxiv.org/abs/2112.05139) | arXiv:2112.05139 [cs] |  | 2022 |
 | [BARF: Bundle-Adjusting Neural Radiance Fields](http://arxiv.org/abs/2104.06405) | arXiv:2104.06405 [cs] |  | 2021 |
+| [Unified Implicit Neural Stylization](http://arxiv.org/abs/2204.01943) | arXiv:2204.01943 [cs] |  | 2022 |
+| [SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image](http://arxiv.org/abs/2204.00928) | arXiv:2204.00928 [cs] |  | 2022 |
 
 
 
@@ -623,6 +625,15 @@ A collection of papers I am interested in.
 | [Neural Radiance Flow for 4D View Synthesis and Video Processing](https://arxiv.org/abs/2012.09790v2) | 2020 |
 | :heart: [Animatable Neural Implicit Surfaces for Creating Avatars from Videos](http://arxiv.org/abs/2203.08133) | arXiv:2203.08133 [cs] |  | 2022 |
 
+
+### 3D FACE
+
+- https://github.com/TimoBolkart/BFM_to_FLAME
+
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| :heart: [EMOCA: Emotion Driven Monocular Face Capture and Animation] | CVPR |  | 2022 |
+| [FaceVerse: A Fine-Grained and Detail-Controllable 3D Face Morphable Model from a Hybrid Dataset] | CVPR |  | 2022 |
 
 
 ## SDF
