@@ -6,6 +6,7 @@ A collection of papers I am interested in.
 ## Awesome
 
 - https://ait.ethz.ch/index.php
+- https://liuyebin.com/student.html
 ## Project
 
 - [mmgeneration](https://github.com/open-mmlab/mmgeneration)
@@ -624,6 +625,12 @@ A collection of papers I am interested in.
 | :heart: [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](http://arxiv.org/abs/2106.13228) | arXiv:2106.13228 [cs] | [hypernerf](https://github.com/google/hypernerf)  | 2021 |
 | [Neural Radiance Flow for 4D View Synthesis and Video Processing](https://arxiv.org/abs/2012.09790v2) | 2020 |
 | :heart: [Animatable Neural Implicit Surfaces for Creating Avatars from Videos](http://arxiv.org/abs/2203.08133) | arXiv:2203.08133 [cs] |  | 2022 |
+
+### Body
+
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes](http://arxiv.org/abs/2104.03953) | ICCV |  | 2021 |
 
 
 ### 3D FACE
