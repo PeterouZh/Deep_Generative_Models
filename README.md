@@ -7,6 +7,13 @@ A collection of papers I am interested in.
 
 - https://ait.ethz.ch/index.php
 - https://liuyebin.com/student.html
+- https://virtualhumans.mpi-inf.mpg.de/
+- https://ps.is.mpg.de/publications
+- https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence/publications
+- https://ait.ethz.ch/people/hilliges/
+- https://vlg.inf.ethz.ch/publications.html
+
+
 ## Project
 
 - [mmgeneration](https://github.com/open-mmlab/mmgeneration)
@@ -628,9 +635,21 @@ A collection of papers I am interested in.
 
 ### Body
 
+- https://github.com/3DFaceBody/awesome-3dbody-papers
+- https://github.com/openMVG/awesome_3DReconstruction_list
+
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes](http://arxiv.org/abs/2104.03953) | ICCV |  | 2021 |
+| [The Power of Points for Modeling Humans in Clothing] | ICCV |  | 2021 |
+| [StylePeople: A Generative Model of Fullbody Human Avatars](http://arxiv.org/abs/2104.08363) | arXiv:2104.08363 [cs] |  | 2021 |
+| [NPMs: Neural Parametric Models for 3D Deformable Shapes](http://arxiv.org/abs/2104.00702) | arXiv:2104.00702 [cs] |  | 2021 |
+
+### Body from video
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video](http://arxiv.org/abs/2201.12792) | arXiv:2201.12792 [cs] |  | 2022 |
+| [HumanNeRF: Free-Viewpoint Rendering of Moving People from Monocular Video](http://arxiv.org/abs/2201.04127) | arXiv:2201.04127 [cs] |  | 2022 |
 
 
 ### 3D FACE
