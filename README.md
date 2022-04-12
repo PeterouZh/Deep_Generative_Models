@@ -322,6 +322,7 @@ A collection of papers I am interested in.
 | :heart: [GAN-Supervised Dense Visual Alignment](http://arxiv.org/abs/2112.05143) | arXiv:2112.05143 [cs] | [gangealing](https://github.com/wpeebles/gangealing) | 2021 |
 | [Improved Transformer for High-Resolution GANs](http://arxiv.org/abs/2106.07631) | arXiv:2106.07631 [cs] |  | 2021 |
 | [MaskGIT: Masked Generative Image Transformer](http://arxiv.org/abs/2202.04200) | arXiv:2202.04200 [cs] |  | 2022 |
+| [StyleSwin: Transformer-Based GAN for High-Resolution Image Generation](http://arxiv.org/abs/2112.10762) | CVPR |  | 2022 |
 
 
 
@@ -637,6 +638,7 @@ A collection of papers I am interested in.
 
 - https://github.com/3DFaceBody/awesome-3dbody-papers
 - https://github.com/openMVG/awesome_3DReconstruction_list
+- https://github.com/ytrock/THuman2.0-Dataset
 
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
@@ -644,6 +646,9 @@ A collection of papers I am interested in.
 | [The Power of Points for Modeling Humans in Clothing] | ICCV |  | 2021 |
 | [StylePeople: A Generative Model of Fullbody Human Avatars](http://arxiv.org/abs/2104.08363) | arXiv:2104.08363 [cs] |  | 2021 |
 | [NPMs: Neural Parametric Models for 3D Deformable Shapes](http://arxiv.org/abs/2104.00702) | arXiv:2104.00702 [cs] |  | 2021 |
+| :heart: [ICON: Implicit Clothed Humans Obtained from Normals](http://arxiv.org/abs/2112.09127) | arXiv:2112.09127 [cs] | [ICON](https://github.com/YuliangXiu/ICON) | 2022 |
+| :heart: [Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](http://arxiv.org/abs/2105.02872) | arXiv:2105.02872 [cs] | [animatable_nerf](https://github.com/zju3dv/animatable_nerf)  | 2021 |
+
 
 ### Body from video
 |  Title  |   Venue  |Code|Year|
