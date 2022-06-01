@@ -435,16 +435,6 @@ A collection of papers I am interested in.
 | [Alias-Free Generative Adversarial Networks](http://arxiv.org/abs/2106.12423)                               | arXiv:2106.12423 [cs, stat] |      | 2021 |
 | [On Buggy Resizing Libraries and Surprising Subtleties in FID Calculation](http://arxiv.org/abs/2104.11222) |    arXiv:2104.11222 [cs]    |      | 2021 |
 
-## DDPM
-
-| Title                                                                                                         |            Venue            |                                   Code                                    | Year |
-| :------------------------------------------------------------------------------------------------------------ | :-------------------------: | :-----------------------------------------------------------------------: | :--: |
-| [Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2006.11239)                                   | arXiv:2006.11239 [cs, stat] |                                                                           | 2020 |
-| [ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2108.02938)     |            ICCV             |                                                                           | 2021 |
-| [Diffusion Models Beat GANs on Image Synthesis](http://arxiv.org/abs/2105.05233)                              | arXiv:2105.05233 [cs, stat] |      [guided-diffusion](https://github.com/openai/guided-diffusion)       | 2021 |
-| [SDEdit: Image Synthesis and Editing with Stochastic Differential Equations](http://arxiv.org/abs/2108.01073) |    arXiv:2108.01073 [cs]    |              [SDEdit](https://github.com/ermongroup/SDEdit)               | 2021 |
-| [D2C: Diffusion-Denoising Models for Few-Shot Conditional Generation](http://arxiv.org/abs/2106.06819)        |    arXiv:2106.06819 [cs]    |                                                                           | 2021 |
-| [Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/abs/2112.03126v1)             |                             | [ddpm-segmentation](https://github.com/yandex-research/ddpm-segmentation) | 2021 |
 
 ## GAN application
 
@@ -535,6 +525,25 @@ A collection of papers I am interested in.
 | :heart: [Neural Image Representations for Multi-Image Fusion and Layer Separation](http://arxiv.org/abs/2108.01199) | arXiv:2108.01199 [cs] |      | 2021 |
 | [Learning Continuous Image Representation with Local Implicit Image Function](http://arxiv.org/abs/2012.09161)      |         CVPR          |      | 2021 |
 
+
+## DDPM
+
+| Title                                                                                                         |            Venue            |                                   Code                                    | Year |
+| :------------------------------------------------------------------------------------------------------------ | :-------------------------: | :-----------------------------------------------------------------------: | :--: |
+| [Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2006.11239)                                   | arXiv:2006.11239 [cs, stat] |                 [diffusion](https://github.com/hojonathanho/diffusion)                                                          | 2020 |
+| [ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2108.02938)     |            ICCV             |                                                                           | 2021 |
+| [Diffusion Models Beat GANs on Image Synthesis](http://arxiv.org/abs/2105.05233)                              | arXiv:2105.05233 [cs, stat] |      [guided-diffusion](https://github.com/openai/guided-diffusion)       | 2021 |
+| [SDEdit: Image Synthesis and Editing with Stochastic Differential Equations](http://arxiv.org/abs/2108.01073) |    arXiv:2108.01073 [cs]    |              [SDEdit](https://github.com/ermongroup/SDEdit)               | 2021 |
+| [D2C: Diffusion-Denoising Models for Few-Shot Conditional Generation](http://arxiv.org/abs/2106.06819)        |    arXiv:2106.06819 [cs]    |                                                                           | 2021 |
+| [Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/abs/2112.03126v1)             |                             | [ddpm-segmentation](https://github.com/yandex-research/ddpm-segmentation) | 2021 |
+
+## Text-to-image
+| Title                                                                                                                  |            Venue             |                            Code                            | Year |
+| :--------------------------------------------------------------------------------------------------------------------- | :--------------------------: | :--------------------------------------------------------: | :--: |
+| [Hierarchical Text-Conditional Image Generation with CLIP Latents](http://arxiv.org/abs/2204.06125) | | [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) | 2022 |
+| [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487v1) | | [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch),  [Imagen-pytorch](https://github.com/cene555/Imagen-pytorch) | 2022 |
+
+
 ## 3D & NeRF
 
 - https://www.meshlab.net/
@@ -597,6 +606,8 @@ A collection of papers I am interested in.
 | [Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images](http://arxiv.org/abs/2203.15926) |            CVPR             |                                                        | 2022 |
 | :heavy_check_mark: [Multi-View Consistent Generative Adversarial Networks for 3D-Aware Image Synthesis](http://arxiv.org/abs/2204.06307)          |            CVPR             |   [MVCGAN](https://github.com/Xuanmeng-Zhang/MVCGAN)   | 2022 |
 | :heavy_check_mark: [FENeRF: Face Editing in Neural Radiance Fields]()                                                                             |            CVPR             |    [FENeRF](https://github.com/MrTornado24/FENeRF)     | 2022 |
+| :heavy_check_mark: [IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-Aware Portrait Synthesis](http://arxiv.org/abs/2205.15517) | arXiv:2205.15517 |  | 2022 |
+
 
 ### NeRF
 
@@ -659,6 +670,7 @@ A collection of papers I am interested in.
 | Title                                                                                                                    |                   Venue                   |                             Code                             | Year |
 | :----------------------------------------------------------------------------------------------------------------------- | :---------------------------------------: | :----------------------------------------------------------: | :--: |
 | [SMPL: A Skinned Multi-Person Linear Model]()                                                                            | ACM Trans. Graphics (Proc. SIGGRAPH Asia) |                                                              | 2015 |
+| [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image]()                                                |                   CVPR                    |                           [SMPL-X]                           | 2019 |
 | [AMASS: Archive of Motion Capture as Surface Shapes]()                                                                   |                   ICCV                    |       [AMASS](https://amass.is.tue.mpg.de/index.html)        | 2019 |
 | [SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes](http://arxiv.org/abs/2104.03953) |                   ICCV                    |                                                              | 2021 |
 | :heart: [The Power of Points for Modeling Humans in Clothing]()                                                          |                   ICCV                    |                                                              | 2021 |
@@ -678,6 +690,9 @@ A collection of papers I am interested in.
 | :heavy_check_mark: [3D-Aware Semantic-Guided Generative Model for Human Synthesis](http://arxiv.org/abs/2112.01422) | arXiv:2112.01422 [cs] |                                                      | 2021 |
 | :heart: [InsetGAN for Full-Body Image Generation](http://arxiv.org/abs/2203.07293)                                  | arXiv:2203.07293 [cs] |                                                      | 2022 |
 | [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](http://arxiv.org/abs/2205.08535)         |       SIGGRAPH        | [AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) | 2022 |
+| [Text2Human: Text-Driven Controllable Human Image Generation] | ACM Transactions on Graphics (TOG) | [Text2Human](https://github.com/yumingj/Text2Human) | 2022 |
+| [DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations]() |  CVPR |  | 2016 |
+
 
 ### Body from video
 
@@ -709,7 +724,7 @@ A collection of papers I am interested in.
 | Title                                                                                                      |         Venue         |                              Code                               | Year |
 | :--------------------------------------------------------------------------------------------------------- | :-------------------: | :-------------------------------------------------------------: | ---- |
 | [Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer](http://arxiv.org/abs/2203.13248) | arXiv:2203.13248 [cs] | [DualStyleGAN](https://github.com/williamyang1991/DualStyleGAN) | 2022 |
-| [Stitch It in Time: GAN-Based Facial Editing of Real Videos](http://arxiv.org/abs/2201.08361)              |      arXiv. | [STIT](https://github.com/rotemtzaban/STIT) |2022      |
+| [Stitch It in Time: GAN-Based Facial Editing of Real Videos](http://arxiv.org/abs/2201.08361)              |        arXiv.         |           [STIT](https://github.com/rotemtzaban/STIT)           | 2022 |
 
 ### Face Animation
 
@@ -725,6 +740,15 @@ A collection of papers I am interested in.
 | [Neural 3D Scene Reconstruction with the Manhattan-World Assumption](http://arxiv.org/abs/2205.02836)                        |                        CVPR                        |    [manhattan_sdf](https://github.com/zju3dv/manhattan_sdf)     | 2022 |
 | [Differentiable Signed Distance Function Rendering]()                                                                        | Transactions on Graphics (Proceedings of SIGGRAPH) | [sdf](https://github.com/lucidrains/differentiable-SDF-pytorch) | 2022 |
 | [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-View Reconstruction](http://arxiv.org/abs/2106.10689) |                                                    |            [NeuS](https://github.com/Totoro97/NeuS)             | 2021 |
+
+### Motion
+
+| Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
+| :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
+| [GANimator: Neural Motion Synthesis from a Single Sequence]()  | ACM Transactions on Graphics (TOG)  | [ganimator](https://github.com/PeizhuoLi/ganimator) | 2022 |
+| [Watch It Move: Unsupervised Discovery of 3D Joints for Re-Posing of Articulated Objects] | CVPR |  [watch-it-move](https://github.com/NVlabs/watch-it-move) | 2022 |
+
+
 
 ## SDF
 
