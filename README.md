@@ -183,6 +183,8 @@ A collection of papers I am interested in.
 | [Improved StyleGAN Embedding: Where Are the Good Latents?](http://arxiv.org/abs/2012.09036)                                                                                                                                                          |             arXiv:2012.09036 [cs]             |                [II2S](https://github.com/ZPdesu/II2S)                | 2021 |
 | [EditGAN: High-Precision Semantic Image Editing](https://arxiv.org/abs/2111.03186v1)                                                                                                                                                                 |                                               |    [editGAN_release](https://github.com/nv-tlabs/editGAN_release)    | 2021 |
 | [Grasping the Arrow of Time from the Singularity: Decoding Micromotion in Low-Dimensional Latent Spaces from StyleGAN](http://arxiv.org/abs/2204.12696)                                                                                              |             arXiv:2204.12696 [cs]             |                                                                      | 2022 |
+| [Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing](http://arxiv.org/abs/2206.08357) | CVPR | [sam_inversion](https://github.com/adobe-research/sam_inversion)  | arXiv. 2022 |
+
 
 ### Encoder
 
@@ -408,6 +410,8 @@ A collection of papers I am interested in.
 | Title                                                                                    |         Venue         | Code | Year |
 | :--------------------------------------------------------------------------------------- | :-------------------: | :--: | :--: |
 | [Labels4Free: Unsupervised Segmentation Using StyleGAN](http://arxiv.org/abs/2103.14968) | arXiv:2103.14968 [cs] |      | 2021 |
+| [BigDatasetGAN: Synthesizing ImageNet with Pixel-Wise Annotations](http://arxiv.org/abs/2201.04684) | ArXiv:2201.04684 [Cs] |  | arXiv. 2022 |
+
 
 ### Datasets
 
@@ -427,6 +431,8 @@ A collection of papers I am interested in.
 | :heart: [Fake It Till You Make It: Face Analysis in the Wild Using Synthetic Data Alone](http://arxiv.org/abs/2109.15102)        |  ICCV  |                  [FaceSynthetics](https://github.com/microsoft/FaceSynthetics)                   |    2021     |
 | [Seeing 3D Chairs: Exemplar Part-Based 2D-3D Alignment Using a Large Dataset of CAD Models]()                                    |  CVPR  |                                              chair                                               |    2014     |
 | [A Large-Scale Car Dataset for Fine-Grained Categorization and Verification](http://arxiv.org/abs/1506.08959)                    |  CVPR  |                                            [CompCars]                                            | arXiv. 2015 |
+| [The ArtBench Dataset: Benchmarking Generative Models with Artworks](https://github.com/liaopeiyuan/artbench) | 2022 |
+
 
 ### alias (ref)
 
@@ -497,6 +503,9 @@ A collection of papers I am interested in.
 | [Improved Techniques for Training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)  |        NeurIPS        |                                Inception Score (IS)                                 | 2016 |
 | [High-Fidelity Performance Metrics for Generative Models in PyTorch](https://github.com/toshas/torch-fidelity)       |                       |                                   torch-fidelity                                    | 2020 |
 | [Reliable Fidelity and Diversity Metrics for Generative Models](http://arxiv.org/abs/2002.09797)                     |         ICML          | [generative-evaluation-prdc](https://github.com/clovaai/generative-evaluation-prdc) | 2020 |
+| [The Contextual Loss for Image Transformation with Non-Aligned Data](http://arxiv.org/abs/1803.02077) | ECCV | [contextualLoss](https://github.com/roimehrez/contextualLoss) | arXiv. 2018 |
+| [Maintaining Natural Image Statistics with the Contextual Loss](http://arxiv.org/abs/1803.04626) | ArXiv:1803.04626 [Cs] |  | 2018 |
+
 
 ## Spectrum
 
@@ -541,6 +550,7 @@ A collection of papers I am interested in.
 | :--------------------------------------------------------------------------------------------------------------------- | :--------------------------: | :--------------------------------------------------------: | :--: |
 | [Hierarchical Text-Conditional Image Generation with CLIP Latents](http://arxiv.org/abs/2204.06125) | | [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) | 2022 |
 | [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487v1) | | [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch),  [Imagen-pytorch](https://github.com/cene555/Imagen-pytorch) | 2022 |
+| [Scaling Autoregressive Models for Content-Rich Text-to-Image Generation] n.d. | | [https://github.com/google-research/parti](parti) | |
 
 
 ## 3D & NeRF
@@ -606,7 +616,8 @@ A collection of papers I am interested in.
 | :heavy_check_mark: [Multi-View Consistent Generative Adversarial Networks for 3D-Aware Image Synthesis](http://arxiv.org/abs/2204.06307)          |            CVPR             |   [MVCGAN](https://github.com/Xuanmeng-Zhang/MVCGAN)   | 2022 |
 | :heavy_check_mark: [FENeRF: Face Editing in Neural Radiance Fields]()                                                                             |            CVPR             |    [FENeRF](https://github.com/MrTornado24/FENeRF)     | 2022 |
 | :heavy_check_mark: [IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-Aware Portrait Synthesis](http://arxiv.org/abs/2205.15517) | arXiv:2205.15517 |  | 2022 |
-
+| :heavy_check_mark: [EpiGRAF: Rethinking Training of 3D GANs](http://arxiv.org/abs/2206.10535) | ArXiv:2206.10535 [Cs] | [epigraf](https://github.com/universome/epigraf)  | arXiv. 2022 |
+| https://github.com/rethinking-3d-gans/code | | | |
 
 ### NeRF
 
@@ -630,10 +641,9 @@ A collection of papers I am interested in.
 | [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](http://arxiv.org/abs/2103.13415)                      |           ICCV           |                                                                                                               | 2021 |
 | :heart: [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://arxiv.org/abs/2111.12077v2)                              | arXiv:2111.12077 [cs.CV] |                                                                                                               | 2021 |
 | :heart: [IBRNet: Learning Multi-View Image-Based Rendering](http://arxiv.org/abs/2102.13090)                                           |  arXiv:2102.13090 [cs]   |                                                                                                               | 2021 |
-| :heart: [Volume Rendering of Neural Implicit Surfaces](http://arxiv.org/abs/2106.12052)                                                |  arXiv:2106.12052 [cs]   |                                                                                                               | 2021 |
 | :heart: [Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control](http://arxiv.org/abs/2106.02019)                  |  arXiv:2106.02019 [cs]   |                                                                                                               | 2022 |
 | [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding]()                                                            |                          |                             [instant-ngp](https://github.com/NVlabs/instant-ngp)                              |      |      |
-| [Point-NeRF: Point-Based Neural Radiance Fields](http://arxiv.org/abs/2201.08845)                                                      |  arXiv:2201.08845 [cs]   |                               [pointnerf](https://github.com/Xharlie/pointnerf)                               | 2022 |
+| :heart: [Point-NeRF: Point-Based Neural Radiance Fields](http://arxiv.org/abs/2201.08845)                                                      |  arXiv:2201.08845 [cs]   |                               [pointnerf](https://github.com/Xharlie/pointnerf)                               | 2022 |
 | [MoFaNeRF: Morphable Facial Neural Radiance Field](http://arxiv.org/abs/2112.02308)                                                    |  arXiv:2112.02308 [cs]   |                                                                                                               | 2021 |
 | [Object-Centric Neural Scene Rendering](https://arxiv.org/abs/2012.08503v1)                                                            |           2020           |
 | [Semantic View Synthesis](https://arxiv.org/abs/2008.10598v1)                                                                          |           2020           |
@@ -685,8 +695,11 @@ A collection of papers I am interested in.
 | [AMASS: Archive of Motion Capture as Surface Shapes]()                                                                   |                   ICCV                    |       [AMASS](https://amass.is.tue.mpg.de/index.html)        | 2019 |
 | :heavy_check_mark: [SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes](http://arxiv.org/abs/2104.03953) |                   ICCV                    |                                                              | 2021 |
 | :heavy_check_mark: [Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](http://arxiv.org/abs/2105.02872) | ICCV | [animatable_nerf](https://github.com/zju3dv/animatable_nerf) | 2021 |
+| [Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control](http://arxiv.org/abs/2106.02019) | SIGGRAPH Asia |  | 2021 |
 | :heavy_check_mark: [Animatable Neural Radiance Fields from Monocular RGB Videos](http://arxiv.org/abs/2106.13629) | ArXiv:2106.13629 [Cs] | [Anim-NeRF](https://github.com/JanaldoChen/Anim-NeRF) | arXiv. 2021 |
+| [VIBE: Video Inference for Human Body Pose and Shape Estimation](http://arxiv.org/abs/1912.05656) | CVPR | [VIBE](https://github.com/mkocabas/VIBE) | arXiv. 2020 |
 | :heavy_check_mark: [A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose](http://arxiv.org/abs/2102.06199) | NeurIPS | [A-NeRF](https://github.com/LemonATsu/A-NeRF)  | arXiv. 2021 |
+| [HumanNeRF: Free-Viewpoint Rendering of Moving People from Monocular Video](http://arxiv.org/abs/2201.04127) | CVPR | [humannerf](https://github.com/chungyiweng/humannerf) | 2022 |
 | :heart: [The Power of Points for Modeling Humans in Clothing]()                                                          |                   ICCV                    |                                                              | 2021 |
 | [StylePeople: A Generative Model of Fullbody Human Avatars](http://arxiv.org/abs/2104.08363)                             |           arXiv:2104.08363 [cs]           |                                                              | 2021 |
 | [NPMs: Neural Parametric Models for 3D Deformable Shapes](http://arxiv.org/abs/2104.00702)                               |           arXiv:2104.00702 [cs]           |                                                              | 2021 |
@@ -704,12 +717,12 @@ A collection of papers I am interested in.
 
 | Title                                                                                                               |         Venue         |                         Code                         | Year |
 | :------------------------------------------------------------------------------------------------------------------ | :-------------------: | :--------------------------------------------------: | :--: |
+| [DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations]() |  CVPR | [DeepFashion](https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)  | 2016 |
+| [Text2Human: Text-Driven Controllable Human Image Generation]() | ACM Transactions on Graphics (TOG) | [Text2Human](https://github.com/yumingj/Text2Human) | 2022 |
 | [StyleGAN-Human: A Data-Centric Odyssey of Human Generation](http://arxiv.org/abs/2204.11823)                       | arXiv:2204.11823 [cs] |                                                      | 2022 |
 | :heavy_check_mark: [3D-Aware Semantic-Guided Generative Model for Human Synthesis](http://arxiv.org/abs/2112.01422) | arXiv:2112.01422 [cs] |                                                      | 2021 |
 | :heart: [InsetGAN for Full-Body Image Generation](http://arxiv.org/abs/2203.07293)                                  | arXiv:2203.07293 [cs] |                                                      | 2022 |
 | [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](http://arxiv.org/abs/2205.08535)         |       SIGGRAPH        | [AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) | 2022 |
-| [Text2Human: Text-Driven Controllable Human Image Generation] | ACM Transactions on Graphics (TOG) | [Text2Human](https://github.com/yumingj/Text2Human) | 2022 |
-| [DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations]() |  CVPR |  | 2016 |
 | [Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis](http://arxiv.org/abs/1909.12224) | ICCV | [impersonator](https://github.com/svip-lab/impersonator)  | 2019 |
 | :heavy_check_mark: [SMPLpix: Neural Avatars from 3D Human Models](http://arxiv.org/abs/2008.06872) | Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision | [smplpix](https://github.com/sergeyprokudin/smplpix) | arXiv. 2021 |
 | :heavy_check_mark: [Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations](http://arxiv.org/abs/2204.08839) | arXiv. | | 2022 |
@@ -721,7 +734,6 @@ A collection of papers I am interested in.
 | :-------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :--: | :--: |
 | [SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video](http://arxiv.org/abs/2201.12792)                        | arXiv:2201.12792 [cs] |      | 2022 |
 | [Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis](http://arxiv.org/abs/2204.11798) | arXiv:2204.11798 [cs] |      | 2022 |
-| [HumanNeRF: Free-Viewpoint Rendering of Moving People from Monocular Video](http://arxiv.org/abs/2201.04127) | CVPR | [humannerf](https://github.com/chungyiweng/humannerf) | 2022 |
 
 
 ### 3D FACE Avatars
@@ -736,13 +748,15 @@ A collection of papers I am interested in.
 | [Learning a Model of Facial Shape and Expression from 4D Scans]()                                                                         | ACM Transactions on Graphics |                                                                        | 2017 |
 | :heart: [EMOCA: Emotion Driven Monocular Face Capture and Animation]()                                                                    |             CVPR             |               [emoca](https://github.com/radekd91/emoca)               | 2022 |
 | [FaceVerse: A Fine-Grained and Detail-Controllable 3D Face Morphable Model from a Hybrid Dataset]()                                       |             CVPR             |                                                                        | 2022 |
-| [I M Avatar: Implicit Morphable Head Avatars from Videos](http://arxiv.org/abs/2112.07471)                                                |             CVPR             |                                                                        | 2022 |
+| [I M Avatar: Implicit Morphable Head Avatars from Videos](http://arxiv.org/abs/2112.07471)                                                |             CVPR             |              [IMavatar](https://github.com/zhengyuf/IMavatar)                                                          | 2022 |
 | :heavy_check_mark: [Neural Head Avatars from Monocular RGB Videos](http://arxiv.org/abs/2112.01554)                                       |    arXiv:2112.01554 [cs]     | [neural-head-avatars](https://github.com/philgras/neural-head-avatars) | 2022 |
 | [PVA: Pixel-Aligned Volumetric Avatars](http://arxiv.org/abs/2101.02697)                                                                  |    arXiv:2101.02697 [cs]     |                                                                        | 2021 |
 | [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](http://arxiv.org/abs/2103.11078)                                |    arXiv:2103.11078 [cs]     |                                                                        | 2021 |
 | [Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation](http://arxiv.org/abs/2201.07786)                                  | arXiv:2201.07786 [cs, eess]  |                                                                        | 2022 |
 | [HeadGAN: One-Shot Neural Head Synthesis and Editing](http://arxiv.org/abs/2012.08261)                                                    |    arXiv:2012.08261 [cs]     |                                                                        | 2021 |
 | [KeypointNeRF: Generalizing Image-Based Volumetric Avatars Using Relative Spatial Encoding of Keypoints](http://arxiv.org/abs/2205.04992) |    arXiv:2205.04992 [cs]     |                                                                        | 2022 |
+| [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](http://arxiv.org/abs/1903.08527) | ArXiv:1903.08527 [Cs] | [Deep3DFaceRecon_pytorch](https://github.com/sicxu/Deep3DFaceRecon_pytorch)  | arXiv. 2020 |
+
 
 ### Face Style
 
@@ -750,12 +764,16 @@ A collection of papers I am interested in.
 | :--------------------------------------------------------------------------------------------------------- | :-------------------: | :-------------------------------------------------------------: | ---- |
 | [Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer](http://arxiv.org/abs/2203.13248) | arXiv:2203.13248 [cs] | [DualStyleGAN](https://github.com/williamyang1991/DualStyleGAN) | 2022 |
 | [Stitch It in Time: GAN-Based Facial Editing of Real Videos](http://arxiv.org/abs/2201.08361)              |        arXiv.         |           [STIT](https://github.com/rotemtzaban/STIT)           | 2022 |
+| [Fix the Noise: Disentangling Source Feature for Transfer Learning of StyleGAN](http://arxiv.org/abs/2204.14079) | ArXiv:2204.14079 [Cs] | [FixNoise](https://github.com/LeeDongYeun/FixNoise)  | arXiv. 2022 |
+
 
 ### Face Animation
 
 | Title                                                                                 | Venue | Code | Year |
 | :------------------------------------------------------------------------------------ | :---: | :--: | ---- |
 | [Thin-Plate Spline Motion Model for Image Animation](http://arxiv.org/abs/2203.14367) | CVPR  |      | 2022 |
+| [Depth-Aware Generative Adversarial Network for Talking Head Video Generation](http://arxiv.org/abs/2203.06605) | CVPR | [DaGAN](https://github.com/harlanhong/CVPR2022-DaGAN)  | arXiv. 2022 |
+
 
 ### Renderer & Regularization
 
@@ -765,9 +783,17 @@ A collection of papers I am interested in.
 | [Neural 3D Scene Reconstruction with the Manhattan-World Assumption](http://arxiv.org/abs/2205.02836)                        |                        CVPR                        |    [manhattan_sdf](https://github.com/zju3dv/manhattan_sdf)     | 2022 |
 | [Differentiable Signed Distance Function Rendering]()                                                                        | Transactions on Graphics (Proceedings of SIGGRAPH) | [sdf](https://github.com/lucidrains/differentiable-SDF-pytorch) | 2022 |
 | [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-View Reconstruction](http://arxiv.org/abs/2106.10689) |                                                    |            [NeuS](https://github.com/Totoro97/NeuS)             | 2021 |
+| :heart: [Volume Rendering of Neural Implicit Surfaces](http://arxiv.org/abs/2106.12052)                                                |  arXiv:2106.12052 [cs]   |                     [volsdf](https://github.com/lioryariv/volsdf)                                                                                          | 2021 |
 | [Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance](https://arxiv.org/abs/2003.09852v3) | NeurIPS | [idr](https://github.com/lioryariv/idr)  | 2020 |
 | [UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction]() | ICCV | [unisurf](https://github.com/autonomousvision/unisurf) | 2021 |
 | [MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://arxiv.org/abs/2206.00665v1) | ArXiv:2206.00665 |  | 2022 |
+| [IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images](http://arxiv.org/abs/2204.02232) | CVPR |  | arXiv. 2022 |
+| [Direct Voxel Grid Optimization: Super-Fast Convergence for Radiance Fields Reconstruction](http://arxiv.org/abs/2111.11215) | CVPR | [DirectVoxGO](https://github.com/sunset1995/DirectVoxGO) | arXiv. 2022 |
+| [Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction](http://arxiv.org/abs/2206.05085) | ArXiv:2206.05085 [Cs] |  | arXiv. 2022 |
+| [Improved Surface Reconstruction Using High-Frequency Details](http://arxiv.org/abs/2206.07850) | ArXiv:2206.07850 [Cs] |  | arXiv. 2022 |
+| [InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering](http://arxiv.org/abs/2112.15399) | CVPR | [InfoNeRF](https://github.com/mjmjeong/InfoNeRF) | arXiv. 2022 |
+| [Improving Neural Implicit Surfaces Geometry with Patch Warping](http://arxiv.org/abs/2112.09648) | CVPR | [NeuralWarp](https://github.com/fdarmon/NeuralWarp) | arXiv. 2022 |
+
 
 
 ### Motion
@@ -776,12 +802,42 @@ A collection of papers I am interested in.
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
 | [GANimator: Neural Motion Synthesis from a Single Sequence]()  | ACM Transactions on Graphics (TOG)  | [ganimator](https://github.com/PeizhuoLi/ganimator) | 2022 |
 | [Watch It Move: Unsupervised Discovery of 3D Joints for Re-Posing of Articulated Objects] | CVPR |  [watch-it-move](https://github.com/NVlabs/watch-it-move) | 2022 |
+| [Learn to Dance with AIST++: Music Conditioned 3D Dance Generation]() | ICCV |  | 2021 |
+| [Talking Head(?) Anime from a Single Image 3: Now the Body Too](http://pkhungurn.github.io/talking-head-anime-3/) | | [talking-head-anime](https://github.com/pkhungurn/talking-head-anime-3-demo) | 2022 |
+| [PhysCap: Physically Plausible Monocular 3D Motion Capture in Real Time]() | ACM Transactions on Graphics |  | 2020 |
+
+
 
 ### Shape generation
 
 | Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
 | [Learning Implicit Fields for Generative Shape Modeling](http://arxiv.org/abs/1812.02822)                           | arXiv:1812.02822 [cs] |      | 2019 |
+
+### Pose estimation
+| Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
+| :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
+| [Human Mesh Recovery from Multiple Shots](http://arxiv.org/abs/2012.09843) | CVPR | [multishot](https://github.com/geopavlakos/multishot)  | arXiv. 2022 |
+
+### SMPL estimation
+| Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
+| :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
+| [VIBE: Video Inference for Human Body Pose and Shape Estimation](http://arxiv.org/abs/1912.05656) | CVPR | [VIBE](https://github.com/mkocabas/VIBE)  | arXiv. 2020 |
+| [TransPose: Real-Time 3D Human Translation and Pose Estimation with Six Inertial Sensors]() | ACM Transactions on Graphics |  [TransPose](https://github.com/Xinyu-Yi/TransPose) | 2021 |
+
+
+### Segmentation
+| Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
+| :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
+| [Robust High-Resolution Video Matting with Temporal Guidance](http://arxiv.org/abs/2108.11515) | ArXiv:2108.11515 [Cs] | [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | arXiv. 2021 |
+| [Robust High-Resolution Video Matting with Temporal Guidance](http://arxiv.org/abs/2108.11515) | ArXiv:2108.11515 [Cs] | [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) | arXiv. 2021 |
+
+
+### Datasets
+| Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
+| :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
+| [Structured Local Radiance Fields for Human Avatar Modeling](http://arxiv.org/abs/2203.14478) | CVPR | [THUman4.0-Dataset](https://github.com/ZhengZerong/THUman4.0-Dataset)  | 2022 |
+
 
 ## SDF
 
