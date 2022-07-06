@@ -12,6 +12,10 @@ A collection of papers I am interested in.
 - https://ait.ethz.ch/people/hilliges/
 - https://vlg.inf.ethz.ch/publications.html
 
+## Renderer
+
+- https://github.com/eth-ait/aitviewer
+
 ## Project
 
 - [mmgeneration](https://github.com/open-mmlab/mmgeneration)
@@ -798,6 +802,8 @@ A collection of papers I am interested in.
 
 ### Motion
 
+- https://github.com/xianfei/SysMocap
+
 | Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
 | [GANimator: Neural Motion Synthesis from a Single Sequence]()  | ACM Transactions on Graphics (TOG)  | [ganimator](https://github.com/PeizhuoLi/ganimator) | 2022 |
@@ -814,16 +820,15 @@ A collection of papers I am interested in.
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
 | [Learning Implicit Fields for Generative Shape Modeling](http://arxiv.org/abs/1812.02822)                           | arXiv:1812.02822 [cs] |      | 2019 |
 
-### Pose estimation
-| Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
-| :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
-| [Human Mesh Recovery from Multiple Shots](http://arxiv.org/abs/2012.09843) | CVPR | [multishot](https://github.com/geopavlakos/multishot)  | arXiv. 2022 |
 
 ### SMPL estimation
 | Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
 | [VIBE: Video Inference for Human Body Pose and Shape Estimation](http://arxiv.org/abs/1912.05656) | CVPR | [VIBE](https://github.com/mkocabas/VIBE)  | arXiv. 2020 |
 | [TransPose: Real-Time 3D Human Translation and Pose Estimation with Six Inertial Sensors]() | ACM Transactions on Graphics |  [TransPose](https://github.com/Xinyu-Yi/TransPose) | 2021 |
+| [Monocular Expressive Body Regression through Body-Driven Attention](https://expose.is.tue.mpg.de) | European Conference on Computer Vision (ECCV) | [expose](https://github.com/vchoutas/expose)  | 2020 |
+| [Human Mesh Recovery from Multiple Shots](http://arxiv.org/abs/2012.09843) | CVPR | [multishot](https://github.com/geopavlakos/multishot)  | arXiv. 2022 |
+
 
 
 ### Segmentation
