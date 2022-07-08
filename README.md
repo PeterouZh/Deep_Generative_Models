@@ -686,6 +686,14 @@ A collection of papers I am interested in.
 | [Neural Radiance Flow for 4D View Synthesis and Video Processing](https://arxiv.org/abs/2012.09790v2)                                      |         2020          |
 | :heart: [Animatable Neural Implicit Surfaces for Creating Avatars from Videos](http://arxiv.org/abs/2203.08133)                            | arXiv:2203.08133 [cs] |                                                                                   | 2022 |
 
+
+### Loose garment
+
+| Title                                                                                                                                      |         Venue         |                                       Code                                        | Year | Cite |
+| :----------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :-------------------------------------------------------------------------------: | :--: | :--: |
+| :heavy_check_mark: [Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks](http://arxiv.org/abs/2205.01355) | SIGGRAPH | [VirtualBones](https://github.com/non-void/VirtualBones) | 2022 |
+
+
 ### Body
 
 - https://github.com/3DFaceBody/awesome-3dbody-papers
@@ -714,6 +722,7 @@ A collection of papers I am interested in.
 | :heart: [PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](http://arxiv.org/abs/2103.16507) | ICCV |  | 2021 |
 | :heart: [Structured Local Radiance Fields for Human Avatar Modeling](http://arxiv.org/abs/2203.14478) | CVPR |  | arXiv. 2022 |
 | :heart: [KeypointNeRF: Generalizing Image-Based Volumetric Avatars Using Relative Spatial Encoding of Keypoints](http://arxiv.org/abs/2205.04992) | arXiv:2205.04992 [cs] |  | 2022 |
+| :heavy_check_mark: [SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video](http://arxiv.org/abs/2201.12792) | CVPR | [SelfRecon](https://jby1993.github.io/SelfRecon/)  | arXiv. 2022 |
 
 
 
@@ -729,7 +738,8 @@ A collection of papers I am interested in.
 | [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](http://arxiv.org/abs/2205.08535)         |       SIGGRAPH        | [AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) | 2022 |
 | [Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis](http://arxiv.org/abs/1909.12224) | ICCV | [impersonator](https://github.com/svip-lab/impersonator)  | 2019 |
 | :heavy_check_mark: [SMPLpix: Neural Avatars from 3D Human Models](http://arxiv.org/abs/2008.06872) | Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision | [smplpix](https://github.com/sergeyprokudin/smplpix) | arXiv. 2021 |
-| :heavy_check_mark: [Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations](http://arxiv.org/abs/2204.08839) | arXiv. | | 2022 |
+| [Neural Articulated Radiance Field](https://arxiv.org/abs/2104.03110v2) | ICCV |  | 2021 |
+| [Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations](http://arxiv.org/abs/2204.08839) | ECCV | [ENARF-GAN](https://github.com/nogu-atsu/ENARF-GAN) | 2022 |
 
 
 ### Body from video
@@ -762,6 +772,14 @@ A collection of papers I am interested in.
 | [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](http://arxiv.org/abs/1903.08527) | ArXiv:1903.08527 [Cs] | [Deep3DFaceRecon_pytorch](https://github.com/sicxu/Deep3DFaceRecon_pytorch)  | arXiv. 2020 |
 
 
+### Stylization
+
+| Title                                                                                                      |         Venue         |                              Code                               | Year |
+| :--------------------------------------------------------------------------------------------------------- | :-------------------: | :-------------------------------------------------------------: | ---- |
+| [Unified Implicit Neural Stylization](http://arxiv.org/abs/2204.01943) | ECCV |  | arXiv. 2022 |
+
+
+
 ### Face Style
 
 | Title                                                                                                      |         Venue         |                              Code                               | Year |
@@ -789,9 +807,10 @@ A collection of papers I am interested in.
 | [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-View Reconstruction](http://arxiv.org/abs/2106.10689) |                                                    |            [NeuS](https://github.com/Totoro97/NeuS)             | 2021 |
 | :heart: [Volume Rendering of Neural Implicit Surfaces](http://arxiv.org/abs/2106.12052)                                                |  arXiv:2106.12052 [cs]   |                     [volsdf](https://github.com/lioryariv/volsdf)                                                                                          | 2021 |
 | [Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance](https://arxiv.org/abs/2003.09852v3) | NeurIPS | [idr](https://github.com/lioryariv/idr)  | 2020 |
+| :heart: [Multi-View Mesh Reconstruction With Neural Deferred Shading](https://openaccess.thecvf.com/content/CVPR2022/html/Worchel_Multi-View_Mesh_Reconstruction_With_Neural_Deferred_Shading_CVPR_2022_paper.html) | CVPR | [neural-deferred-shading](https://github.com/fraunhoferhhi/neural-deferred-shading)  | 2022 |
+| :heart: [IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images](http://arxiv.org/abs/2204.02232) | CVPR | [IRON](https://github.com/Kai-46/IRON)  | arXiv. 2022 |
 | [UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction]() | ICCV | [unisurf](https://github.com/autonomousvision/unisurf) | 2021 |
 | [MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://arxiv.org/abs/2206.00665v1) | ArXiv:2206.00665 |  | 2022 |
-| [IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images](http://arxiv.org/abs/2204.02232) | CVPR |  | arXiv. 2022 |
 | [Direct Voxel Grid Optimization: Super-Fast Convergence for Radiance Fields Reconstruction](http://arxiv.org/abs/2111.11215) | CVPR | [DirectVoxGO](https://github.com/sunset1995/DirectVoxGO) | arXiv. 2022 |
 | [Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction](http://arxiv.org/abs/2206.05085) | ArXiv:2206.05085 [Cs] |  | arXiv. 2022 |
 | [Improved Surface Reconstruction Using High-Frequency Details](http://arxiv.org/abs/2206.07850) | ArXiv:2206.07850 [Cs] |  | arXiv. 2022 |
@@ -828,6 +847,7 @@ A collection of papers I am interested in.
 | [TransPose: Real-Time 3D Human Translation and Pose Estimation with Six Inertial Sensors]() | ACM Transactions on Graphics |  [TransPose](https://github.com/Xinyu-Yi/TransPose) | 2021 |
 | [Monocular Expressive Body Regression through Body-Driven Attention](https://expose.is.tue.mpg.de) | European Conference on Computer Vision (ECCV) | [expose](https://github.com/vchoutas/expose)  | 2020 |
 | [Human Mesh Recovery from Multiple Shots](http://arxiv.org/abs/2012.09843) | CVPR | [multishot](https://github.com/geopavlakos/multishot)  | arXiv. 2022 |
+| [Learned Vertex Descent: A New Direction for 3D Human Model Fitting](http://arxiv.org/abs/2205.06254) | ECCV | [LVD](https://github.com/enriccorona/LVD)  | arXiv. 2022 |
 
 
 
@@ -847,6 +867,7 @@ A collection of papers I am interested in.
 ## SDF
 
 - https://github.com/facebookresearch/pifuhd
+- https://github.com/pmneila/PyMCubes
 
 | Title                                                                                                                                 |         Venue         |                          Code                          | Year |
 | :------------------------------------------------------------------------------------------------------------------------------------ | :-------------------: | :----------------------------------------------------: | :--: |
