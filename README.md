@@ -692,6 +692,8 @@ A collection of papers I am interested in.
 | Title                                                                                                                                      |         Venue         |                                       Code                                        | Year | Cite |
 | :----------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :-------------------------------------------------------------------------------: | :--: | :--: |
 | :heavy_check_mark: [Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks](http://arxiv.org/abs/2205.01355) | SIGGRAPH | [VirtualBones](https://github.com/non-void/VirtualBones) | 2022 |
+| [TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style](http://arxiv.org/abs/2003.04583) | CVPR | [TailorNet_dataset](https://github.com/zycliao/TailorNet_dataset)  | arXiv. 2020 |
+
 
 
 ### Body
@@ -735,7 +737,6 @@ A collection of papers I am interested in.
 | [StyleGAN-Human: A Data-Centric Odyssey of Human Generation](http://arxiv.org/abs/2204.11823)                       | arXiv:2204.11823 [cs] |                                                      | 2022 |
 | :heavy_check_mark: [3D-Aware Semantic-Guided Generative Model for Human Synthesis](http://arxiv.org/abs/2112.01422) | arXiv:2112.01422 [cs] |                                                      | 2021 |
 | :heart: [InsetGAN for Full-Body Image Generation](http://arxiv.org/abs/2203.07293)                                  | arXiv:2203.07293 [cs] |                                                      | 2022 |
-| [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](http://arxiv.org/abs/2205.08535)         |       SIGGRAPH        | [AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) | 2022 |
 | [Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis](http://arxiv.org/abs/1909.12224) | ICCV | [impersonator](https://github.com/svip-lab/impersonator)  | 2019 |
 | :heavy_check_mark: [SMPLpix: Neural Avatars from 3D Human Models](http://arxiv.org/abs/2008.06872) | Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision | [smplpix](https://github.com/sergeyprokudin/smplpix) | arXiv. 2021 |
 | [Neural Articulated Radiance Field](https://arxiv.org/abs/2104.03110v2) | ICCV |  | 2021 |
@@ -807,15 +808,16 @@ A collection of papers I am interested in.
 | [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-View Reconstruction](http://arxiv.org/abs/2106.10689) |                                                    |            [NeuS](https://github.com/Totoro97/NeuS)             | 2021 |
 | :heart: [Volume Rendering of Neural Implicit Surfaces](http://arxiv.org/abs/2106.12052)                                                |  arXiv:2106.12052 [cs]   |                     [volsdf](https://github.com/lioryariv/volsdf)                                                                                          | 2021 |
 | [Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance](https://arxiv.org/abs/2003.09852v3) | NeurIPS | [idr](https://github.com/lioryariv/idr)  | 2020 |
-| :heart: [Multi-View Mesh Reconstruction With Neural Deferred Shading](https://openaccess.thecvf.com/content/CVPR2022/html/Worchel_Multi-View_Mesh_Reconstruction_With_Neural_Deferred_Shading_CVPR_2022_paper.html) | CVPR | [neural-deferred-shading](https://github.com/fraunhoferhhi/neural-deferred-shading)  | 2022 |
+| :heavy_check_mark: [Multi-View Mesh Reconstruction With Neural Deferred Shading](https://openaccess.thecvf.com/content/CVPR2022/html/Worchel_Multi-View_Mesh_Reconstruction_With_Neural_Deferred_Shading_CVPR_2022_paper.html) | CVPR | [neural-deferred-shading](https://github.com/fraunhoferhhi/neural-deferred-shading)  | 2022 |
 | :heart: [IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images](http://arxiv.org/abs/2204.02232) | CVPR | [IRON](https://github.com/Kai-46/IRON)  | arXiv. 2022 |
-| [UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction]() | ICCV | [unisurf](https://github.com/autonomousvision/unisurf) | 2021 |
+| :heavy_check_mark: [UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction]() | ICCV | [unisurf](https://github.com/autonomousvision/unisurf) | 2021 |
 | [MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://arxiv.org/abs/2206.00665v1) | ArXiv:2206.00665 |  | 2022 |
 | [Direct Voxel Grid Optimization: Super-Fast Convergence for Radiance Fields Reconstruction](http://arxiv.org/abs/2111.11215) | CVPR | [DirectVoxGO](https://github.com/sunset1995/DirectVoxGO) | arXiv. 2022 |
 | [Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction](http://arxiv.org/abs/2206.05085) | ArXiv:2206.05085 [Cs] |  | arXiv. 2022 |
 | [Improved Surface Reconstruction Using High-Frequency Details](http://arxiv.org/abs/2206.07850) | ArXiv:2206.07850 [Cs] |  | arXiv. 2022 |
 | [InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering](http://arxiv.org/abs/2112.15399) | CVPR | [InfoNeRF](https://github.com/mjmjeong/InfoNeRF) | arXiv. 2022 |
 | [Improving Neural Implicit Surfaces Geometry with Patch Warping](http://arxiv.org/abs/2112.09648) | CVPR | [NeuralWarp](https://github.com/fdarmon/NeuralWarp) | arXiv. 2022 |
+| [SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse Views](http://arxiv.org/abs/2206.05737) | ECCV | [SparseNeuS](https://github.com/xxlong0/SparseNeuS)  | arXiv. 2022 |
 
 
 
@@ -830,7 +832,9 @@ A collection of papers I am interested in.
 | [Learn to Dance with AIST++: Music Conditioned 3D Dance Generation]() | ICCV |  | 2021 |
 | [Talking Head(?) Anime from a Single Image 3: Now the Body Too](http://pkhungurn.github.io/talking-head-anime-3/) | | [talking-head-anime](https://github.com/pkhungurn/talking-head-anime-3-demo) | 2022 |
 | [PhysCap: Physically Plausible Monocular 3D Motion Capture in Real Time]() | ACM Transactions on Graphics |  | 2020 |
-
+| [The Wanderings of Odysseus in 3D Scenes](http://arxiv.org/abs/2112.09251) | CVPR | [GAMMA](https://github.com/yz-cnsdqz/GAMMA-release) | arXiv. 2022 |
+| [Adversarial Parametric Pose Prior](http://arxiv.org/abs/2112.04203) | CVPR | [adv_param_pose_prior](https://github.com/cvlab-epfl/adv_param_pose_prior) | arXiv. 2022 |
+| [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](http://arxiv.org/abs/2205.08535)         |       SIGGRAPH        | [AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) | 2022 |
 
 
 ### Shape generation
