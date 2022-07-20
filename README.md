@@ -16,6 +16,10 @@ A collection of papers I am interested in.
 
 - https://github.com/eth-ait/aitviewer
 
+## Pybind
+
+- https://github.com/pybind/cmake_example
+
 ## Project
 
 - [mmgeneration](https://github.com/open-mmlab/mmgeneration)
@@ -218,6 +222,7 @@ A collection of papers I am interested in.
 | :heart: [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](http://arxiv.org/abs/2109.10737)                               |    arXiv:2109.10737 [cs]    |            [DyStyle](https://github.com/phycvgan/DyStyle)            | 2021 |
 | [High-Fidelity GAN Inversion for Image Attribute Editing](http://arxiv.org/abs/2109.06590)                                                             |    arXiv:2109.06590 [cs]    |                                                                      | 2021 |
 | :heart: [Few-Shot Knowledge Transfer for Fine-Grained Cartoon Face Generation](http://arxiv.org/abs/2007.13332)                                        |    arXiv:2007.13332 [cs]    |                                                                      | 2020 |
+| :heart: [HyperInverter: Improving StyleGAN Inversion via Hypernetwork](http://arxiv.org/abs/2112.00719) | CVPR | [HyperInverter](https://github.com/VinAIResearch/HyperInverter) | arXiv. 2022 |
 
 ### Hybrid optimization
 
@@ -493,6 +498,8 @@ A collection of papers I am interested in.
 | [Aesthetics and Neural Network Image Representations](http://arxiv.org/abs/2109.08103)                                                                                      | arXiv:2109.08103 [cs, eess, q-bio] |                                                                                         | 2021 |
 | :heart: [Collaborative Distillation for Ultra-Resolution Universal Style Transfer](http://arxiv.org/abs/2003.08436)                                                         |                CVPR                | [collaborative-distillation](https://github.com/mingsun-tse/collaborative-distillation) | 2020 |
 | [Adaptive Convolutions for Structure-Aware Style Transfer]()                                                                                                                |                CVPR                |             [ada-conv-pytorch](https://github.com/RElbers/ada-conv-pytorch)             | 2021 |
+| [CCPL: Contrastive Coherence Preserving Loss for Versatile Style Transfer](http://arxiv.org/abs/2207.04808) | ECCV | [CCPL](https://github.com/JarrentWu1031/CCPL) | arXiv. 2022 |
+
 
 ## Metric & perceptual loss
 
@@ -545,7 +552,7 @@ A collection of papers I am interested in.
 | [Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2006.11239)                                   | arXiv:2006.11239 [cs, stat] |                 [diffusion](https://github.com/hojonathanho/diffusion)                                                          | 2020 |
 | [ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2108.02938)     |            ICCV             |                                                                           | 2021 |
 | [Diffusion Models Beat GANs on Image Synthesis](http://arxiv.org/abs/2105.05233)                              | arXiv:2105.05233 [cs, stat] |      [guided-diffusion](https://github.com/openai/guided-diffusion)       | 2021 |
-| [SDEdit: Image Synthesis and Editing with Stochastic Differential Equations](http://arxiv.org/abs/2108.01073) |    arXiv:2108.01073 [cs]    |              [SDEdit](https://github.com/ermongroup/SDEdit)               | 2021 |
+| :heart: [SDEdit: Image Synthesis and Editing with Stochastic Differential Equations](http://arxiv.org/abs/2108.01073) |    arXiv:2108.01073 [cs]    |              [SDEdit](https://github.com/ermongroup/SDEdit)               | 2021 |
 | [D2C: Diffusion-Denoising Models for Few-Shot Conditional Generation](http://arxiv.org/abs/2106.06819)        |    arXiv:2106.06819 [cs]    |                                                                           | 2021 |
 | [Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/abs/2112.03126v1)             |                             | [ddpm-segmentation](https://github.com/yandex-research/ddpm-segmentation) | 2021 |
 
@@ -671,6 +678,7 @@ A collection of papers I am interested in.
 | [Unsupervised 3D Shape Completion through GAN Inversion](http://arxiv.org/abs/2104.13366) | CVPR |  | 2021 |
 | [3D GAN Inversion for Controllable Portrait Image Animation](http://arxiv.org/abs/2203.13441) | ArXiv:2203.13441 [Cs] |  | arXiv. 2022 |
 | [Pix2NeRF: Unsupervised Conditional $\pi$-GAN for Single Image to Neural Radiance Fields Translation](http://arxiv.org/abs/2202.13162) | ArXiv:2202.13162 [Cs] |  | arXiv. 2022 |
+| [Monocular 3D Object Reconstruction with GAN Inversion] | ECCV |  | 2022 |
 
 
 
@@ -693,7 +701,13 @@ A collection of papers I am interested in.
 | :----------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :-------------------------------------------------------------------------------: | :--: | :--: |
 | :heavy_check_mark: [Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks](http://arxiv.org/abs/2205.01355) | SIGGRAPH | [VirtualBones](https://github.com/non-void/VirtualBones) | 2022 |
 | [TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style](http://arxiv.org/abs/2003.04583) | CVPR | [TailorNet_dataset](https://github.com/zycliao/TailorNet_dataset)  | arXiv. 2020 |
+| [Learning Implicit Templates for Point-Based Clothed Human Modeling](https://arxiv.org/abs/2207.06955v1) | ECCV |  | 2022 |
 
+
+### Anime Body
+| Title                                                                                                                    |                   Venue                   |                             Code                             | Year |
+| :----------------------------------------------------------------------------------------------------------------------- | :---------------------------------------: | :----------------------------------------------------------: | :--: |
+| [Collaborative Neural Rendering Using Anime Character Sheets](http://arxiv.org/abs/2207.05378) | ArXiv:2207.05378 [Cs] | [CoNR](https://github.com/megvii-research/CoNR)  | arXiv. 2022 |
 
 
 ### Body
@@ -725,6 +739,7 @@ A collection of papers I am interested in.
 | :heart: [Structured Local Radiance Fields for Human Avatar Modeling](http://arxiv.org/abs/2203.14478) | CVPR |  | arXiv. 2022 |
 | :heart: [KeypointNeRF: Generalizing Image-Based Volumetric Avatars Using Relative Spatial Encoding of Keypoints](http://arxiv.org/abs/2205.04992) | arXiv:2205.04992 [cs] |  | 2022 |
 | :heavy_check_mark: [SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video](http://arxiv.org/abs/2201.12792) | CVPR | [SelfRecon](https://jby1993.github.io/SelfRecon/)  | arXiv. 2022 |
+| [ARAH: Animatable Volume Rendering of Articulated Human SDFs] |  ECCV | [arah](https://github.com/taconite/arah-release) | 2022 |
 
 
 
@@ -754,6 +769,7 @@ A collection of papers I am interested in.
 ### 3D FACE Avatars
 
 - https://github.com/TimoBolkart/BFM_to_FLAME
+- https://github.com/HavenFeng/photometric_optimization
 
 | Title                                                                                                                                     |            Venue             |                                  Code                                  | Year |
 | :---------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------: | :--------------------------------------------------------------------: | :--: |
@@ -851,7 +867,8 @@ A collection of papers I am interested in.
 | [TransPose: Real-Time 3D Human Translation and Pose Estimation with Six Inertial Sensors]() | ACM Transactions on Graphics |  [TransPose](https://github.com/Xinyu-Yi/TransPose) | 2021 |
 | [Monocular Expressive Body Regression through Body-Driven Attention](https://expose.is.tue.mpg.de) | European Conference on Computer Vision (ECCV) | [expose](https://github.com/vchoutas/expose)  | 2020 |
 | [Human Mesh Recovery from Multiple Shots](http://arxiv.org/abs/2012.09843) | CVPR | [multishot](https://github.com/geopavlakos/multishot)  | arXiv. 2022 |
-| [Learned Vertex Descent: A New Direction for 3D Human Model Fitting](http://arxiv.org/abs/2205.06254) | ECCV | [LVD](https://github.com/enriccorona/LVD)  | arXiv. 2022 |
+| :heart: [Learned Vertex Descent: A New Direction for 3D Human Model Fitting](http://arxiv.org/abs/2205.06254) | ECCV | [LVD](https://github.com/enriccorona/LVD)  | arXiv. 2022 |
+| [DeciWatch: A Simple Baseline for 10x Efficient 2D and 3D Pose Estimation](http://arxiv.org/abs/2203.08713) | ECCV | [DeciWatch](https://github.com/cure-lab/DeciWatch) | arXiv. 2022 |
 
 
 
@@ -866,6 +883,11 @@ A collection of papers I am interested in.
 | Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
 | [Structured Local Radiance Fields for Human Avatar Modeling](http://arxiv.org/abs/2203.14478) | CVPR | [THUman4.0-Dataset](https://github.com/ZhengZerong/THUman4.0-Dataset)  | 2022 |
+
+### FLAME estimation
+| Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
+| :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
+| [Towards Metrical Reconstruction of Human Faces](http://arxiv.org/abs/2204.06607) | ECCV | [MICA](https://github.com/Zielon/MICA)  | arXiv. 2022 |
 
 
 ## SDF
