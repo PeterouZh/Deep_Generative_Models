@@ -15,6 +15,7 @@ A collection of papers I am interested in.
 ## Renderer
 
 - https://github.com/eth-ait/aitviewer
+- https://github.com/mitsuba-renderer/mitsuba3
 
 ## Pybind
 
@@ -770,6 +771,7 @@ A collection of papers I am interested in.
 
 - https://github.com/TimoBolkart/BFM_to_FLAME
 - https://github.com/HavenFeng/photometric_optimization
+- https://github.com/soubhiksanyal/FLAME_PyTorch
 
 | Title                                                                                                                                     |            Venue             |                                  Code                                  | Year |
 | :---------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------: | :--------------------------------------------------------------------: | :--: |
@@ -822,6 +824,7 @@ A collection of papers I am interested in.
 | [Neural 3D Scene Reconstruction with the Manhattan-World Assumption](http://arxiv.org/abs/2205.02836)                        |                        CVPR                        |    [manhattan_sdf](https://github.com/zju3dv/manhattan_sdf)     | 2022 |
 | [Differentiable Signed Distance Function Rendering]()                                                                        | Transactions on Graphics (Proceedings of SIGGRAPH) | [sdf](https://github.com/lucidrains/differentiable-SDF-pytorch) | 2022 |
 | [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-View Reconstruction](http://arxiv.org/abs/2106.10689) |                                                    |            [NeuS](https://github.com/Totoro97/NeuS)             | 2021 |
+| [SNeS: Learning Probably Symmetric Neural Surfaces from Incomplete Data](https://arxiv.org/abs/2206.06340v1) | ECCV | [snes](https://github.com/eldar/snes) | 2022 |
 | :heart: [Volume Rendering of Neural Implicit Surfaces](http://arxiv.org/abs/2106.12052)                                                |  arXiv:2106.12052 [cs]   |                     [volsdf](https://github.com/lioryariv/volsdf)                                                                                          | 2021 |
 | [Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance](https://arxiv.org/abs/2003.09852v3) | NeurIPS | [idr](https://github.com/lioryariv/idr)  | 2020 |
 | :heavy_check_mark: [Multi-View Mesh Reconstruction With Neural Deferred Shading](https://openaccess.thecvf.com/content/CVPR2022/html/Worchel_Multi-View_Mesh_Reconstruction_With_Neural_Deferred_Shading_CVPR_2022_paper.html) | CVPR | [neural-deferred-shading](https://github.com/fraunhoferhhi/neural-deferred-shading)  | 2022 |
@@ -835,6 +838,11 @@ A collection of papers I am interested in.
 | [Improving Neural Implicit Surfaces Geometry with Patch Warping](http://arxiv.org/abs/2112.09648) | CVPR | [NeuralWarp](https://github.com/fdarmon/NeuralWarp) | arXiv. 2022 |
 | [SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse Views](http://arxiv.org/abs/2206.05737) | ECCV | [SparseNeuS](https://github.com/xxlong0/SparseNeuS)  | arXiv. 2022 |
 
+### Material and lighting
+
+| Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
+| :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
+| [NeILF: Neural Incident Light Field for Physically-Based Material Estimation](http://arxiv.org/abs/2203.07182) | ECCV | [neilf](https://github.com/apple/ml-neilf) | arXiv. 2022 |
 
 
 ### Motion
@@ -851,6 +859,7 @@ A collection of papers I am interested in.
 | [The Wanderings of Odysseus in 3D Scenes](http://arxiv.org/abs/2112.09251) | CVPR | [GAMMA](https://github.com/yz-cnsdqz/GAMMA-release) | arXiv. 2022 |
 | [Adversarial Parametric Pose Prior](http://arxiv.org/abs/2112.04203) | CVPR | [adv_param_pose_prior](https://github.com/cvlab-epfl/adv_param_pose_prior) | arXiv. 2022 |
 | [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](http://arxiv.org/abs/2205.08535)         |       SIGGRAPH        | [AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) | 2022 |
+| [SOMA: Solving Optical Marker-Based MoCap Automatically] |  ICCV | [soma](https://github.com/nghorbani/soma) | 2021 |
 
 
 ### Shape generation
