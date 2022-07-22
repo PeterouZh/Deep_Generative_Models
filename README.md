@@ -630,6 +630,8 @@ A collection of papers I am interested in.
 | :heavy_check_mark: [IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-Aware Portrait Synthesis](http://arxiv.org/abs/2205.15517) | arXiv:2205.15517 |  | 2022 |
 | :heavy_check_mark: [EpiGRAF: Rethinking Training of 3D GANs](http://arxiv.org/abs/2206.10535) | ArXiv:2206.10535 [Cs] | [epigraf](https://github.com/universome/epigraf)  | arXiv. 2022 |
 | https://github.com/rethinking-3d-gans/code | | | |
+| [Generative Multiplane Images: Making a 2D GAN 3D-Aware](http://arxiv.org/abs/2207.10642) | ECCV |  | arXiv. 2022 |
+
 
 ### NeRF
 
@@ -703,6 +705,16 @@ A collection of papers I am interested in.
 | :heavy_check_mark: [Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks](http://arxiv.org/abs/2205.01355) | SIGGRAPH | [VirtualBones](https://github.com/non-void/VirtualBones) | 2022 |
 | [TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style](http://arxiv.org/abs/2003.04583) | CVPR | [TailorNet_dataset](https://github.com/zycliao/TailorNet_dataset)  | arXiv. 2020 |
 | [Learning Implicit Templates for Point-Based Clothed Human Modeling](https://arxiv.org/abs/2207.06955v1) | ECCV |  | 2022 |
+| [3D Clothed Human Reconstruction in the Wild](https://arxiv.org/abs/2207.10053v1) | ECCV | [ClothWild_RELEASE](https://github.com/hygenie1228/ClothWild_RELEASE) | 2022 |
+| :heart: [TightCap: 3D Human Shape Capture with Clothing Tightness Field](http://arxiv.org/abs/1904.02601) | ACM Transactions on Graphics | [TightCap](https://github.com/ChenFengYe/TightCap) | 2021 |
+
+
+### Rigging
+
+| Title                                                                                                                                      |         Venue         |                                       Code                                        | Year | Cite |
+| :----------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :-------------------------------------------------------------------------------: | :--: | :--: |
+| :heart: [Learning Skeletal Articulations with Neural Blend Shapes] |  ACM Transactions on Graphics | [neural-blend-shapes](https://github.com/PeizhuoLi/neural-blend-shapes) | 2021 |
+
 
 
 ### Anime Body
@@ -848,6 +860,7 @@ A collection of papers I am interested in.
 ### Motion
 
 - https://github.com/xianfei/SysMocap
+- https://github.com/zju3dv/EasyMocap
 
 | Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
