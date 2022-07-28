@@ -224,6 +224,8 @@ A collection of papers I am interested in.
 | [High-Fidelity GAN Inversion for Image Attribute Editing](http://arxiv.org/abs/2109.06590)                                                             |    arXiv:2109.06590 [cs]    |                                                                      | 2021 |
 | :heart: [Few-Shot Knowledge Transfer for Fine-Grained Cartoon Face Generation](http://arxiv.org/abs/2007.13332)                                        |    arXiv:2007.13332 [cs]    |                                                                      | 2020 |
 | :heart: [HyperInverter: Improving StyleGAN Inversion via Hypernetwork](http://arxiv.org/abs/2112.00719) | CVPR | [HyperInverter](https://github.com/VinAIResearch/HyperInverter) | arXiv. 2022 |
+| [High-Fidelity GAN Inversion with Padding Space] |  ECCV | [padinv](https://github.com/EzioBy/padinv)  | 2022 |
+
 
 ### Hybrid optimization
 
@@ -550,7 +552,10 @@ A collection of papers I am interested in.
 
 | Title                                                                                                         |            Venue            |                                   Code                                    | Year |
 | :------------------------------------------------------------------------------------------------------------ | :-------------------------: | :-----------------------------------------------------------------------: | :--: |
-| [Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2006.11239)                                   | arXiv:2006.11239 [cs, stat] |                 [diffusion](https://github.com/hojonathanho/diffusion)                                                          | 2020 |
+| 1 [Deep Unsupervised Learning Using Nonequilibrium Thermodynamics](http://arxiv.org/abs/1503.03585) | ArXiv:1503.03585 [Cond-Mat, q-Bio, Stat] |  | arXiv. 2015 |
+| 2 [Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2006.11239)                                   | arXiv:2006.11239 [cs, stat] |                 [diffusion](https://github.com/hojonathanho/diffusion)                                                          | 2020 |
+| 35 steps [Elucidating the Design Space of Diffusion-Based Generative Models](http://arxiv.org/abs/2206.00364) | ArXiv:2206.00364 [Cs, Stat] |  | arXiv. 2022 |
+| 10 steps [DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps](http://arxiv.org/abs/2206.00927) | ArXiv:2206.00927 [Cs, Stat] |  | arXiv. 2022 |
 | [ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2108.02938)     |            ICCV             |                                                                           | 2021 |
 | [Diffusion Models Beat GANs on Image Synthesis](http://arxiv.org/abs/2105.05233)                              | arXiv:2105.05233 [cs, stat] |      [guided-diffusion](https://github.com/openai/guided-diffusion)       | 2021 |
 | :heart: [SDEdit: Image Synthesis and Editing with Stochastic Differential Equations](http://arxiv.org/abs/2108.01073) |    arXiv:2108.01073 [cs]    |              [SDEdit](https://github.com/ermongroup/SDEdit)               | 2021 |
@@ -769,6 +774,7 @@ A collection of papers I am interested in.
 | :heavy_check_mark: [SMPLpix: Neural Avatars from 3D Human Models](http://arxiv.org/abs/2008.06872) | Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision | [smplpix](https://github.com/sergeyprokudin/smplpix) | arXiv. 2021 |
 | [Neural Articulated Radiance Field](https://arxiv.org/abs/2104.03110v2) | ICCV |  | 2021 |
 | [Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations](http://arxiv.org/abs/2204.08839) | ECCV | [ENARF-GAN](https://github.com/nogu-atsu/ENARF-GAN) | 2022 |
+| [Generative Neural Articulated Radiance Fields](http://arxiv.org/abs/2206.14314) | ArXiv:2206.14314 [Cs] | [gnarf](http://www.computationalimaging.org/publications/gnarf/) | arXiv. 2022 |
 
 
 ### Body from video
@@ -808,7 +814,7 @@ A collection of papers I am interested in.
 | Title                                                                                                      |         Venue         |                              Code                               | Year |
 | :--------------------------------------------------------------------------------------------------------- | :-------------------: | :-------------------------------------------------------------: | ---- |
 | [Unified Implicit Neural Stylization](http://arxiv.org/abs/2204.01943) | ECCV |  | arXiv. 2022 |
-
+| [ARF: Artistic Radiance Fields](http://arxiv.org/abs/2206.06360) | ECCV | [ARF-svox2](https://github.com/Kai-46/ARF-svox2)  | arXiv. 2022 |
 
 
 ### Face Style
@@ -849,12 +855,15 @@ A collection of papers I am interested in.
 | [InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering](http://arxiv.org/abs/2112.15399) | CVPR | [InfoNeRF](https://github.com/mjmjeong/InfoNeRF) | arXiv. 2022 |
 | [Improving Neural Implicit Surfaces Geometry with Patch Warping](http://arxiv.org/abs/2112.09648) | CVPR | [NeuralWarp](https://github.com/fdarmon/NeuralWarp) | arXiv. 2022 |
 | [SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse Views](http://arxiv.org/abs/2206.05737) | ECCV | [SparseNeuS](https://github.com/xxlong0/SparseNeuS)  | arXiv. 2022 |
+| [NeuMesh: Learning Disentangled Neural Mesh-Based Implicit Field for Geometry and Texture Editing] |  ECCV | [NeuMesh](https://github.com/zju3dv/NeuMesh) | 2022 |
+
 
 ### Material and lighting
 
 | Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
 | [NeILF: Neural Incident Light Field for Physically-Based Material Estimation](http://arxiv.org/abs/2203.07182) | ECCV | [neilf](https://github.com/apple/ml-neilf) | arXiv. 2022 |
+| [NeRF for Outdoor Scene Relighting] |  ECCV | [NeRF-OSR](https://github.com/r00tman/NeRF-OSR)  | 2022 |
 
 
 ### Motion
@@ -905,11 +914,20 @@ A collection of papers I am interested in.
 | Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
 | [Structured Local Radiance Fields for Human Avatar Modeling](http://arxiv.org/abs/2203.14478) | CVPR | [THUman4.0-Dataset](https://github.com/ZhengZerong/THUman4.0-Dataset)  | 2022 |
+| [Multiface: A Dataset for Neural Face Rendering](https://arxiv.org/abs/2207.11243v1) | ArXiv:2207.11243 [Cs.CV] | [multiface](https://github.com/facebookresearch/multiface)  | 2022 |
+
 
 ### FLAME estimation
 | Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
 | [Towards Metrical Reconstruction of Human Faces](http://arxiv.org/abs/2204.06607) | ECCV | [MICA](https://github.com/Zielon/MICA)  | arXiv. 2022 |
+
+
+### Panoptic 
+| Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
+| :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
+| [Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation](http://arxiv.org/abs/2203.15224) | ArXiv:2203.15224 [Cs] | [PanopticNeRF](https://github.com/fuxiao0719/PanopticNeRF)  | arXiv. 2022 |
+
 
 
 ## SDF
