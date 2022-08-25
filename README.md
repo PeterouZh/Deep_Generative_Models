@@ -16,6 +16,7 @@ A collection of papers I am interested in.
 
 - https://github.com/eth-ait/aitviewer
 - https://github.com/mitsuba-renderer/mitsuba3
+- https://github.com/angeloskath/simple-3dviz
 
 ## Pybind
 
@@ -568,6 +569,9 @@ A collection of papers I am interested in.
 
 - https://github.com/heejkoo/Awesome-Diffusion-Models
 - https://github.com/huggingface/diffusers
+- https://github.com/Jack000/glid-3-xl
+- https://github.com/SirWaffle/AIrtist-k-diffusion-wrap
+
 
 | Title                                                                                                         |            Venue            |                                   Code                                    | Year |
 | :------------------------------------------------------------------------------------------------------------ | :-------------------------: | :-----------------------------------------------------------------------: | :--: |
@@ -586,6 +590,9 @@ A collection of papers I am interested in.
 | [Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/abs/2112.03126v1)             |                             | [ddpm-segmentation](https://github.com/yandex-research/ddpm-segmentation) | 2021 |
 | :heart: [High-Resolution Image Synthesis with Latent Diffusion Models](http://arxiv.org/abs/2112.10752) | CVPR | [stable-diffusion](https://github.com/pesser/stable-diffusion), [latent-diffusion](https://github.com/CompVis/latent-diffusion), [stable-diffusion](https://github.com/CompVis/stable-diffusion)  | arXiv. 2022 |
 | [Analog Bits: Generating Discrete Data Using Diffusion Models with Self-Conditioning](http://arxiv.org/abs/2208.04202)  | | [bit-diffusion](https://github.com/lucidrains/bit-diffusion) | 2022 |
+| [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](http://arxiv.org/abs/2208.09392) | arXiv:2208.09392 | [Cold-Diffusion-Models](https://github.com/arpitbansal297/Cold-Diffusion-Models) | 2022 |
+| [Diffusion-GAN: Training GANs with Diffusion](http://arxiv.org/abs/2206.02262) | arXiv:2206.02262 | [Diffusion-GAN](https://github.com/Zhendong-Wang/Diffusion-GAN) | 2022 |
+| [Tackling the Generative Learning Trilemma with Denoising Diffusion GANs](http://arxiv.org/abs/2112.07804) | ICLR | [denoising-diffusion-gan](https://github.com/NVlabs/denoising-diffusion-gan) | 2022 |
 
 
 
@@ -749,6 +756,7 @@ A collection of papers I am interested in.
 | [Learning Implicit Templates for Point-Based Clothed Human Modeling](https://arxiv.org/abs/2207.06955v1) | ECCV |  | 2022 |
 | [3D Clothed Human Reconstruction in the Wild](https://arxiv.org/abs/2207.10053v1) | ECCV | [ClothWild_RELEASE](https://github.com/hygenie1228/ClothWild_RELEASE) | 2022 |
 | :heart: [TightCap: 3D Human Shape Capture with Clothing Tightness Field](http://arxiv.org/abs/1904.02601) | ACM Transactions on Graphics | [TightCap](https://github.com/ChenFengYe/TightCap) | 2021 |
+| [ARCH: Animatable Reconstruction of Clothed Humans](http://arxiv.org/abs/2004.04572) | CVPR | [ARCH](https://github.com/Tessantess/ARCH) | 2020 |
 
 
 ### Rigging
@@ -792,7 +800,6 @@ A collection of papers I am interested in.
 | [NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets](http://arxiv.org/abs/2011.11232)                         |           arXiv:2011.11232 [cs]           |                                                              | 2022 |
 | :heart: [PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](http://arxiv.org/abs/2103.16507) | ICCV |  | 2021 |
 | :heart: [Structured Local Radiance Fields for Human Avatar Modeling](http://arxiv.org/abs/2203.14478) | CVPR |  | arXiv. 2022 |
-| :heart: [KeypointNeRF: Generalizing Image-Based Volumetric Avatars Using Relative Spatial Encoding of Keypoints](http://arxiv.org/abs/2205.04992) | arXiv:2205.04992 [cs] |  | 2022 |
 | :heavy_check_mark: [SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video](http://arxiv.org/abs/2201.12792) | CVPR | [SelfRecon](https://jby1993.github.io/SelfRecon/)  | arXiv. 2022 |
 | [ARAH: Animatable Volume Rendering of Articulated Human SDFs] |  ECCV | [arah](https://github.com/taconite/arah-release) | 2022 |
 | [Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control](http://arxiv.org/abs/2106.02019) | SIGGRAPH Asia | [Neural_Actor_Main_Code](https://github.com/lingjie0206/Neural_Actor_Main_Code) | arXiv. 2021 |
@@ -877,6 +884,8 @@ A collection of papers I am interested in.
 
 
 ### Renderer & Regularization
+- https://github.com/ventusff/neurecon
+
 
 | Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
@@ -900,7 +909,7 @@ A collection of papers I am interested in.
 | [NeuMesh: Learning Disentangled Neural Mesh-Based Implicit Field for Geometry and Texture Editing] |  ECCV | [NeuMesh](https://github.com/zju3dv/NeuMesh) | 2022 |
 | [Neural Density-Distance Fields](http://arxiv.org/abs/2207.14455) | ECCV | [neddf](https://github.com/ueda0319/neddf) | arXiv. 2022 |
 | [Neural 3D Reconstruction in the Wild](http://arxiv.org/abs/2205.12955) | SIGGRAPH | [NeuralRecon-W](https://github.com/zju3dv/NeuralRecon-W)  | 2022 |
-
+| :heart: [KeypointNeRF: Generalizing Image-Based Volumetric Avatars Using Relative Spatial Encoding of Keypoints](http://arxiv.org/abs/2205.04992) | arXiv:2205.04992 [cs] | [KeypointNeRF](https://github.com/facebookresearch/KeypointNeRF)  | 2022 |
 
 
 ### Material and lighting
@@ -937,6 +946,9 @@ A collection of papers I am interested in.
 
 
 ### SMPL estimation
+- https://github.com/open-mmlab/mmhuman3d
+
+
 | Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
 | [End-to-End Recovery of Human Shape and Pose](http://arxiv.org/abs/1712.06584) | CVPR | [hmr] | arXiv. 2018 |
@@ -947,6 +959,7 @@ A collection of papers I am interested in.
 | :heart: [Learned Vertex Descent: A New Direction for 3D Human Model Fitting](http://arxiv.org/abs/2205.06254) | ECCV | [LVD](https://github.com/enriccorona/LVD)  | arXiv. 2022 |
 | [DeciWatch: A Simple Baseline for 10x Efficient 2D and 3D Pose Estimation](http://arxiv.org/abs/2203.08713) | ECCV | [DeciWatch](https://github.com/cure-lab/DeciWatch) | arXiv. 2022 |
 | [PARE: Part Attention Regressor for 3D Human Body Estimation](http://arxiv.org/abs/2104.08527) | ICCV | [PARE](https://github.com/mkocabas/PARE) | arXiv. 2021 |
+| [Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers](http://arxiv.org/abs/2207.13820) | ECCV | [FastMETRO](https://github.com/postech-ami/FastMETRO)  | 2022 |
 
 
 
