@@ -430,6 +430,9 @@ A collection of papers I am interested in.
 
 | Title                                                                                                                            | Venue  |                                               Code                                               |    Year     |
 | :------------------------------------------------------------------------------------------------------------------------------- | :----: | :----------------------------------------------------------------------------------------------: | :---------: |
+| [Gradient-Based Learning Applied to Document Recognition]() | Proceedings of the IEEE | [mnist] | 1998 |
+| [Learning Multiple Layers of Features from Tiny Images]() | | [cifar] |  2009 |
+| [ImageNet: A Large-Scale Hierarchical Image Database](https://ieeexplore.ieee.org/document/5206848/) | CVPR | [ImageNet]  | 2009 |
 | [Learning Hybrid Image Templates (HIT) by Information Projection]()                                                              | TPAMI  |           [AnimalFace](https://vcla.stat.ucla.edu/people/zhangzhang-si/HiT/exp5.html)            |    2012     |
 | [A Style-Based Generator Architecture for Generative Adversarial Networks](http://arxiv.org/abs/1812.04948)                      |  CVPR  |                                             [FFHQ]()                                             |    2019     |
 | [StarGAN v2: Diverse Image Synthesis for Multiple Domains](http://arxiv.org/abs/1912.01865)                                      |  CVPR  | [AFHQ](https://github.com/clovaai/stargan-v2/blob/master/README.md#animal-faces-hq-dataset-afhq) |    2020     |
@@ -565,43 +568,70 @@ A collection of papers I am interested in.
 
 
 
-## DDPM
+## Diffusion
 
 - https://github.com/heejkoo/Awesome-Diffusion-Models
 - https://github.com/huggingface/diffusers
 - https://github.com/Jack000/glid-3-xl
 - https://github.com/SirWaffle/AIrtist-k-diffusion-wrap
+- https://github.com/altryne/awesome-ai-art-image-synthesis
 
-
+### Generation
 | Title                                                                                                         |            Venue            |                                   Code                                    | Year |
 | :------------------------------------------------------------------------------------------------------------ | :-------------------------: | :-----------------------------------------------------------------------: | :--: |
+| [Understanding Diffusion Models: A Unified Perspective](http://arxiv.org/abs/2208.11970) | arXiv:2208.11970 |  | 2022 |
 | 1 [Deep Unsupervised Learning Using Nonequilibrium Thermodynamics](http://arxiv.org/abs/1503.03585) | ArXiv:1503.03585 [Cond-Mat, q-Bio, Stat] |  | arXiv. 2015 |
 | 2 [Generative Modeling by Estimating Gradients of the Data Distribution](http://arxiv.org/abs/1907.05600) | NeurIPS |  | 2019 |
 | 3 [Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2006.11239)                                   | arXiv:2006.11239 [cs, stat] |                 [diffusion](https://github.com/hojonathanho/diffusion), [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)                                                          | 2020 |
 | [Denoising Diffusion Implicit Models](http://arxiv.org/abs/2010.02502) | ICLR | [DDIM] | arXiv. 2021 |
 | [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672v1) | ArXiv:2102.09672 [Cs.LG] | [improved-diffusion](https://github.com/openai/improved-diffusion) | 2021 |
 | [Score-Based Generative Modeling through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG12RRHS) | ICLR |  | 2021 |
-| :heart: [Diffusion Models Beat GANs on Image Synthesis](http://arxiv.org/abs/2105.05233)                              | arXiv:2105.05233 [cs, stat] |      [guided-diffusion](https://github.com/openai/guided-diffusion)       | 2021 |
 | 35 steps [Elucidating the Design Space of Diffusion-Based Generative Models](http://arxiv.org/abs/2206.00364) | ArXiv:2206.00364 [Cs, Stat] | [k-diffusion](https://github.com/crowsonkb/k-diffusion) | arXiv. 2022 |
 | 10 steps [DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps](http://arxiv.org/abs/2206.00927) | ArXiv:2206.00927 [Cs, Stat] | [dpm-solver](https://github.com/LuChengTHU/dpm-solver) | arXiv. 2022 |
-| [ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2108.02938)     |            ICCV             |                                                                           | 2021 |
 | :heart: [SDEdit: Image Synthesis and Editing with Stochastic Differential Equations](http://arxiv.org/abs/2108.01073) |    arXiv:2108.01073 [cs]    |              [SDEdit](https://github.com/ermongroup/SDEdit)               | 2021 |
 | [D2C: Diffusion-Denoising Models for Few-Shot Conditional Generation](http://arxiv.org/abs/2106.06819)        |    arXiv:2106.06819 [cs]    |                                                                           | 2021 |
 | [Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/abs/2112.03126v1)             |                             | [ddpm-segmentation](https://github.com/yandex-research/ddpm-segmentation) | 2021 |
-| :heart: [High-Resolution Image Synthesis with Latent Diffusion Models](http://arxiv.org/abs/2112.10752) | CVPR | [stable-diffusion](https://github.com/pesser/stable-diffusion), [latent-diffusion](https://github.com/CompVis/latent-diffusion), [stable-diffusion](https://github.com/CompVis/stable-diffusion)  | arXiv. 2022 |
 | [Analog Bits: Generating Discrete Data Using Diffusion Models with Self-Conditioning](http://arxiv.org/abs/2208.04202)  | | [bit-diffusion](https://github.com/lucidrains/bit-diffusion) | 2022 |
 | [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](http://arxiv.org/abs/2208.09392) | arXiv:2208.09392 | [Cold-Diffusion-Models](https://github.com/arpitbansal297/Cold-Diffusion-Models) | 2022 |
 | [Diffusion-GAN: Training GANs with Diffusion](http://arxiv.org/abs/2206.02262) | arXiv:2206.02262 | [Diffusion-GAN](https://github.com/Zhendong-Wang/Diffusion-GAN) | 2022 |
 | [Tackling the Generative Learning Trilemma with Denoising Diffusion GANs](http://arxiv.org/abs/2112.07804) | ICLR | [denoising-diffusion-gan](https://github.com/NVlabs/denoising-diffusion-gan) | 2022 |
+| [Score-Based Generative Modeling in Latent Space](http://arxiv.org/abs/2106.05931) | NeurIPS | [LSGM](https://github.com/NVlabs/LSGM) | arXiv. 2021 |
+| [Compositional Visual Generation with Composable Diffusion Models](http://arxiv.org/abs/2206.01714) | ECCV | [Composable-Diffusion](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch) | arXiv. 2022 |
+| [Accelerating Score-Based Generative Models with Preconditioned Diffusion Sampling](http://arxiv.org/abs/2207.02196) | ECCV | [PDS](https://github.com/fudan-zvg/PDS) | 2022 |
 
 
-
-## Text-to-image
+### Inversion
 | Title                                                                                                                  |            Venue             |                            Code                            | Year |
 | :--------------------------------------------------------------------------------------------------------------------- | :--------------------------: | :--------------------------------------------------------: | :--: |
+| [ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2108.02938) | ICCV | [ilvr_adm](https://github.com/jychoi118/ilvr_adm) | arXiv. 2021 |
+|  [Diffusion Models Beat GANs on Image Synthesis](http://arxiv.org/abs/2105.05233)                              | arXiv:2105.05233 [cs, stat] |      [guided-diffusion](https://github.com/openai/guided-diffusion)       | 2021 |
+| [An Image Is Worth One Word: Personalizing Text-to-Image Generation Using Textual Inversion](http://arxiv.org/abs/2208.01618) | arXiv:2208.01618 | [textual_inversion](https://github.com/rinongal/textual_inversion) | 2022 |
+| [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242v1) | arXiv:2208.12242 | [dreambooth](https://dreambooth.github.io/) | 2022 |
+
+### Text-to-image
+| Title                                                                                                                  |            Venue             |                            Code                            | Year |
+| :--------------------------------------------------------------------------------------------------------------------- | :--------------------------: | :--------------------------------------------------------: | :--: |
+| [Cross-Modal Contrastive Learning for Text-to-Image Generation](http://arxiv.org/abs/2101.04702) | CVPR |  | 2021 |
+| [Zero-Shot Text-to-Image Generation](http://arxiv.org/abs/2102.12092) | ICML |  | arXiv. 2021 |
+| [VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance](http://arxiv.org/abs/2204.08583) | ArXiv:2204.08583 |  | 2022 |
+| [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020v1) | ICML | [CLIP]  | 2021 |
+| [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](http://arxiv.org/abs/2112.10741) | arXiv:2112.10741 |  | 2022 |
 | [Hierarchical Text-Conditional Image Generation with CLIP Latents](http://arxiv.org/abs/2204.06125) | | [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) | 2022 |
 | [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487v1) | | [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch),  [Imagen-pytorch](https://github.com/cene555/Imagen-pytorch) | 2022 |
-| [Scaling Autoregressive Models for Content-Rich Text-to-Image Generation] n.d. | | [parti](https://github.com/google-research/parti) | |
+| [Scaling Autoregressive Models for Content-Rich Text-to-Image Generation] | | [parti](https://github.com/google-research/parti) | |
+| [CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers](http://arxiv.org/abs/2204.14217) | arXiv:2204.14217 |  | 2022 |
+| [High-Resolution Image Synthesis with Latent Diffusion Models](http://arxiv.org/abs/2112.10752) | CVPR | [stable-diffusion](https://github.com/pesser/stable-diffusion), [latent-diffusion](https://github.com/CompVis/latent-diffusion), [stable-diffusion](https://github.com/CompVis/stable-diffusion)  | arXiv. 2022 |
+
+
+### Image_to_image
+
+| Title                                                                                                                  |            Venue             |                            Code                            | Year |
+| :--------------------------------------------------------------------------------------------------------------------- | :--------------------------: | :--------------------------------------------------------: | :--: |
+| [Palette: Image-to-Image Diffusion Models](http://arxiv.org/abs/2111.05826) | arXiv:2111.05826 | [Palette-Image-to-Image-Diffusion-Models](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)  | 2022 |
+| [Image Super-Resolution via Iterative Refinement](http://arxiv.org/abs/2104.07636) | arXiv:2104.07636 | [Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)  | 2021 |
+
+
+
 
 
 ## 3D & NeRF
@@ -661,7 +691,7 @@ A collection of papers I am interested in.
 | :heavy_check_mark: [Generative Occupancy Fields for 3D Surface-Aware Image Synthesis](http://arxiv.org/abs/2111.00969)                                               |           NeurIPS           |                                                        | 2021 |
 | :heavy_check_mark: [Efficient Geometry-Aware 3D Generative Adversarial Networks](http://arxiv.org/abs/2112.07945)                                 |    arXiv:2112.07945 [cs]    |         [eg3d](https://github.com/NVlabs/eg3d)         | 2021 |
 | :heavy_check_mark: [3D-Aware Image Synthesis via Learning Structural and Textural Representations](http://arxiv.org/abs/2112.10759)               |    arXiv:2112.10759 [cs]    |                     [VolumeGAN]()                      | 2021 |
-| :heavy_check_mark: [GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation](http://arxiv.org/abs/2112.08867)                           |    arXiv:2112.08867 [cs]    |                                                        | 2021 |
+| :heavy_check_mark: [GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation](http://arxiv.org/abs/2112.08867)                           |    arXiv:2112.08867 [cs]    |      [GRAM](https://github.com/microsoft/GRAM)                                                  | 2021 |
 | [CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs](http://arxiv.org/abs/2203.16521)                                               |            CVPR             |                                                        | 2022 |
 | :heavy_check_mark: [Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images](http://arxiv.org/abs/2203.15926) |            CVPR             |                                                        | 2022 |
 | :heavy_check_mark: [Multi-View Consistent Generative Adversarial Networks for 3D-Aware Image Synthesis](http://arxiv.org/abs/2204.06307)          |            CVPR             |   [MVCGAN](https://github.com/Xuanmeng-Zhang/MVCGAN)   | 2022 |
@@ -674,6 +704,7 @@ A collection of papers I am interested in.
 | [Deep Deformable 3D Caricatures with Learned Shape Control](https://dl.acm.org/doi/10.1145/3528233.3530748) | SIGGRAPH |[DeepDeformable3DCaricatures](https://github.com/ycjungSubhuman/DeepDeformable3DCaricatures) | Vancouver BC Canada: ACM. 2022 |
 | [Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis](http://arxiv.org/abs/2207.10257) | ECCV | [SURF-GAN](https://github.com/jgkwak95/SURF-GAN) | arXiv. 2022 |
 | [Pix2NeRF: Unsupervised Conditional $\pi$-GAN for Single Image to Neural Radiance Fields Translation](http://arxiv.org/abs/2202.13162) |  arXiv:2202.13162 [cs]   |                                                                                                               | 2022 |
+| [Training and Tuning Generative Neural Radiance Fields for Attribute-Conditional 3D-Aware Face Generation] | | [TT-GNeRF](https://github.com/zhangqianhui/TT-GNeRF) | | |
 
 ### Diffusion
 
@@ -681,6 +712,13 @@ A collection of papers I am interested in.
 | :------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------------------------------------------------------------------------------: | :--: | :--: |
 | [DiffuStereo: High Quality Human Reconstruction via Diffusion-Based Stereo Using Sparse Cameras](http://arxiv.org/abs/2207.08000) | ECCV | [DiffuStereo](https://github.com/DSaurus/DiffuStereo) | arXiv. 2022 |
 
+### NeRF large scene
+
+| Title                                                                                                                                  |          Venue           |                                                     Code                                                      | Year | Cite |
+| :------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------------------------------------------------------------------------------: | :--: | :--: |
+| [Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](http://arxiv.org/abs/2112.10703) | CVPR |  | 2022 |
+| [Block-NeRF: Scalable Large Scene Neural View Synthesis](http://arxiv.org/abs/2202.05263) | CVPR | [BlockNeRFPytorch](https://github.com/dvlab-research/BlockNeRFPytorch) | arXiv. 2022 |
+|  [IBRNet: Learning Multi-View Image-Based Rendering](http://arxiv.org/abs/2102.13090)                                           |  arXiv:2102.13090 [cs]   | [IBRNet](https://github.com/googleinterns/IBRNet)                                                                                                              | 2021 |
 
 ### NeRF
 
@@ -703,7 +741,6 @@ A collection of papers I am interested in.
 | :heart: [Neural Sparse Voxel Fields](http://arxiv.org/abs/2007.11571)                                                                  |  arXiv:2007.11571 [cs]   |                               [NSVF](https://github.com/facebookresearch/NSVF)                                | 2021 |
 | [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](http://arxiv.org/abs/2103.13415)                      |           ICCV           |                                                                                                               | 2021 |
 | :heart: [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://arxiv.org/abs/2111.12077v2)                              | arXiv:2111.12077 [cs.CV] |                                                                                                               | 2021 |
-| :heart: [IBRNet: Learning Multi-View Image-Based Rendering](http://arxiv.org/abs/2102.13090)                                           |  arXiv:2102.13090 [cs]   |                                                                                                               | 2021 |
 | :heart: [Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control](http://arxiv.org/abs/2106.02019)                  |  arXiv:2106.02019 [cs]   |                                                                                                               | 2022 |
 | [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding]()                                                            |                          |                             [instant-ngp](https://github.com/NVlabs/instant-ngp)                              |      |      |
 | :heart: [Point-NeRF: Point-Based Neural Radiance Fields](http://arxiv.org/abs/2201.08845)                                                      |  arXiv:2201.08845 [cs]   |                               [pointnerf](https://github.com/Xharlie/pointnerf)                               | 2022 |
@@ -720,6 +757,7 @@ A collection of papers I am interested in.
 | [BARF: Bundle-Adjusting Neural Radiance Fields](http://arxiv.org/abs/2104.06405)                                                       |  arXiv:2104.06405 [cs]   |                                                                                                               | 2021 |
 | [Unified Implicit Neural Stylization](http://arxiv.org/abs/2204.01943)                                                                 |  arXiv:2204.01943 [cs]   |                                                                                                               | 2022 |
 | [SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image](http://arxiv.org/abs/2204.00928)                      |  arXiv:2204.00928 [cs]   |                                                                                                               | 2022 |
+| [NeRF-Editing: Geometry Editing of Neural Radiance Fields](http://arxiv.org/abs/2205.04978) | CVPR | [NeRF-Editing](https://github.com/IGLICT/NeRF-Editing) | 2022 |
 
 
 ### 3D inversion
@@ -805,6 +843,7 @@ A collection of papers I am interested in.
 | [Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control](http://arxiv.org/abs/2106.02019) | SIGGRAPH Asia | [Neural_Actor_Main_Code](https://github.com/lingjie0206/Neural_Actor_Main_Code) | arXiv. 2021 |
 | :heart: [Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis](http://arxiv.org/abs/2204.11798) | arXiv:2204.11798 [cs] |  [gnr](https://github.com/generalizable-neural-performer/gnr)    | 2022 |
 | [NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575v1) | ECCV | [ml-neuman](https://github.com/apple/ml-neuman)  | 2022 |
+| [Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis](http://arxiv.org/abs/2201.01683) | CVPR | [surface-aligned-nerf](https://github.com/pfnet-research/surface-aligned-nerf) | arXiv. 2022 |
 
 
 ### Body Generation
