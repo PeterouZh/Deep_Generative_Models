@@ -12,6 +12,10 @@ A collection of papers I am interested in.
 - https://ait.ethz.ch/people/hilliges/
 - https://vlg.inf.ethz.ch/publications.html
 
+## Scholar
+
+- https://github.com/tangjiapeng
+
 ## Renderer
 
 - https://github.com/eth-ait/aitviewer
@@ -452,6 +456,8 @@ A collection of papers I am interested in.
 | [The ArtBench Dataset: Benchmarking Generative Models with Artworks](https://github.com/liaopeiyuan/artbench) | 2022 |
 | [DwNet: Dense Warp-Based Network for Pose-Guided Human Video Generation](http://arxiv.org/abs/1910.09139) | BMVC | [Fashion](https://github.com/ubc-vision/DwNet)  | 2019 |
 | [MoCoGAN: Decomposing Motion and Content for Video Generation](http://arxiv.org/abs/1707.04993) | CVPR | [Tai-Chi] | 2018 |
+| [Text2Human: Text-Driven Controllable Human Image Generation]() | ACM Transactions on Graphics (TOG) | [DeepFashion-MultiModal](https://github.com/yumingj/DeepFashion-MultiModal)  | 2022 |
+
 
 
 ### alias (ref)
@@ -465,6 +471,15 @@ A collection of papers I am interested in.
 ### Texture
 
 - https://github.com/carson-katri/dream-textures
+
+### Tiles
+
+| Title                                                                                                       |            Venue            | Code | Year |
+| :---------------------------------------------------------------------------------------------------------- | :-------------------------: | :--: | :--: |
+| [TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures](http://arxiv.org/abs/1904.12795) | ACM Transactions on Graphics |  | 2019 |
+| [InsetGAN for Full-Body Image Generation](http://arxiv.org/abs/2203.07293) | arXiv:2203.07293 [cs] |  | 2022 |
+| [Collaging Class-Specific GANs for Semantic Image Synthesis](http://arxiv.org/abs/2110.04281) | ICCV |  | 2021 |
+
 
 
 ## GAN application
@@ -613,6 +628,7 @@ A collection of papers I am interested in.
 | [Compositional Visual Generation with Composable Diffusion Models](http://arxiv.org/abs/2206.01714) | ECCV | [Composable-Diffusion](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch) | arXiv. 2022 |
 | [Accelerating Score-Based Generative Models with Preconditioned Diffusion Sampling](http://arxiv.org/abs/2207.02196) | ECCV | [PDS](https://github.com/fudan-zvg/PDS) | 2022 |
 | [Diffusion Autoencoders: Toward a Meaningful and Decodable Representation](https://openaccess.thecvf.com/content/CVPR2022/html/Preechakul_Diffusion_Autoencoders_Toward_a_Meaningful_and_Decodable_Representation_CVPR_2022_paper.html) | CVPR | [diffae](https://github.com/phizaz/diffae)  | 2022 |
+| [Cascaded Diffusion Models for High Fidelity Image Generation](http://arxiv.org/abs/2106.15282) | arXiv:2106.15282 |  | 2021 |
 
 
 ### Inversion
@@ -649,6 +665,12 @@ A collection of papers I am interested in.
 | [Palette: Image-to-Image Diffusion Models](http://arxiv.org/abs/2111.05826) | arXiv:2111.05826 | [Palette-Image-to-Image-Diffusion-Models](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)  | 2022 |
 | [Image Super-Resolution via Iterative Refinement](http://arxiv.org/abs/2104.07636) | arXiv:2104.07636 | [Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)  | 2021 |
 
+### 3D
+
+| Title                                                                                                                  |            Venue             |                            Code                            | Year |
+| :--------------------------------------------------------------------------------------------------------------------- | :--------------------------: | :--------------------------------------------------------: | :--: |
+| [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](http://arxiv.org/abs/2211.09869) | arXiv:2211.09869 |  | 2022 |
+| [Magic3D: High-Resolution Text-to-3D Content Creation](http://arxiv.org/abs/2211.10440) | arXiv:2211.10440 |  | 2022 |
 
 
 
@@ -692,6 +714,8 @@ A collection of papers I am interested in.
 | [A Structured Dictionary Perspective on Implicit Neural Representations](http://arxiv.org/abs/2112.01917) | arXiv:2112.01917 [cs] |                                                  | 2021 |
 
 ### 3D & NeRF GANs
+
+- https://mrtornado24.github.io/Next3D/
 
 | Title                                                                                                                                             |            Venue            |                          Code                          | Year | Cite |
 | :------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------: | :----------------------------------------------------: | :--: | :--: |
@@ -741,6 +765,8 @@ A collection of papers I am interested in.
 
 ### NeRF
 
+- https://github.com/kakaobrain/NeRF-Factory/ :heart:
+- https://github.com/openxrlab/xrnerf
 - https://github.com/ActiveVisionLab/nerfmm
 - https://github.com/ventusff/improved-nerfmm
 - https://github.com/Kai-46/nerfplusplus
@@ -779,6 +805,7 @@ A collection of papers I am interested in.
 | [SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image](http://arxiv.org/abs/2204.00928)                      |  arXiv:2204.00928 [cs]   |                                                                                                               | 2022 |
 | [NeRF-Editing: Geometry Editing of Neural Radiance Fields](http://arxiv.org/abs/2205.04978) | CVPR | [NeRF-Editing](https://github.com/IGLICT/NeRF-Editing) | 2022 |
 | [PixelNeRF: Neural Radiance Fields from One or Few Images](http://arxiv.org/abs/2012.02190) | CVPR | [pixel-nerf](https://github.com/sxyu/pixel-nerf) | 2021 |
+| [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://arxiv.org/abs/2112.03907v1) | CVPR | [refnerf](https://dorverbin.github.io/refnerf/)  | 2022 |
 
 
 ### 3D inversion
@@ -817,6 +844,8 @@ A collection of papers I am interested in.
 - https://github.com/clach/Realtime-Vulkan-Hair
 
 ### Loose garment
+
+- https://cape.is.tue.mpg.de/dataset.html
 
 | Title                                                                                                                                      |         Venue         |                                       Code                                        | Year | Cite |
 | :----------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :-------------------------------------------------------------------------------: | :--: | :--: |
@@ -908,12 +937,23 @@ A collection of papers I am interested in.
 | [SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video](http://arxiv.org/abs/2201.12792)                        | arXiv:2201.12792 [cs] |      | 2022 |
 
 
+### 3DMM Face
+
+- https://github.com/tencent-ailab/hifi3dface
+- https://github.com/ascust/3DMM-Fitting-Pytorch
+
+| Title                                                                                                                     |         Venue         |                                     Code                                     | Year |
+| :------------------------------------------------------------------------------------------------------------------------ | :-------------------: | :--------------------------------------------------------------------------: | :--: |
+| [Neural Head Reenactment with Latent Pose Descriptors](http://arxiv.org/abs/2004.12000)                                   |         CVPR          | [latent-pose-reenactment](https://github.com/shrubb/latent-pose-reenactment) | 2020 |
+| [Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry](http://arxiv.org/abs/2110.09772)                  | arXiv:2110.09772 [cs] |                                                                              | 2021 |
+| [REALY: Rethinking the Evaluation of 3D Face Reconstruction](http://arxiv.org/abs/2203.09729) | ECCV | [REALY](https://github.com/czh-98/REALY)  | 2022 |
 
 ### 3D FACE Avatars
 
 - https://github.com/TimoBolkart/BFM_to_FLAME
 - https://github.com/HavenFeng/photometric_optimization
 - https://github.com/soubhiksanyal/FLAME_PyTorch
+- https://github.com/Azmarie/Face-Morphing
 
 | Title                                                                                                                                     |            Venue             |                                  Code                                  | Year |
 | :---------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------: | :--------------------------------------------------------------------: | :--: |
@@ -939,6 +979,7 @@ A collection of papers I am interested in.
 | :--------------------------------------------------------------------------------------------------------- | :-------------------: | :-------------------------------------------------------------: | ---- |
 | [Unified Implicit Neural Stylization](http://arxiv.org/abs/2204.01943) | ECCV |  | arXiv. 2022 |
 | [ARF: Artistic Radiance Fields](http://arxiv.org/abs/2206.06360) | ECCV | [ARF-svox2](https://github.com/Kai-46/ARF-svox2)  | arXiv. 2022 |
+| [UPST-NeRF: Universal Photorealistic Style Transfer of Neural Radiance Fields for 3D Scene](http://arxiv.org/abs/2208.07059) | arXiv:2208.07059 | [UPST-NeRF](https://github.com/semchan/UPST-NeRF)  | 2022 |
 
 
 ### Face Style
@@ -950,6 +991,9 @@ A collection of papers I am interested in.
 | [Fix the Noise: Disentangling Source Feature for Transfer Learning of StyleGAN](http://arxiv.org/abs/2204.14079) | ArXiv:2204.14079 [Cs] | [FixNoise](https://github.com/LeeDongYeun/FixNoise)  | arXiv. 2022 |
 | [AnimeCeleb: Large-Scale Animation CelebHeads Dataset for Head Reenactment](http://arxiv.org/abs/2111.07640) | ECCV | [AnimeCeleb](https://github.com/kangyeolk/AnimeCeleb) | arXiv. 2022 |
 | [DCT-Net: Domain-Calibrated Translation for Portrait Stylization](http://arxiv.org/abs/2207.02426) | ACM Transactions on Graphics | [DCT-Net](https://github.com/menyifang/DCT-Net) | 2022 |
+| [VToonify: Controllable High-Resolution Portrait Video Style Transfer]() | ACM Transactions on Graphics (TOG) | [VToonify](https://github.com/williamyang1991/VToonify) | n.d. |
+| [BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation](https://arxiv.org/abs/2110.11728v1) | NeurIPS | [BlendGAN](https://github.com/onion-liu/BlendGAN)  | 2021 |
+| [Unpaired Cartoon Image Synthesis via Gated Cycle Mapping]() | CVPR |  | 2022 |
 
 
 ### Face Animation
@@ -1059,6 +1103,7 @@ A collection of papers I am interested in.
 
 ### Datasets
 - https://github.com/karfly/human36m-camera-parameters
+- https://github.com/deepimagination/TalkingHead-1KH
 
 | Title                                                                                                                        |                       Venue                        |                              Code                               | Year |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
@@ -1109,15 +1154,8 @@ A collection of papers I am interested in.
 | :heart: [FreeStyleGAN: Free-View Editable Portrait Rendering with the Camera Manifold](http://arxiv.org/abs/2109.09378)                    | arXiv:2109.09378 [cs] |                                                              | 2021 |
 | [PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering](http://arxiv.org/abs/2109.08379)                        |         ICCV          |       [PIRender](https://github.com/RenYurui/PIRender)       | 2021 |
 
-### 3DMM Face
 
-- https://github.com/tencent-ailab/hifi3dface
-- https://github.com/ascust/3DMM-Fitting-Pytorch
 
-| Title                                                                                                                     |         Venue         |                                     Code                                     | Year |
-| :------------------------------------------------------------------------------------------------------------------------ | :-------------------: | :--------------------------------------------------------------------------: | :--: |
-| [Neural Head Reenactment with Latent Pose Descriptors](http://arxiv.org/abs/2004.12000)                                   |         CVPR          | [latent-pose-reenactment](https://github.com/shrubb/latent-pose-reenactment) | 2020 |
-| [Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry](http://arxiv.org/abs/2110.09772)                  | arXiv:2110.09772 [cs] |                                                                              | 2021 |
 
 ### Point Cloud
 
