@@ -27,6 +27,12 @@ A collection of papers I am interested in.
 
 - https://github.com/pybind/cmake_example
 
+## Video
+
+- https://github.com/mli/autocut
+
+
+
 ## Project
 
 - [mmgeneration](https://github.com/open-mmlab/mmgeneration)
@@ -594,6 +600,10 @@ A collection of papers I am interested in.
 | [Density Estimation Using Real NVP](http://arxiv.org/abs/1605.08803) | ICLR |  | arXiv. 2017 |
 
 
+## ChatGPT
+
+- https://github.com/golfzert/chatgpt-chinese-prompt-hack
+- https://github.com/rawandahmad698/PyChatGPT
 
 ## Diffusion
 
@@ -604,6 +614,7 @@ A collection of papers I am interested in.
 - https://github.com/altryne/awesome-ai-art-image-synthesis
 - https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy
 - https://github.com/Jack000/glid-3-xl-stable
+- https://github.com/Stability-AI/stablediffusion
 
 ### Generation
 | Title                                                                                                         |            Venue            |                                   Code                                    | Year |
@@ -656,6 +667,7 @@ A collection of papers I am interested in.
 | [CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers](http://arxiv.org/abs/2204.14217) | arXiv:2204.14217 |  | 2022 |
 | [High-Resolution Image Synthesis with Latent Diffusion Models](http://arxiv.org/abs/2112.10752) | CVPR | [stable-diffusion](https://github.com/pesser/stable-diffusion), [latent-diffusion](https://github.com/CompVis/latent-diffusion), [stable-diffusion](https://github.com/CompVis/stable-diffusion)  | arXiv. 2022 |
 | [Prompt-to-Prompt Image Editing with Cross Attention Control](http://arxiv.org/abs/2208.01626) | arXiv:2208.01626 | [CrossAttentionControl](https://github.com/bloc97/CrossAttentionControl) | 2022 |
+| [SINE: SINgle Image Editing with Text-to-Image Diffusion Models](http://arxiv.org/abs/2212.04489) | arXiv:2212.04489 | [SINE](https://github.com/zhang-zx/SINE) | 2022 |
 
 
 ### Image_to_image
@@ -667,11 +679,18 @@ A collection of papers I am interested in.
 
 ### 3D
 
+- https://github.com/neverix/pixel-dreamfusion
+
 | Title                                                                                                                  |            Venue             |                            Code                            | Year |
 | :--------------------------------------------------------------------------------------------------------------------- | :--------------------------: | :--------------------------------------------------------: | :--: |
 | [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](http://arxiv.org/abs/2211.09869) | arXiv:2211.09869 |  | 2022 |
 | [Magic3D: High-Resolution Text-to-3D Content Creation](http://arxiv.org/abs/2211.10440) | arXiv:2211.10440 |  | 2022 |
 
+### Detection
+
+| Title                                                                                                                  |            Venue             |                            Code                            | Year |
+| :--------------------------------------------------------------------------------------------------------------------- | :--------------------------: | :--------------------------------------------------------: | :--: |
+| [DiffusionInst: Diffusion Model for Instance Segmentation](http://arxiv.org/abs/2212.02773) | arXiv:2212.02773 | [DiffusionInst](https://github.com/chenhaoxing/DiffusionInst) | 2022 |
 
 
 
@@ -754,6 +773,8 @@ A collection of papers I am interested in.
 | Title                                                                                                                                  |          Venue           |                                                     Code                                                      | Year | Cite |
 | :------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------------------------------------------------------------------------------: | :--: | :--: |
 | [DiffuStereo: High Quality Human Reconstruction via Diffusion-Based Stereo Using Sparse Cameras](http://arxiv.org/abs/2207.08000) | ECCV | [DiffuStereo](https://github.com/DSaurus/DiffuStereo) | arXiv. 2022 |
+| [DiffRF: Rendering-Guided 3D Radiance Field Diffusion](http://arxiv.org/abs/2212.01206) | arXiv:2212.01206 | [DiffRF](https://sirwyver.github.io/DiffRF/)  | 2022 |
+
 
 ### NeRF large scene
 
@@ -773,6 +794,7 @@ A collection of papers I am interested in.
 - https://github.com/kwea123/nerf_pl
 - https://github.com/NVlabs/instant-ngp
 - https://github.com/sxyu/nerfvis
+- https://github.com/frozoul/4K-NeRF
 
 | Title                                                                                                                                  |          Venue           |                                                     Code                                                      | Year | Cite |
 | :------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------------------------------------------------------------------------------: | :--: | :--: |
@@ -817,6 +839,7 @@ A collection of papers I am interested in.
 | [Pix2NeRF: Unsupervised Conditional $\pi$-GAN for Single Image to Neural Radiance Fields Translation](http://arxiv.org/abs/2202.13162) | ArXiv:2202.13162 [Cs] |  | arXiv. 2022 |
 | [Monocular 3D Object Reconstruction with GAN Inversion] | ECCV |  | 2022 |
 | [INeRF: Inverting Neural Radiance Fields for Pose Estimation] IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | | [inerf](https://github.com/salykovaa/inerf)  | 2021 |
+| [Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion](http://arxiv.org/abs/2211.11674) | arXiv:2211.11674 | [nerf-from-image](https://github.com/google-research/nerf-from-image) | 2022 |
 
 
 
@@ -906,9 +929,11 @@ A collection of papers I am interested in.
 | [ARAH: Animatable Volume Rendering of Articulated Human SDFs] |  ECCV | [arah](https://github.com/taconite/arah-release) | 2022 |
 | [Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control](http://arxiv.org/abs/2106.02019) | SIGGRAPH Asia | [Neural_Actor_Main_Code](https://github.com/lingjie0206/Neural_Actor_Main_Code) | arXiv. 2021 |
 | :heart: [Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis](http://arxiv.org/abs/2204.11798) | arXiv:2204.11798 [cs] |  [gnr](https://github.com/generalizable-neural-performer/gnr)    | 2022 |
-| [NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575v1) | ECCV | [ml-neuman](https://github.com/apple/ml-neuman)  | 2022 |
+| :heart: [NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575v1) | ECCV | [ml-neuman](https://github.com/apple/ml-neuman)  | 2022 |
 | [Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis](http://arxiv.org/abs/2201.01683) | CVPR | [surface-aligned-nerf](https://github.com/pfnet-research/surface-aligned-nerf) | arXiv. 2022 |
 | [LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling](http://arxiv.org/abs/2208.08622) | ECCV | [LoRD](https://github.com/BoyanJIANG/LoRD)  | 2022 |
+| [TAVA: Template-Free Animatable Volumetric Actors](http://arxiv.org/abs/2206.08929) | ECCV | [tava](https://github.com/facebookresearch/tava) | 2022 |
+| [Fast-SNARF: A Fast Deformer for Articulated Neural Fields]() | | [fast-snarf](https://github.com/xuchen-ethz/fast-snarf) |  2022 |
 
 
 ### Body Generation
@@ -928,6 +953,7 @@ A collection of papers I am interested in.
 | [Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations](http://arxiv.org/abs/2204.08839) | ECCV | [ENARF-GAN](https://github.com/nogu-atsu/ENARF-GAN) | 2022 |
 | [Generative Neural Articulated Radiance Fields](http://arxiv.org/abs/2206.14314) | ArXiv:2206.14314 [Cs] | [gnarf](http://www.computationalimaging.org/publications/gnarf/) | arXiv. 2022 |
 | [AvatarGen: A 3D Generative Model for Animatable Human Avatars](http://arxiv.org/abs/2208.00561) | ArXiv:2208.00561 [Cs] | [AvatarGen](https://github.com/jfzhang95/AvatarGen)  | arXiv. 2022 |
+| [EVA3D: Compositional 3D Human Generation from 2D Image Collections](http://arxiv.org/abs/2210.04888) | arXiv:2210.04888 |  | 2022 |
 
 
 ### Body from video
@@ -1109,6 +1135,7 @@ A collection of papers I am interested in.
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------------------: | ---- |
 | [Structured Local Radiance Fields for Human Avatar Modeling](http://arxiv.org/abs/2203.14478) | CVPR | [THUman4.0-Dataset](https://github.com/ZhengZerong/THUman4.0-Dataset)  | 2022 |
 | [Multiface: A Dataset for Neural Face Rendering](https://arxiv.org/abs/2207.11243v1) | ArXiv:2207.11243 [Cs.CV] | [multiface](https://github.com/facebookresearch/multiface)  | 2022 |
+| [ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations](http://arxiv.org/abs/2203.14510) | CVPR | [ImFace](https://github.com/MingwuZheng/ImFace) | 2022 |
 
 
 ### FLAME estimation
@@ -1307,6 +1334,7 @@ A collection of papers I am interested in.
 ### Light architecture
 
 - https://github.com/yoshitomo-matsubara/torchdistill
+- https://github.com/milesial/Pytorch-UNet
 
 | Title                                                                                                                                |         Venue         | Code | Year |
 | :----------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :--: | :--: |
@@ -1390,6 +1418,7 @@ A collection of papers I am interested in.
 ### Transformer
 
 - https://github.com/xxxnell/how-do-vits-work
+- https://github.com/hamidkazemi22/vit-visualization
 
 | Title                                                                                                                                                  |            Venue            |                       Code                       | Year |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------: | :----------------------------------------------: | :--: |
