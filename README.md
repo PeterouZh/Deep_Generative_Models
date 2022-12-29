@@ -12,9 +12,6 @@ A collection of papers I am interested in.
 - https://ait.ethz.ch/people/hilliges/
 - https://vlg.inf.ethz.ch/publications.html
 
-## Scholar
-
-- https://github.com/tangjiapeng
 
 ## Renderer
 
@@ -934,6 +931,7 @@ A collection of papers I am interested in.
 | [LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling](http://arxiv.org/abs/2208.08622) | ECCV | [LoRD](https://github.com/BoyanJIANG/LoRD)  | 2022 |
 | [TAVA: Template-Free Animatable Volumetric Actors](http://arxiv.org/abs/2206.08929) | ECCV | [tava](https://github.com/facebookresearch/tava) | 2022 |
 | [Fast-SNARF: A Fast Deformer for Articulated Neural Fields]() | | [fast-snarf](https://github.com/xuchen-ethz/fast-snarf) |  2022 |
+| [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](http://arxiv.org/abs/2212.10550) | arXiv:2212.10550 | [InstantAvatar](https://tijiang13.github.io/InstantAvatar/) | 2022 |
 
 
 ### Body Generation
@@ -1528,3 +1526,9 @@ A collection of papers I am interested in.
 | :------------------------------------------------------------------------------- | :-----------------------------------: | :-------------------------------------------: | :--: |
 | [Image Denoising by Sparse 3-D Transform-Domain Collaborative Filtering]()       | IEEE Transactions on Image Processing |                                               | 2007 |
 | [Towards Flexible Blind JPEG Artifacts Removal](http://arxiv.org/abs/2109.14573) |      arXiv:2109.14573 [cs, eess]      | [FBCNN](https://github.com/jiaxi-jiang/FBCNN) | 2021 |
+
+
+## Scholar
+
+- https://github.com/tangjiapeng
+- [Fisher Yu](https://www.yf.io/)
