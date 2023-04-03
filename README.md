@@ -758,7 +758,7 @@ A collection of papers I am interested in.
 | :heavy_check_mark: [IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-Aware Portrait Synthesis](http://arxiv.org/abs/2205.15517) | arXiv:2205.15517 |  | 2022 |
 | :heavy_check_mark: [EpiGRAF: Rethinking Training of 3D GANs](http://arxiv.org/abs/2206.10535) | ArXiv:2206.10535 [Cs] | [epigraf](https://github.com/universome/epigraf)  | arXiv. 2022 |
 | https://github.com/rethinking-3d-gans/code | | | |
-| [Generative Multiplane Images: Making a 2D GAN 3D-Aware](http://arxiv.org/abs/2207.10642) | ECCV |  | arXiv. 2022 |
+| :heart: [Generative Multiplane Images: Making a 2D GAN 3D-Aware](http://arxiv.org/abs/2207.10642) | ECCV | [ml-gmpi](https://github.com/apple/ml-gmpi) | arXiv. 2022 |
 | [GAUDI: A Neural Architect for Immersive 3D Scene Generation](http://arxiv.org/abs/2207.13751) | ArXiv:2207.13751 [Cs] | [ml-gaudi](https://github.com/apple/ml-gaudi)  | arXiv. 2022 |
 | [Deep Deformable 3D Caricatures with Learned Shape Control](https://dl.acm.org/doi/10.1145/3528233.3530748) | SIGGRAPH |[DeepDeformable3DCaricatures](https://github.com/ycjungSubhuman/DeepDeformable3DCaricatures) | Vancouver BC Canada: ACM. 2022 |
 | [Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis](http://arxiv.org/abs/2207.10257) | ECCV | [SURF-GAN](https://github.com/jgkwak95/SURF-GAN) | arXiv. 2022 |
